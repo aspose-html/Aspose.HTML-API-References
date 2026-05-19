@@ -1,0 +1,30 @@
+---
+title: "Unit.FromPicas"
+second_title: "Riferimento API Aspose.HTML per Java"
+description: "Metodo Unit. Restituisce un oggetto Length rappresentato in pica"
+type: docs
+
+url: /it/java/com.aspose.html.drawing/unit/frompicas/
+---
+## Unit.FromPicas method
+
+Restituisce un oggetto [`Length`](../../length/) rappresentato in pica.
+
+```java
+public static Length FromPicas(double value)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| valore | Double | Il valore. |
+
+### Valore di ritorno
+
+Restituisce un oggetto [`Length`](../../length/).
+
+### Vedi anche
+
+* class [Length](../../length/)
+* class [Unit](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

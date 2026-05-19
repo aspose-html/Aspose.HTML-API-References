@@ -1,0 +1,26 @@
+---
+title: "Interfaccia IBrush"
+second_title: "Riferimento API Aspose.HTML per Java"
+description: "interfaccia com.aspose.html.drawing.IBrush. Dichiara il metodo per ottenere il tipo di pennello"
+type: docs
+
+url: /it/java/com.aspose.html.drawing/ibrush/
+---
+## IBrush interface
+
+Dichiara il metodo per ottenere il tipo di pennello.
+
+```java
+public interface IBrush : IDisposable
+```
+
+## Proprietà
+
+| Nome | Descrizione |
+| --- | --- |
+| [getType](../../com.aspose.html.drawing/ibrush/type/) Ottieni il tipo di pennello; |
+
+### Vedi anche
+
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../)

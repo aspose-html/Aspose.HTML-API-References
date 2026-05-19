@@ -1,0 +1,54 @@
+---
+title: "com.aspose.html.dom.css"
+second_title: "Riferimento API Aspose.HTML per Java"
+description: "Fornisce interfacce per la Specifica di Stile DOM Level 2. Cascading Style Sheets (CSS) è un linguaggio di fogli di stile che consente a autori e utenti di applicare stili, ad esempio caratteri e spaziature, a documenti strutturati, ad esempio documenti HTML e applicazioni XML. Supporta fogli di stile specifici per media in modo che gli autori possano adattare la presentazione dei loro documenti a browser visivi, dispositivi audio, stampanti, dispositivi braille, dispositivi portatili, ecc. Supporta inoltre il posizionamento dei contenuti, le funzionalità di layout a tabella per l'internazionalizzazione e alcune proprietà relative all'interfaccia utente. Separando lo stile di presentazione dei documenti dal loro contenuto, CSS semplifica la creazione di contenuti Web e la manutenzione dei siti."
+type: docs
+
+url: /it/java/com.aspose.html.dom.css/
+---
+Fornisce interfacce per la Specifica di Stile DOM Livello 2. I Fogli di Stile a Cascata (CSS) sono un linguaggio di fogli di stile che consente a autori e utenti di applicare stili (ad es., caratteri e spaziature) a documenti strutturati (ad es., documenti HTML e applicazioni XML). Supporta fogli di stile specifici per media, così gli autori possono adattare la presentazione dei loro documenti a browser visuali, dispositivi audio, stampanti, dispositivi braille, dispositivi portatili, ecc. Supporta inoltre il posizionamento dei contenuti, il layout delle tabelle, funzionalità per l'internazionalizzazione e alcune proprietà relative all'interfaccia utente. Separando lo stile di presentazione dei documenti dal loro contenuto, CSS semplifica la creazione di contenuti Web e la manutenzione dei siti.
+
+## Classi
+
+| Classe | Descrizione |
+| --- | --- |
+| [Counter](./counter/) | L'interfaccia Counter viene utilizzata per rappresentare qualsiasi valore di contatore o di funzione counters. Questa interfaccia riflette i valori nella proprietà di stile sottostante. |
+| [CSSPrimitiveValue](./cssprimitivevalue/) | L'interfaccia CSSPrimitiveValue deriva dall'interfaccia CSSValue e rappresenta il valore calcolato corrente di una proprietà CSS. |
+| [CSSValue](./cssvalue/) | Rappresenta un valore semplice o complesso. Un oggetto CSSValue si verifica solo in un contesto di una proprietà CSS. |
+| [CSSValueList](./cssvaluelist/) | L'interfaccia CSSValueList fornisce l'astrazione di una collezione ordinata di valori CSS. |
+| [Rect](./rect/) | L'interfaccia Rect viene utilizzata per rappresentare qualsiasi valore rect. Questa interfaccia riflette i valori nella proprietà di stile sottostante. Pertanto, le modifiche apportate agli oggetti [`CSSPrimitiveValue`](../com.aspose.html.dom.css/cssprimitivevalue/) modificano la proprietà di stile. |
+| [RGBColor](./rgbcolor/) | L'interfaccia RGBColor viene utilizzata per rappresentare qualsiasi valore di colore RGB. Questa interfaccia riflette i valori nella proprietà di stile sottostante. Pertanto, le modifiche apportate agli oggetti CSSPrimitiveValue modificano la proprietà di stile. |
+## Interfacce
+
+| Interfaccia | Descrizione |
+| --- | --- |
+| [ICSS2Properties](./icss2properties/) | L'interfaccia CSS2Properties rappresenta un meccanismo di comodità per recuperare e impostare le proprietà all'interno di una [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/). Gli attributi di questa interfaccia corrispondono a tutte le proprietà specificate in CSS2. Ottenere un attributo di questa interfaccia è equivalente a chiamare il metodo getPropertyValue dell'interfaccia [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/). Impostare un attributo di questa interfaccia è equivalente a chiamare il metodo setProperty dell'interfaccia [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/). |
+| [ICSSCharsetRule](./icsscharsetrule/) | L'interfaccia CSSCharsetRule rappresenta una regola @charset in un foglio di stile CSS. Il valore dell'attributo encoding non influisce sulla codifica dei dati di testo negli oggetti DOM; questa codifica è sempre UTF-16. Dopo il caricamento di un foglio di stile, il valore dell'attributo encoding corrisponde al valore trovato nella regola @charset. Se non era presente alcun @charset nel documento originale, non viene creata alcuna CSSCharsetRule. Il valore dell'attributo encoding può anche essere usato come suggerimento per la codifica utilizzata durante la serializzazione del foglio di stile. |
+| [ICSSCounterStyleRule](./icsscounterstylerule/) | L'interfaccia CSSCounterStyleRule rappresenta una regola @counter-style che consente agli autori di definire uno stile di contatore personalizzato. |
+| [ICSSFontFaceRule](./icssfontfacerule/) | L'interfaccia CSSFontFaceRule rappresenta una regola @font-face in un foglio di stile CSS. La regola @font-face è utilizzata per contenere un insieme di descrizioni dei font. |
+| [ICSSImportRule](./icssimportrule/) | L'interfaccia CSSImportRule rappresenta una regola @import all'interno di un foglio di stile CSS. La regola @import è utilizzata per importare regole di stile da altri fogli di stile. |
+| [ICSSKeyframeRule](./icsskeyframerule/) | L'interfaccia [`CSSKeyframeRule`](../com.aspose.html.dom.css/icsskeyframerule/) descrive un oggetto che rappresenta un insieme di stili per un determinato keyframe. Corrisponde al contenuto di un singolo keyframe di una regola @keyframes. |
+| [ICSSKeyframesRule](./icsskeyframesrule/) | La proprietà name dell'interfaccia CSSKeyframeRule ottiene e imposta il nome dell'animazione come utilizzato dalla proprietà animation-name. |
+| [ICSSMarginRule](./icssmarginrule/) | L'interfaccia CSSMarginRule rappresenta una regola di margine (ad esempio @top-left) in una regola @page. |
+| [ICSSMediaRule](./icssmediarule/) | L'interfaccia CSSMediaRule rappresenta una regola @media in un foglio di stile CSS. Una regola @media può essere utilizzata per delimitare regole di stile per tipi di media specifici. |
+| [ICSSPageRule](./icsspagerule/) | L'interfaccia CSSPageRule rappresenta una regola @page all'interno di un foglio di stile CSS. La regola @page è utilizzata per specificare le dimensioni, l'orientamento, i margini, ecc. di una pagina per media paginati. |
+| [ICSSRule](./icssrule/) | L'interfaccia CSSRule è l'interfaccia base astratta per qualsiasi tipo di dichiarazione CSS. Include sia set di regole che at-rule. Un'implementazione dovrebbe preservare tutte le regole specificate in un foglio di stile CSS, anche se la regola non è riconosciuta dal parser. Le regole non riconosciute sono rappresentate tramite l'interfaccia. |
+| [ICSSRuleList](./icssrulelist/) | Una CSSRuleList rappresenta una collezione ordinata di oggetti [`CSSRule`](../com.aspose.html.dom.css/icssrule/) in sola lettura. |
+| [ICSSStyleDeclaration](./icssstyledeclaration/) | L'interfaccia CSSStyleDeclaration rappresenta un oggetto che è un blocco di dichiarazione CSS e espone informazioni di stile e vari metodi e proprietà relativi allo stile. |
+| [ICSSStyleRule](./icssstylerule/) | L'interfaccia CSSStyleRule rappresenta una singola regola di stile CSS. L'attributo selectorText, al recupero, deve restituire il risultato della serializzazione del gruppo di selettori associato. |
+| [ICSSStyleSheet](./icssstylesheet/) | L'interfaccia CSSStyleSheet rappresenta un singolo foglio di stile CSS e consente di ispezionare e modificare l'elenco delle regole contenute nel foglio di stile. Eredita proprietà e metodi dal suo genitore, [`IStyleSheet`](../com.aspose.html.dom.css/istylesheet/). |
+| [ICSSUnknownRule](./icssunknownrule/) | L'interfaccia CSSUnknownRule rappresenta una regola at-rule non supportata da questo user agent. |
+| [ICSSValueList](./icssvaluelist/) | L'interfaccia CSSValueList deriva dall'interfaccia [`CSSValue`](../com.aspose.html.dom.css/cssvalue/) e fornisce l'astrazione di una collezione ordinata di valori CSS. |
+| [IDocumentCSS](./idocumentcss/) | Questa interfaccia rappresenta un documento con una vista CSS. |
+| [IDocumentStyle](./idocumentstyle/) | L'interfaccia DocumentStyle fornisce un meccanismo mediante il quale i fogli di stile incorporati in un documento possono essere recuperati. Ci si aspetta che un'istanza dell'interfaccia DocumentStyle possa essere ottenuta utilizzando metodi di casting specifici del binding su un'istanza dell'interfaccia Document. |
+| [IElementCSSInlineStyle](./ielementcssinlinestyle/) | Le informazioni di stile inline associate agli elementi sono esposte tramite l'attributo style. Questo rappresenta il contenuto dell'attributo STYLE per gli elementi HTML (o per elementi in altri schemi o DTD che utilizzano l'attributo STYLE allo stesso modo). Ci si aspetta che un'istanza dell'interfaccia ElementCSSInlineStyle possa essere ottenuta utilizzando metodi di casting specifici del binding su un'istanza dell'interfaccia Element quando l'elemento supporta informazioni di stile CSS inline. |
+| [ILinkStyle](./ilinkstyle/) | L'interfaccia LinkStyle fornisce un meccanismo mediante il quale un foglio di stile può essere recuperato dal nodo responsabile del suo collegamento a un documento. Un'istanza dell'interfaccia LinkStyle può essere ottenuta usando metodi di casting specifici del binding su un'istanza di un nodo di collegamento (HTMLLinkElement, |
+| [IMediaList](./imedialist/) | L'interfaccia MediaList fornisce l'astrazione di una collezione ordinata di media, senza definire o vincolare il modo in cui questa collezione è implementata. Un elenco vuoto è lo stesso di un elenco che contiene il medium \"all\". |
+| [IStyleSheet](./istylesheet/) | L'interfaccia StyleSheet è l'interfaccia base astratta per qualsiasi tipo di foglio di stile. Rappresenta un singolo foglio di stile associato a un documento strutturato. In HTML, l'interfaccia StyleSheet rappresenta sia un foglio di stile esterno, incluso tramite l'elemento HTML LINK, sia un elemento STYLE inline. In XML, questa interfaccia rappresenta un foglio di stile esterno, incluso tramite un'istruzione di elaborazione del foglio di stile. I fogli di stile CSS implementeranno inoltre l'interfaccia più specializzata [`CSSStyleSheet`](../com.aspose.html.dom.css/icssstylesheet/). |
+| [IStyleSheetList](./istylesheetlist/) | L'interfaccia StyleSheetList rappresenta un elenco di oggetti [`CSSStyleSheet`](../com.aspose.html.dom.css/icssstylesheet/). Un'istanza di questo oggetto può essere restituita da [`Document.styleSheets`](../com.aspose.html.dom/document/stylesheets/). |
+| [IViewCSS](./iviewcss/) | L'interfaccia IViewCSS rappresenta un'estensione dell'oggetto Window che fornisce l'accesso ai valori di tutte le proprietà CSS di un elemento. |
+## Enumerazione
+
+| Enumerazione | Descrizione |
+| --- | --- |
+| [CSSEngineMode](./cssenginemode/) | Specifica la modalità CSSEngine. I valori hanno il significato seguente: |

@@ -1,0 +1,21 @@
+---
+title: "HTMLSelectElement.Name"
+second_title: "Riferimento API Aspose.HTML per Java"
+description: "HTMLSelectElement property. Controllo del modulo o nome dell'oggetto quando inviato con un modulo. Vedi la definizione dell'attributo name in HTML 4.01"
+type: docs
+
+url: /it/java/com.aspose.html/htmlselectelement/name/
+---
+## HTMLSelectElement.Name property
+
+Nome del controllo del modulo o dell'oggetto quando inviato con un modulo. Vedi la definizione dell'attributo name in HTML 4.01.
+
+```java
+public String Name { get; set; }
+```
+
+### Vedi anche
+
+* class [HTMLSelectElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
