@@ -1,0 +1,25 @@
+---
+title: "ShortCodeParameterSyntaxNode.GetValue"
+second_title: "Referencia de la API de Aspose.HTML para Java"
+description: "ShortCodeParameterSyntaxNode método. Obtiene el valor de cadena"
+type: docs
+
+url: /es/java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getvalue/
+---
+## ShortCodeParameterSyntaxNode.GetValue method
+
+Obtener valor String
+
+```java
+public String GetValue()
+```
+
+### Valor de retorno
+
+El resultado String.
+
+### Ver también
+
+* class [ShortCodeParameterSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [Aspose.HTML](../../../)

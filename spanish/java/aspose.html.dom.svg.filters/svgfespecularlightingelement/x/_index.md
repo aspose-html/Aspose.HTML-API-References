@@ -1,0 +1,26 @@
+---
+title: "SVGFESpecularLightingElement.X"
+second_title: "Referencia de la API de Aspose.HTML para Java"
+description: "Propiedad SVGFESpecularLightingElement. Corresponde al atributo x del elemento de filtro dado."
+type: docs
+
+url: /es/java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/x/
+---
+## SVGFESpecularLightingElement.X property
+
+Corresponde al atributo ‘x’ del elemento ‘filter’ dado.
+
+```java
+public SVGAnimatedLength X { get; }
+```
+
+### Property Value
+
+El atributo ‘x’ del elemento ‘filter’ dado.
+
+### Ver también
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGFESpecularLightingElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

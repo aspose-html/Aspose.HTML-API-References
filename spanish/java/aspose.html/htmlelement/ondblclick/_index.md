@@ -1,0 +1,22 @@
+---
+title: "HTMLElement.OnDblClick"
+second_title: "Referencia de la API de Aspose.HTML para Java"
+description: "Evento de HTMLElement. Obtiene o establece el controlador de eventos para el evento OnDblClick"
+type: docs
+
+url: /es/java/com.aspose.html/htmlelement/ondblclick/
+---
+## HTMLElement.OnDblClick event
+
+Obtiene o establece el controlador de eventos para el evento OnDblClick.
+
+```java
+public event DOMEventHandler OnDblClick;
+```
+
+### Ver también
+
+* delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
+* class [HTMLElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
