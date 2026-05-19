@@ -1,0 +1,21 @@
+---
+title: "PdfDocumentInfo.Creator"
+second_title: "Aspose.HTML for Java API 참조"
+description: "PdfDocumentInfo 속성. 원본 문서를 만든 제품의 이름"
+type: docs
+
+url: /ko/java/com.aspose.html.rendering.pdf/pdfdocumentinfo/creator/
+---
+## PdfDocumentInfo.Creator property
+
+원본 문서를 만든 제품의 이름.
+
+```java
+public String Creator { get; set; }
+```
+
+### 또 보기
+
+* class [PdfDocumentInfo](../)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
+* package [Aspose.HTML](../../../)

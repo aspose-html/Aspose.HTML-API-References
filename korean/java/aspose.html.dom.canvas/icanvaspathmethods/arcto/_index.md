@@ -1,0 +1,29 @@
+---
+title: "ICanvasPathMethods.ArcTo"
+second_title: "Aspose.HTML for Java API 참조"
+description: "ICanvasPathMethods 메서드. 주어진 제어점과 반경을 사용하여 이전 점과 직선으로 연결된 호를 경로에 추가합니다."
+type: docs
+
+url: /ko/java/com.aspose.html.dom.canvas/icanvaspathmethods/arcto/
+---
+## ICanvasPathMethods.ArcTo method
+
+주어진 제어점과 반지름을 사용하여, 이전 점과 직선으로 연결된 호를 경로에 추가합니다.
+
+```java
+public void ArcTo(double x1, double y1, double x2, double y2, double radius)
+```
+
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| x1 | Double | 첫 번째 제어점의 x축 좌표입니다. |
+| y1 | Double | 첫 번째 제어점의 y축 좌표. |
+| x2 | Double | 두 번째 제어점의 x축 좌표. |
+| y2 | Double | 두 번째 제어점의 y축 좌표. |
+| 반경 | Double | 호의 반경. |
+
+### 또 보기
+
+* interface [ICanvasPathMethods](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)

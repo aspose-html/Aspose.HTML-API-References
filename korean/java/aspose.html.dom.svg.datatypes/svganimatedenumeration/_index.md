@@ -1,0 +1,37 @@
+---
+title: "SVGAnimatedEnumeration 클래스"
+second_title: "Aspose.HTML for Java API 참조"
+description: "com.aspose.html.dom.svg.datatypes.SVGAnimatedEnumeration 클래스. 값이 특정 열거형의 상수여야 하고 애니메이션이 가능한 속성에 사용됩니다."
+type: docs
+
+url: /ko/java/com.aspose.html.dom.svg.datatypes/svganimatedenumeration/
+---
+## SVGAnimatedEnumeration class
+
+특정 열거형의 상수값이어야 하며 애니메이션이 가능한 속성에 사용됩니다.
+
+```java
+public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
+```
+
+## 속성
+
+| 이름 | 설명 |
+| --- | --- |
+| [getAnimVal](../../com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) |
+[getBaseVal]
+[setBaseVal]  |
+
+## 메서드
+
+| 이름 | 설명 |
+| --- | --- |
+| [dispose](../../com.aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | 관리되지 않는 리소스와 (옵션으로) 관리되는 리소스를 해제합니다. |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | 이 메서드는 ECMAScript 객체를 검색하는 데 사용됩니다. |
+| [toString](../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/toString/)() | 이 인스턴스를 나타내는 문자열을 반환합니다. |
+
+### 또 보기
+
+* class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../)

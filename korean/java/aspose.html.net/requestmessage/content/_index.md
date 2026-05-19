@@ -1,0 +1,26 @@
+---
+title: "RequestMessage.Content"
+second_title: "Aspose.HTML for Java API 참조"
+description: "RequestMessage 속성. 요청 내용을 가져오거나 설정합니다"
+type: docs
+
+url: /ko/java/com.aspose.html.net/requestmessage/content/
+---
+## RequestMessage.Content property
+
+요청 내용을 가져오거나 설정합니다.
+
+```java
+public Content Content { get; set; }
+```
+
+### Property Value
+
+본문.
+
+### 또 보기
+
+* class [Content](../../content/)
+* class [RequestMessage](../)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
+* package [Aspose.HTML](../../../)

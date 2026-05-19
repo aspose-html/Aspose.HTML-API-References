@@ -1,0 +1,25 @@
+---
+title: "TableCellSyntaxNode.GetValue"
+second_title: "Aspose.HTML for Java API 참조"
+description: "TableCellSyntaxNode 메서드. String 값을 가져오는 인터페이스를 정의합니다."
+type: docs
+
+url: /ko/java/com.aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/getvalue/
+---
+## TableCellSyntaxNode.GetValue method
+
+String 값을 가져오는 인터페이스를 정의합니다.
+
+```java
+public String GetValue()
+```
+
+### 반환 값
+
+문자열 값.
+
+### 또 보기
+
+* class [TableCellSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
