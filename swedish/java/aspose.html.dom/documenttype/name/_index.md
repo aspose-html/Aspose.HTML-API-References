@@ -1,0 +1,25 @@
+---
+title: "DocumentType.Name"
+second_title: "Aspose.HTML för Java API-referens"
+description: "DocumentType-egenskap. Namnet på DTD, d.v.s. namnet som omedelbart följer DOCTYPE-nyckelordet"
+type: docs
+
+url: /sv/java/com.aspose.html.dom/documenttype/name/
+---
+## DocumentType.Name property
+
+Namnet på DTD; d.v.s. namnet som omedelbart följer DOCTYPE-nyckelordet.
+
+```java
+public String Name { get; }
+```
+
+### Property Value
+
+Nodnamnet.
+
+### Se även
+
+* class [DocumentType](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

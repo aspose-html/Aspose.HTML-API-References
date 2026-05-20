@@ -1,0 +1,19 @@
+---
+title: "UnitType.op_Inequality"
+second_title: "Aspose.HTML för Java API-referens"
+description: "UnitType-metod."
+type: docs
+
+url: /sv/java/com.aspose.html.drawing/unittype/op_inequality/
+---
+## UnitType Inequality operator
+
+```java
+public static bool operator !=(UnitType first, UnitType second)
+```
+
+### Se även
+
+* class [UnitType](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

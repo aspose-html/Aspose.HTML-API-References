@@ -1,0 +1,39 @@
+---
+title: "HttpProtocolMessageHandler klass"
+second_title: "Aspose.HTML för Java API-referens"
+description: "com.aspose.html.net.messagehandlers.HttpProtocolMessageHandler klass. Representerar http-protokollmeddelandehanteraren"
+type: docs
+
+url: /sv/java/com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/
+---
+## HttpProtocolMessageHandler class
+
+Representerar `http:`‑protokollmeddelandehanteraren.
+
+```java
+public class HttpProtocolMessageHandler : MessageHandler
+```
+
+## Konstruktörer
+
+| Namn | Beskrivning |
+| --- | --- |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | Initierar en ny instans av `HttpProtocolMessageHandler`-klassen. |
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| [getFilters](../../com.aspose.html.net/messagehandler/filters/) Hämtar filterlistan som motsvarar den specificerade hanterartypen. |
+
+## Metoder
+
+| Namn | Beskrivning |
+| --- | --- |
+| [invoke](../../com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | När den åsidosätts i en avledd klass används den för att implementera meddelandehanteringen. |
+
+### Se även
+
+* class [MessageHandler](../../com.aspose.html.net/messagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../com.aspose.html.net.messagehandlers/)
+* package [Aspose.HTML](../../)

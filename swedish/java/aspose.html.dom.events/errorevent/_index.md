@@ -1,0 +1,57 @@
+---
+title: "ErrorEvent klass"
+second_title: "Aspose.HTML för Java API-referens"
+description: "com.aspose.html.dom.events.ErrorEvent klass. ErrorEvent tillhandahåller kontextuell information om ett fel som inträffade under körning"
+type: docs
+
+url: /sv/java/com.aspose.html.dom.events/errorevent/
+---
+## ErrorEvent class
+
+ErrorEvent‑klassen tillhandahåller kontextuell information om fel som uppstod under körning.
+
+```java
+public class ErrorEvent : Event
+```
+
+## Konstruktörer
+
+| Namn | Beskrivning |
+| --- | --- |
+| [ErrorEvent](errorevent/#constructor_1)(Exception) | Initierar en ny instans av klassen `ErrorEvent`. |
+| [ErrorEvent](errorevent/#constructor)(IDictionary&lt;String, object&gt;) |  |
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| [getBubbles](../../com.aspose.html.dom.events/event/bubbles/) Används för att ange om ett evenemang är ett bubblande evenemang eller inte. Om evenemanget kan bubbla är värdet sant, annars är värdet falskt. |
+| [getCancelable](../../com.aspose.html.dom.events/event/cancelable/) Används för att ange om ett evenemang kan ha sin standardåtgärd förhindrad eller inte. Om standardåtgärden kan förhindras är värdet sant, annars falskt. |
+| [getColNo](../../com.aspose.html.dom.events/errorevent/colno/) colno‑attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till noll. Det representerar kolumnnumret där felet inträffade i skriptet. |
+| [getCurrentTarget](../../com.aspose.html.dom.events/event/currenttarget/) Används för att ange den [`IEventTarget`](../ieventtarget/) vars [`IEventListener`](../ieventlistener/)s för närvarande bearbetas. Detta är särskilt användbart under fångst och bubbling. |
+| [getDefaultPrevented](../../com.aspose.html.dom.events/event/defaultprevented/) Returnerar sant om preventDefault() anropades medan attributet cancelable är sant, annars falskt. |
+| [getError](../../com.aspose.html.dom.events/errorevent/error/) error‑attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till null. När lämpligt sätts det till objektet som representerar felet (t.ex. undantagsobjektet i fallet med ett oåterkallat DOM‑undantag). |
+| [getEventPhase](../../com.aspose.html.dom.events/event/eventphase/) Används för att ange vilken fas av händelseflödet som för närvarande utvärderas. |
+| [getFileName](../../com.aspose.html.dom.events/errorevent/filename/) filename‑attributet måste returnera det värde det initierades med. När objektet skapas måste detta attribut initieras till en tom sträng. Det representerar den absoluta URL:en för skriptet där felet ursprungligen inträffade. |
+| [getIsTrusted](../../com.aspose.html.dom.events/event/istrusted/) Attributet isTrusted måste returnera det värde som det initierades med. När ett händelseobjekt skapas måste attributet initieras till false. |
+| [getLineNo](../../com.aspose.html.dom.events/errorevent/lineno/) Attributet lineno måste returnera det värde som det initierades med. När objektet skapas måste detta attribut initieras till noll. Det representerar radnumret där felet inträffade i skriptet. |
+| [getMessage](../../com.aspose.html.dom.events/errorevent/message/) Attributet message måste returnera det värde som det initierades med. När objektet skapas måste detta attribut initieras till den tomma strängen. Det representerar felmeddelandet. |
+| [getTarget](../../com.aspose.html.dom.events/event/target/) Används för att ange [`IEventTarget`](../ieventtarget/) till vilken händelsen ursprungligen skickades. |
+| [getTimeStamp](../../com.aspose.html.dom.events/event/timestamp/) Används för att ange tidpunkten (i millisekunder relativt till epoken) då händelsen skapades. På grund av att vissa system kanske inte tillhandahåller denna information kan värdet för timeStamp vara otillgängligt för vissa händelser. När det inte är tillgängligt returneras värdet 0. Exempel på epoktider är systemets starttid eller 0:0:0 UTC 1 januari 1970. |
+| [getType](../../com.aspose.html.dom.events/event/type/) Namnet på händelsen (skiftlägesokänsligt). Namnet måste vara ett XML-namn. |
+
+## Metoder
+
+| Namn | Beskrivning |
+| --- | --- |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektet. |
+| [initEvent](../../com.aspose.html.dom.events/event/initevent/)(String, bool, bool) | Metoden [`InitEvent`](../event/initevent/) används för att initiera värdet för en [`Event`](../event/) som skapats genom [`IDocumentEvent`](../idocumentevent/)-gränssnittet. |
+| [preventDefault](../../com.aspose.html.dom.events/event/preventdefault/)() | Om en händelse kan avbrytas används [`PreventDefault`](../event/preventdefault/)-metoden för att ange att händelsen ska avbrytas, vilket innebär att någon standardåtgärd som normalt utförs av implementationen som ett resultat av händelsen inte kommer att ske. |
+| [stopImmediatePropagation](../../com.aspose.html.dom.events/event/stopimmediatepropagation/)() | Att anropa den här metoden förhindrar att händelsen når några händelselyssnare som registrerats efter den aktuella och, när den sänds i ett träd, förhindrar även att händelsen når andra objekt. |
+| [stopPropagation](../../com.aspose.html.dom.events/event/stoppropagation/)() | Metoden [`StopPropagation`](../event/stoppropagation/) används för att förhindra vidare spridning av en händelse under händelseflödet. |
+
+### Se även
+
+* class [Event](../event/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
+* package [Aspose.HTML](../../)

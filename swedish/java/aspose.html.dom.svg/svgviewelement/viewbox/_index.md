@@ -1,0 +1,26 @@
+---
+title: "SVGViewElement.ViewBox"
+second_title: "Aspose.HTML för Java API-referens"
+description: "SVGViewElement-egenskap. Motsvarar attributet viewBox på det angivna elementet"
+type: docs
+
+url: /sv/java/com.aspose.html.dom.svg/svgviewelement/viewbox/
+---
+## SVGViewElement.ViewBox property
+
+Motsvarar attributet ‘viewBox’ på det givna elementet.
+
+```java
+public SVGAnimatedRect ViewBox { get; }
+```
+
+### Property Value
+
+‘viewBox’-värdet för det givna elementet.
+
+### Se även
+
+* class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
+* class [SVGViewElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

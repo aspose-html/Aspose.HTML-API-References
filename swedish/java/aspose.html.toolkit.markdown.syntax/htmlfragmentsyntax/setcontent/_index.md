@@ -1,0 +1,25 @@
+---
+title: "HTMLFragmentSyntax.SetContent"
+second_title: "Aspose.HTML för Java API-referens"
+description: "HTMLFragmentSyntax-metod. Definierar gränssnittet för att sätta innehåll"
+type: docs
+
+url: /sv/java/com.aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/setcontent/
+---
+## HTMLFragmentSyntax.SetContent method
+
+Definierar gränssnittet för att ange innehåll.
+
+```java
+public void SetContent(String html)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| html | String | String‑värdet html. |
+
+### Se även
+
+* class [HTMLFragmentSyntax](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
