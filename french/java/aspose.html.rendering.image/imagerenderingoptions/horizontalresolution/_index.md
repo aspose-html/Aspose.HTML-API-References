@@ -1,0 +1,22 @@
+---
+title: "ImageRenderingOptions.HorizontalResolution"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "ImageRenderingOptions propriété. Définit ou obtient la résolution horizontale pour la sortie et interne qui sont utilisées lors du traitement des images par les filtres en pixels par pouce. Par défaut, cette propriété est de 300 dpi."
+type: docs
+
+url: /fr/java/com.aspose.html.rendering.image/imagerenderingoptions/horizontalresolution/
+---
+## ImageRenderingOptions.HorizontalResolution property
+
+Définit ou obtient la résolution horizontale pour les images de sortie et internes (utilisées lors du traitement des filtres), en pixels par pouce. Par défaut, cette propriété est de 300 dpi.
+
+```java
+public Resolution HorizontalResolution { get; set; }
+```
+
+### Voir aussi
+
+* class [Resolution](../../../com.aspose.html.drawing/resolution/)
+* class [ImageRenderingOptions](../)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
+* package [Aspose.HTML](../../../)
