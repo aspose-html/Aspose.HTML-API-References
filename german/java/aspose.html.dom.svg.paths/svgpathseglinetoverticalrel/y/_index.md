@@ -1,0 +1,31 @@
+---
+title: "SVGPathSegLinetoVerticalRel.Y"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "SVGPathSegLinetoVerticalRel-Eigenschaft. Die relative Y-Koordinate für den Endpunkt dieses Pfadsegments"
+type: docs
+
+url: /de/java/com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y/
+---
+## SVGPathSegLinetoVerticalRel.Y property
+
+Die relative Y‑Koordinate des Endpunkts dieses Pfadsegments.
+
+```java
+public float Y { get; set; }
+```
+
+### Property Value
+
+Die relative Y-Koordinate.
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/). Ausgelöst bei dem Versuch, den Wert eines schreibgeschützten Attributs zu ändern. |
+
+### Siehe auch
+
+* class [SVGPathSegLinetoVerticalRel](../)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
+* package [Aspose.HTML](../../../)

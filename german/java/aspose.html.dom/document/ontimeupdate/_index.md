@@ -1,0 +1,22 @@
+---
+title: "Document.OnTimeUpdate"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "Document-Ereignis. Liest oder setzt den Ereignishandler für das OnTimeUpdate-Ereignis."
+type: docs
+
+url: /de/java/com.aspose.html.dom/document/ontimeupdate/
+---
+## Document.OnTimeUpdate event
+
+Liest oder setzt den Ereignishandler für das OnTimeUpdate-Ereignis.
+
+```java
+public event DOMEventHandler OnTimeUpdate;
+```
+
+### Siehe auch
+
+* delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)
