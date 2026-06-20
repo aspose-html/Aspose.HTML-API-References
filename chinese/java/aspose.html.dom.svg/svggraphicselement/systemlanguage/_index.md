@@ -1,0 +1,26 @@
+---
+title: "SVGGraphicsElement.SystemLanguage"
+second_title: "Aspose.HTML for Java API 参考"
+description: "SVGGraphicsElement 属性。对应给定元素上的 systemLanguage 属性。"
+type: docs
+
+url: /zh/java/com.aspose.html.dom.svg/svggraphicselement/systemlanguage/
+---
+## SVGGraphicsElement.SystemLanguage property
+
+对应给定元素上的属性 ‘systemLanguage’。
+
+```java
+public SVGStringList SystemLanguage { get; }
+```
+
+### Property Value
+
+系统语言。
+
+### 另请参见
+
+* class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
+* class [SVGGraphicsElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

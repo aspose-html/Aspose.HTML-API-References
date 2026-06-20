@@ -1,0 +1,27 @@
+---
+title: "ICSS2Properties.Margin"
+second_title: "Aspose.HTML for Java API 参考"
+description: "ICSS2Properties property. margin 属性是一个简写属性，用于在样式表的同一位置设置 margin-top、margin-right、margin-bottom 和 margin-left。"
+type: docs
+
+url: /zh/java/com.aspose.html.dom.css/icss2properties/margin/
+---
+## ICSS2Properties.Margin property
+
+['margin'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin) 属性是一个简写属性，用于在样式表的同一位置设置 ['margin-top'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-top)、['margin-right'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-right)、['margin-bottom'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-bottom) 和 ['margin-left'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-left)。
+
+如果只有一个值，则它适用于所有边。若有两个值，则上、下外边距使用第一个值，右、左外边距使用第二个值。若有三个值，则上使用第一个值，左右使用第二个值，底部使用第三个值。若有四个值，则它们分别对应上、右、下、左。
+
+```java
+public String Margin { get; set; }
+```
+
+### 返回值
+
+margin 属性
+
+### 另请参见
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

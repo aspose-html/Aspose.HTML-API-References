@@ -1,0 +1,35 @@
+---
+title: "Content 类"
+second_title: "Aspose.HTML for Java API 参考"
+description: "com.aspose.html.net.Content 类。表示 HTTP 实体主体和内容标头的基类。"
+type: docs
+
+url: /zh/java/com.aspose.html.net/content/
+---
+## Content class
+
+表示 HTTP 实体主体和内容头的基类。
+
+```java
+public abstract class Content : IDisposable
+```
+
+## 属性
+
+| 名称 | 描述 |
+| --- | --- |
+| [getHeaders](../../com.aspose.html.net/content/headers/) 获取 HTTP 内容标头。 |
+
+## 方法
+
+| 名称 | 描述 |
+| --- | --- |
+| [dispose](../../com.aspose.html.net/content/dispose/)() | 执行由应用程序定义的任务，以释放、解除占用或重置非托管资源。 |
+| [readAsByteArray](../../com.aspose.html.net/content/readasbytearray/)() | 序列化 HTTP 内容并返回表示该内容的字节数组。 |
+| [readAsStream](../../com.aspose.html.net/content/readasstream/)() | 序列化 HTTP 内容并返回表示该内容的流。 |
+| [readAsString](../../com.aspose.html.net/content/readasString/)() | 序列化 HTTP 内容并返回表示该内容的字符串。 |
+
+### 另请参见
+
+* package [com.aspose.html.net](../../com.aspose.html.net/)
+* package [Aspose.HTML](../../)
