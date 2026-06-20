@@ -1,0 +1,27 @@
+---
+title: "ICSS2Properties.PageBreakAfter"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Ιδιότητα ICSS2Properties. Οι τιμές για αυτές τις ιδιότητες έχουν τις ακόλουθες σημασίες."
+type: docs
+
+url: /el/java/com.aspose.html.dom.css/icss2properties/pagebreakafter/
+---
+## ICSS2Properties.PageBreakAfter property
+
+Οι τιμές για αυτές τις ιδιότητες έχουν τις ακόλουθες σημασίες:
+
+auto - Ούτε να επιβάλει ούτε να απαγορεύσει αλλαγή σελίδας πριν (μετά, εντός) του παραγόμενου πλαισίου. always - Να επιβάλει πάντα αλλαγή σελίδας πριν (μετά) του παραγόμενου πλαισίου. avoid - Να αποφεύγει αλλαγή σελίδας πριν (μετά, εντός) του παραγόμενου πλαισίου. left - Να επιβάλει μία ή δύο αλλαγές σελίδας πριν (μετά) του παραγόμενου πλαισίου ώστε η επόμενη σελίδα να μορφοποιηθεί ως αριστερή σελίδα. right - Να επιβάλει μία ή δύο αλλαγές σελίδας πριν (μετά) του παραγόμενου πλαισίου ώστε η επόμενη σελίδα να μορφοποιηθεί ως δεξιά σελίδα.
+
+```java
+public String PageBreakAfter { get; set; }
+```
+
+### Τιμή Επιστροφής
+
+ιδιότητα page-break-after
+
+### Δείτε επίσης
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
