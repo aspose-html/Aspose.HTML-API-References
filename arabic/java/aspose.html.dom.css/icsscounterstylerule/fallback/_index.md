@@ -1,0 +1,25 @@
+---
+title: "ICSSCounterStyleRule.Fallback"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية ICSSCounterStyleRule. خاصية fallback في واجهة CSSCounterStyleRule تحصل وتعيّن قيمة وصف fallback. إذا لم يكن للوصّف قيمة محددة، تُرجع هذه الخاصية سلسلة فارغة."
+type: docs
+
+url: /ar/java/com.aspose.html.dom.css/icsscounterstylerule/fallback/
+---
+## ICSSCounterStyleRule.Fallback property
+
+خاصية fallback في واجهة [`CSSCounterStyleRule`](../) تحصل وتعيّن قيمة وصف fallback. إذا لم يكن للوصّف قيمة محددة، تُرجع هذه الخاصية سلسلة فارغة.
+
+```java
+public String Fallback { get; }
+```
+
+### Property Value
+
+يحصل ويعيّن قيمة وصف fallback. إذا لم يكن للوصّف قيمة محددة، تُرجع هذه الخاصية سلسلة فارغة.
+
+### انظر أيضًا
+
+* interface [ICSSCounterStyleRule](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

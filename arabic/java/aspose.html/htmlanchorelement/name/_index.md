@@ -1,0 +1,21 @@
+---
+title: "HTMLAnchorElement.Name"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية HTMLAnchorElement. اسم الرابط. راجع تعريف سمة الاسم في HTML 4.01"
+type: docs
+
+url: /ar/java/com.aspose.html/htmlanchorelement/name/
+---
+## HTMLAnchorElement.Name property
+
+اسم الرابط. راجع تعريف سمة الاسم في HTML 4.01.
+
+```java
+public String Name { get; set; }
+```
+
+### انظر أيضًا
+
+* class [HTMLAnchorElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

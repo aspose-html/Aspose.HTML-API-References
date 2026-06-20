@@ -1,0 +1,29 @@
+---
+title: "Float64Array.Item"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية Float64Array. تحصل أو تعين قيمة Double في الفهرس المحدد"
+type: docs
+
+url: /ar/java/com.aspose.html/float64array/item/
+---
+## Float64Array indexer
+
+يحصل أو يعيّن قيمة Double في الفهرس المحدد.
+
+```java
+public double this[int index] { get; set; }
+```
+
+| معامل | الوصف |
+| --- | --- |
+| index | الفهرس. |
+
+### Property Value
+
+قيمة Double.
+
+### انظر أيضًا
+
+* class [Float64Array](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

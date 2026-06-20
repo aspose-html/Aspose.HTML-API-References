@@ -1,0 +1,26 @@
+---
+title: "ICSSStyleDeclaration.ParentRule"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية ICSSStyleDeclaration. الخاصية للقراءة فقط CSSStyleDeclaration.parentRule تُرجع CSSRule التي هي الأصل لهذا كتلة النمط على سبيل المثال CSSStyleRule تمثل النمط لمحدد CSS."
+type: docs
+
+url: /ar/java/com.aspose.html.dom.css/icssstyledeclaration/parentrule/
+---
+## ICSSStyleDeclaration.ParentRule property
+
+الخاصية للقراءة فقط CSSStyleDeclaration.parentRule تُرجع CSSRule التي هي الأصل لهذا كتلة النمط، على سبيل المثال [`CSSStyleRule`](../../icssstylerule/) تمثل النمط لمحدد CSS.
+
+```java
+public ICSSRule ParentRule { get; }
+```
+
+### Property Value
+
+قواعد CSS التي تحتوي على كتلة الإعلان هذه أو null إذا كان هذا [`CSSStyleDeclaration`](../) غير مرتبط بـ [`CSSRule`](../../icssrule/).
+
+### انظر أيضًا
+
+* interface [ICSSRule](../../icssrule/)
+* interface [ICSSStyleDeclaration](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
