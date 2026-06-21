@@ -1,0 +1,27 @@
+---
+title: "Element.SetAttributeNS"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "Element method. एक नया एट्रिब्यूट जोड़ता है। यदि समान स्थानीय नाम और पैकेज URI वाला एट्रिब्यूट पहले से ही तत्व पर मौजूद है, तो उसका प्रीफ़िक्स qualifiedName के प्रीफ़िक्स भाग में बदल दिया जाता है और उसका मान value पैरामीटर के अनुसार बदल दिया जाता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom/element/setattributens/
+---
+## Element.SetAttributeNS method
+
+एक नया विशेषता जोड़ता है। यदि समान स्थानीय नाम और पैकेज URI वाली विशेषता पहले से तत्व पर मौजूद है, तो उसका प्रीफ़िक्स qualifiedName के प्रीफ़िक्स भाग के अनुसार बदल दिया जाता है, और उसका मान value पैरामीटर के अनुसार बदल दिया जाता है।
+
+```java
+public void SetAttributeNS(String packageURI, String qualifiedName, String value)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| packageURI | String | पैकेज URI। |
+| qualifiedName | String | योग्य का नाम। |
+| मान | String | मान। |
+
+### संबंधित देखें
+
+* class [Element](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

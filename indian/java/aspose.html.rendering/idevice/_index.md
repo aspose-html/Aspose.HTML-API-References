@@ -1,0 +1,53 @@
+---
+title: "IDevice इंटरफ़ेस"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.rendering.IDevice इंटरफ़ेस। ऐसे मेथड और प्रॉपर्टी को परिभाषित करता है जो पाथ, टेक्स्ट और इमेजेज जैसे ग्राफिक तत्वों की कस्टम रेंडरिंग का समर्थन करते हैं।"
+type: docs
+
+url: /hi/java/com.aspose.html.rendering/idevice/
+---
+## IDevice interface
+
+पाथ, टेक्स्ट और इमेज़ जैसे ग्राफ़िक तत्वों की कस्टम रेंडरिंग को समर्थन देने वाले मेथड्स और प्रॉपर्टीज़ को परिभाषित करता है।
+
+```java
+public interface IDevice : IDisposable
+```
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+| [getGraphicContext](../../com.aspose.html.rendering/idevice/graphiccontext/) ग्राफिक कॉन्टेक्स्ट प्राप्त करता है। |
+| [getOptions](../../com.aspose.html.rendering/idevice/options/) रेंडरिंग विकल्प प्राप्त करता है। |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [addRect](../../com.aspose.html.rendering/idevice/addrect/)(RectangleF) | वर्तमान पाथ में एक आयत को पूर्ण सबपाथ के रूप में जोड़ता है। |
+| [beginDocument](../../com.aspose.html.rendering/idevice/begindocument/)(Document) | दस्तावेज़ की रेंडरिंग शुरू करता है। |
+| [beginElement](../../com.aspose.html.rendering/idevice/beginelement/)(Element, RectangleF) | तत्व की रेंडरिंग शुरू करता है। |
+| [beginPage](../../com.aspose.html.rendering/idevice/beginpage/)(SizeF) | नए पृष्ठ की रेंडरिंग शुरू करता है। |
+| [clip](../../com.aspose.html.rendering/idevice/clip/)(FillRule) | वर्तमान क्लिपिंग पाथ को वर्तमान पाथ के साथ प्रतिच्छेद करके संशोधित करता है, FillRule का उपयोग करके भरने के क्षेत्र को निर्धारित करता है। यह मेथड वर्तमान पाथ को समाप्त करता है। |
+| [closePath](../../com.aspose.html.rendering/idevice/closepath/)() | वर्तमान बिंदु से सबपाथ के प्रारंभ बिंदु तक एक सीधी रेखा खंड जोड़कर वर्तमान सबपाथ को बंद करता है। यदि वर्तमान सबपाथ पहले ही बंद है, तो "ClosePath" कुछ नहीं करता। यह ऑपरेटर वर्तमान सबपाथ को समाप्त करता है। वर्तमान पाथ में एक और खंड जोड़ने से नया सबपाथ शुरू होता है, भले ही नया खंड "ClosePath" मेथड द्वारा पहुँचे अंतिम बिंदु से शुरू हो। |
+| [cubicBezierTo](../../com.aspose.html.rendering/idevice/cubicbezierto/)(PointF, PointF, PointF) | वर्तमान पाथ में एक क्यूबिक बेज़ियर कर्व जोड़ता है। कर्व वर्तमान बिंदु से बिंदु pt3 तक विस्तारित होता है, pt1 और pt2 को बेज़ियर नियंत्रण बिंदु के रूप में उपयोग करता है। नया वर्तमान बिंदु pt3 है। |
+| [drawImage](../../com.aspose.html.rendering/idevice/drawimage/)(byte[], WebImageFormat, RectangleF) | निर्दिष्ट छवि को ड्रॉ करता है। |
+| [endDocument](../../com.aspose.html.rendering/idevice/enddocument/)() | दस्तावेज़ की रेंडरिंग समाप्त करता है। |
+| [endElement](../../com.aspose.html.rendering/idevice/endelement/)(Element) | तत्व की रेंडरिंग समाप्त करता है। |
+| [endPage](../../com.aspose.html.rendering/idevice/endpage/)() | वर्तमान पृष्ठ का रेंडरिंग समाप्त करता है। |
+| [fill](../../com.aspose.html.rendering/idevice/fill/)(FillRule) | वर्तमान पथ द्वारा घिरे पूरे क्षेत्र को भरता है। यदि पथ कई असंबद्ध उपपथों से बना है, तो यह सभी उपपथों के अंदरूनी भागों को एक साथ मिलाकर भरता है। यह मेथड वर्तमान पथ को समाप्त करता है। |
+| [fillText](../../com.aspose.html.rendering/idevice/filltext/)(String, PointF) | निर्दिष्ट स्थान पर निर्दिष्ट टेक्स्ट स्ट्रिंग को भरता है। |
+| [flush](../../com.aspose.html.rendering/idevice/flush/)() | सभी डेटा को आउटपुट स्ट्रीम में फ्लश करता है। |
+| [lineTo](../../com.aspose.html.rendering/idevice/lineto/)(PointF) | वर्तमान बिंदु से बिंदु (pt) तक एक सीधी रेखा खंड जोड़ता है। नया वर्तमान बिंदु pt है। |
+| [moveTo](../../com.aspose.html.rendering/idevice/moveto/)(PointF) | वर्तमान बिंदु को पैरामीटर pt के निर्देशांक पर ले जाकर एक नया उपपथ शुरू करता है, किसी भी जोड़ने वाली रेखा खंड को छोड़ते हुए। यदि वर्तमान पथ में पिछली पथ निर्माण विधि भी \"MoveTo\" थी, तो नई \"MoveTo\" उसे ओवरराइड करती है; पिछले \"MoveTo\" ऑपरेशन का कोई अंश पथ में नहीं रहता। |
+| [restoreGraphicContext](../../com.aspose.html.rendering/idevice/restoregraphiccontext/)() | स्टैक से पॉप करके पूरे ग्राफिक्स कॉन्टेक्स्ट को उसके पूर्व मान पर पुनर्स्थापित करता है। |
+| [saveGraphicContext](../../com.aspose.html.rendering/idevice/savegraphiccontext/)() | पूरे ग्राफिक्स कॉन्टेक्स्ट की एक कॉपी को स्टैक पर पुश करता है। |
+| [stroke](../../com.aspose.html.rendering/idevice/stroke/)() | वर्तमान पथ के साथ एक रेखा स्ट्रोक करता है। स्ट्रोक की गई रेखा पथ के प्रत्येक सीधी या वक्र खंड का अनुसरण करती है, खंड के केंद्र में स्थित और उसके समानांतर पक्षों के साथ। पथ के प्रत्येक उपपथ को अलग-अलग माना जाता है। यह मेथड वर्तमान पथ को समाप्त करता है। |
+| [strokeAndFill](../../com.aspose.html.rendering/idevice/strokeandfill/)(FillRule) | वर्तमान पथ को स्ट्रोक और भरता है। यह मेथड वर्तमान पथ को समाप्त करता है। |
+| [strokeText](../../com.aspose.html.rendering/idevice/stroketext/)(String, PointF) | निर्दिष्ट स्थान पर निर्दिष्ट टेक्स्ट स्ट्रिंग को स्ट्रोक करता है। |
+
+### संबंधित देखें
+
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
+* package [Aspose.HTML](../../)

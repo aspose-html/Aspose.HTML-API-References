@@ -1,0 +1,30 @@
+---
+title: "TableRowSyntaxNode.AppendDelimiter"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "TableRowSyntaxNode मेथड। डिलिमीटर जोड़ने के लिए इंटरफ़ेस को परिभाषित करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/
+---
+## TableRowSyntaxNode.AppendDelimiter method
+
+डिलिमिटर जोड़ने के लिए इंटरफ़ेस को परिभाषित करता है।
+
+```java
+public TableDelimiterSyntaxNode AppendDelimiter(TableDelimiterSyntaxNode delimiter)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| डिलिमिटर | TableDelimiterSyntaxNode | डिलिमिटर। |
+
+### रिटर्न वैल्यू
+
+टेबल डिलिमिटर सिंटैक्स।
+
+### संबंधित देखें
+
+* class [TableDelimiterSyntaxNode](../../tabledelimitersyntaxnode/)
+* class [TableRowSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

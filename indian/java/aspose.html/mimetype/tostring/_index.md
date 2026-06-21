@@ -1,0 +1,25 @@
+---
+title: "MimeType.ToString"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "MimeType मेथड। वह स्ट्रिंग लौटाता है जो Mime प्रकार को दर्शाती है।"
+type: docs
+
+url: /hi/java/com.aspose.html/mimetype/toString/
+---
+## MimeType.ToString method
+
+एक स्ट्रिंग लौटाता है जो MIME प्रकार का प्रतिनिधित्व करती है।
+
+```java
+public String ToString()
+```
+
+### रिटर्न वैल्यू
+
+एक स्ट्रिंग जो इस इंस्टेंस का प्रतिनिधित्व करती है।
+
+### संबंधित देखें
+
+* class [MimeType](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

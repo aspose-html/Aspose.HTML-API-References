@@ -1,0 +1,25 @@
+---
+title: "ICreateStreamProvider.ReleaseStream"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "ICreateStreamProvider मेथड। स्ट्रीम को रिलीज़ करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.io/icreatestreamprovider/releasestream/
+---
+## ICreateStreamProvider.ReleaseStream method
+
+स्ट्रीम को रिलीज़ करता है।
+
+```java
+public void ReleaseStream(Stream stream)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| स्ट्रीम | स्ट्रीम | रिलीज़ की जा रही स्ट्रीम। |
+
+### संबंधित देखें
+
+* interface [ICreateStreamProvider](../)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
+* package [Aspose.HTML](../../../)

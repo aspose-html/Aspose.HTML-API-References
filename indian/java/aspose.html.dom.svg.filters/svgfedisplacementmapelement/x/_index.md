@@ -1,0 +1,26 @@
+---
+title: "SVGFEDisplacementMapElement.X"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SVGFEDisplacementMapElement प्रॉपर्टी। दिए गए फ़िल्टर तत्व पर विशेषता x के अनुरूप है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/x/
+---
+## SVGFEDisplacementMapElement.X property
+
+Corresponds to attribute ‘x’ on the given ‘filter’ element.
+
+```java
+public SVGAnimatedLength X { get; }
+```
+
+### Property Value
+
+दिए गए ‘filter’ तत्व का गुण ‘x’।
+
+### संबंधित देखें
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGFEDisplacementMapElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

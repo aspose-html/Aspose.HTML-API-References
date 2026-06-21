@@ -1,0 +1,31 @@
+---
+title: "SVGRect.Width"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SVGRect property. आयत की चौड़ाई निर्देशांक उपयोगकर्ता इकाइयों में"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.datatypes/svgrect/width/
+---
+## SVGRect.Width property
+
+आयत की चौड़ाई निर्देशांक, उपयोगकर्ता इकाइयों में।
+
+```java
+public float Width { get; set; }
+```
+
+### Property Value
+
+आयत की चौड़ाई निर्देशांक, उपयोगकर्ता इकाइयों में।
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | कोड [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/) तब उठाया जाता है जब आयत एक केवल-पढ़ने योग्य एट्रिब्यूट से संबंधित हो या जब स्वयं ऑब्जेक्ट केवल-पढ़ने योग्य हो। |
+
+### संबंधित देखें
+
+* class [SVGRect](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

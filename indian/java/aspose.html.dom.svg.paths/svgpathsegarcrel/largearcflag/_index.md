@@ -1,0 +1,31 @@
+---
+title: "SVGPathSegArcRel.LargeArcFlag"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SVGPathSegArcRel प्रॉपर्टी। large-arc-flag पैरामीटर का मान"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/largearcflag/
+---
+## SVGPathSegArcRel.LargeArcFlag property
+
+large-arc-flag पैरामीटर का मान।
+
+```java
+public bool LargeArcFlag { get; set; }
+```
+
+### Property Value
+
+large-arc-flag पैरामीटर
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | कोड [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/). केवल‑पढ़ने‑योग्य विशेषता का मान बदलने के प्रयास पर उत्पन्न हुआ। |
+
+### संबंधित देखें
+
+* class [SVGPathSegArcRel](../)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
+* package [Aspose.HTML](../../../)

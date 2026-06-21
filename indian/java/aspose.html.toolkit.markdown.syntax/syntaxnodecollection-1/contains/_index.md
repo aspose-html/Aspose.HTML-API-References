@@ -1,0 +1,29 @@
+---
+title: "SyntaxNodeCollection-1.Contains"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SyntaxNodeCollection विधि। निर्धारित करता है कि दिया गया वस्तु संग्रह में मौजूद है या नहीं"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/
+---
+## SyntaxNodeCollection&lt;T&gt;.Contains method
+
+निर्धारित करता है कि दिया गया आइटम संग्रह में मौजूद है या नहीं।
+
+```java
+public bool Contains(T item)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| item | T | जिस वस्तु को खोजा जाना है। |
+
+### रिटर्न वैल्यू
+
+यदि वस्तु संग्रह में मौजूद है तो सत्य; अन्यथा असत्य।
+
+### संबंधित देखें
+
+* class [SyntaxNodeCollection&lt;T&gt;](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

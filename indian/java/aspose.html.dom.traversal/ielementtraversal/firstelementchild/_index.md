@@ -1,0 +1,26 @@
+---
+title: "IElementTraversal.FirstElementChild"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "IElementTraversal प्रॉपर्टी। यह तत्व का पहला चाइल्ड एलिमेंट नोड लौटाता है। यदि इस तत्व के पास कोई चाइल्ड एलिमेंट नहीं है तो null।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.traversal/ielementtraversal/firstelementchild/
+---
+## IElementTraversal.FirstElementChild property
+
+इस तत्व का पहला चाइल्ड एलिमेंट नोड लौटाता है। यदि इस तत्व के पास कोई चाइल्ड एलिमेंट नहीं है तो null।
+
+```java
+public Element FirstElementChild { get; }
+```
+
+### Property Value
+
+पहला तत्व चाइल्ड।
+
+### संबंधित देखें
+
+* class [Element](../../../com.aspose.html.dom/element/)
+* interface [IElementTraversal](../)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,18 @@
+---
+title: "com.aspose.html.services"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.services पैकेज में सेवा कार्यान्वयन के लिए प्रोटोकॉल के रूप में इंटरफ़ेस शामिल हैं।"
+type: docs
+
+url: /hi/java/com.aspose.html.services/
+---
+**com.aspose.html.services** पैकेज में सेवा इम्प्लीमेंटेशन के प्रोटोकॉल के रूप में इंटरफ़ेस होते हैं।
+
+## इंटरफ़ेस
+
+| इंटरफ़ेस | विवरण |
+| --- | --- |
+| [IDeviceInformationService](./ideviceinformationservice/) | एक इंटरफ़ेस जो उस वातावरण का वर्णन करता है जिसमें [`Document`](../com.aspose.html.dom/document/) उपयोगकर्ता को प्रस्तुत किया जाता है। |
+| [INetworkService](./inetworkservice/) | नेटवर्क ऑपरेशनों के लिए एक इंटरफ़ेस प्रदान करता है। |
+| [IRuntimeService](./iruntimeservice/) | यह सेवा रनटाइम संबंधित प्रॉपर्टीज़ को कॉन्फ़िगर करने के लिए उपयोग की जाती है। |
+| [IUserAgentService](./iuseragentservice/) | एक इंटरफ़ेस जो उपयोगकर्ता एजेंट वातावरण का वर्णन करता है। |

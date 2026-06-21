@@ -1,0 +1,36 @@
+---
+title: "TypedArray क्लास"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.TypedArray क्लास। TypedArray ऑब्जेक्ट्स एक अंतर्निहित बाइनरी डेटा बफ़र का एरे-समतुल्य दृश्य प्रस्तुत करते हैं।"
+type: docs
+
+url: /hi/java/com.aspose.html/typedarray/
+---
+## TypedArray class
+
+TypedArray ऑब्जेक्ट्स बाइनरी डेटा बफ़र के नीचे की एक एरे-जैसी व्यू प्रस्तुत करते हैं।
+
+```java
+public abstract class TypedArray : DOMObject
+```
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+| [getBuffer](../../com.aspose.html/typedarray/buffer/) इस उदाहरण द्वारा संदर्भित ArrayBuffer प्राप्त करता है। |
+| [getByteLength](../../com.aspose.html/typedarray/bytelength/) byteLength एक्सेसर प्रॉपर्टी प्राप्त करता है जो बाइट्स में ArrayBuffer की लंबाई दर्शाती है। |
+| [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) संदर्भित ArrayBuffer की शुरुआत से byteOffset प्राप्त करता है। |
+| [getLength](../../com.aspose.html/typedarray/length/) टाइप्ड एरे की लंबाई प्राप्त करता है। |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | यह मेथड ECMAScript ऑब्जेक्ट को प्राप्त करने के लिए उपयोग किया जाता है। |
+
+### संबंधित देखें
+
+* class [DOMObject](../../com.aspose.html.dom/domobject/)
+* package [com.aspose.html](../../com.aspose.html/)
+* package [Aspose.HTML](../../)

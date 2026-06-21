@@ -1,0 +1,25 @@
+---
+title: "InputElement.AddFile"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "InputElement मेथड। यह मेथड फ़ाइलों को Files संग्रह में जोड़ता है जो अगले वेब अनुरोध के दौरान भेजी जाएँगी।"
+type: docs
+
+url: /hi/java/com.aspose.html.forms/inputelement/addfile/
+---
+## InputElement.AddFile method
+
+यह मेथड फ़ाइलों को [`Files`](../../../com.aspose.html/htmlinputelement/files/) संग्रह में जोड़ता है जो अगले वेब अनुरोध के दौरान भेजी जाएँगी।
+
+```java
+public void AddFile(String uri)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| uri | String | फ़ाइल पथ। |
+
+### संबंधित देखें
+
+* class [InputElement](../)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,32 @@
+---
+title: "HTMLDocument.GetOverrideStyle"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLDocument method. This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element"
+type: docs
+
+url: /hi/java/com.aspose.html/htmldocument/getoverridestyle/
+---
+## HTMLDocument.GetOverrideStyle method
+
+यह मेथड किसी निर्दिष्ट तत्व और किसी निर्दिष्ट pseudo-element के लिए ओवरराइड स्टाइल घोषणा को पुनः प्राप्त करने के लिए उपयोग किया जाता है।
+
+```java
+public ICSSStyleDeclaration GetOverrideStyle(Element elt, String pseudoElt)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| elt | तत्व | वह तत्व जिसका स्टाइल संशोधित किया जाना है। यह पैरामीटर null नहीं हो सकता। |
+| pseudoElt | String | pseudo-element या यदि कोई नहीं हो तो null। |
+
+### रिटर्न वैल्यू
+
+ओवरराइड स्टाइल घोषणा
+
+### संबंधित देखें
+
+* interface [ICSSStyleDeclaration](../../../com.aspose.html.dom.css/icssstyledeclaration/)
+* class [Element](../../../com.aspose.html.dom/element/)
+* class [HTMLDocument](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

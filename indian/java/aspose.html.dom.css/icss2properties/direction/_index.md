@@ -1,0 +1,25 @@
+---
+title: "ICSS2Properties.Direction"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "ICSS2Properties गुण। यह गुण ब्लॉकों की मूल लेखन दिशा और एम्बेडिंग तथा ओवरराइड की दिशा निर्दिष्ट करता है (Unicode द्विदिशीय एल्गोरिदम के लिए unicode-bidi देखें)। अतिरिक्त रूप से यह तालिका कॉलम लेआउट की दिशा, क्षैतिज overflow की दिशा, और text-align: justify होने पर ब्लॉक में अधूरी अंतिम पंक्ति की स्थिति निर्दिष्ट करता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.css/icss2properties/direction/
+---
+## ICSS2Properties.Direction property
+
+यह गुण ब्लॉकों की मूल लेखन दिशा और एम्बेडिंग तथा ओवरराइड की दिशा निर्दिष्ट करता है (देखें ['unicode-bidi'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-unicode-bidi)) Unicode द्विदिशीय एल्गोरिदम के लिए। अतिरिक्त रूप से, यह [table](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html) कॉलम लेआउट की दिशा, क्षैतिज [overflow](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html#overflow) की दिशा, और 'text-align: justify' होने पर ब्लॉक में अधूरी अंतिम पंक्ति की स्थिति निर्दिष्ट करता है।
+
+```java
+public String Direction { get; set; }
+```
+
+### रिटर्न वैल्यू
+
+direction गुण
+
+### संबंधित देखें
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

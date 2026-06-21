@@ -1,0 +1,29 @@
+---
+title: "HTMLCanvasElement.GetContext"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLCanvasElement मेथड। कैनवास पर एक ड्राइंग कॉन्टेक्स्ट लौटाता है या यदि कॉन्टेक्स्ट ID समर्थित नहीं है तो null लौटाता है। एक ड्राइंग कॉन्टेक्स्ट आपको कैनवास पर ड्रॉ करने देता है।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlcanvaselement/getcontext/
+---
+## HTMLCanvasElement.GetContext method
+
+कैनवास पर एक ड्रॉइंग कॉन्टेक्स्ट लौटाता है, या यदि कॉन्टेक्स्ट ID समर्थित नहीं है तो null। ड्रॉइंग कॉन्टेक्स्ट आपको कैनवास पर ड्रॉ करने की अनुमति देता है।
+
+```java
+public object GetContext(String contextId)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| contextId | String | एक String है जिसमें वह कॉन्टेक्स्ट पहचानकर्ता होता है जो कैनवास से जुड़ा ड्राइंग कॉन्टेक्स्ट परिभाषित करता है। |
+
+### रिटर्न वैल्यू
+
+एक RenderingContext
+
+### संबंधित देखें
+
+* class [HTMLCanvasElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

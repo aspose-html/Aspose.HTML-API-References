@@ -1,0 +1,21 @@
+---
+title: "HTMLTableCellElement.Height"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLTableCellElement प्रॉपर्टी। सेल की ऊँचाई। HTML 4.01 में height एट्रिब्यूट की परिभाषा देखें। यह एट्रिब्यूट HTML 4.01 में अप्रचलित है।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmltablecellelement/height/
+---
+## HTMLTableCellElement.Height property
+
+सेल की ऊँचाई। HTML 4.01 में height एट्रिब्यूट की परिभाषा देखें। यह एट्रिब्यूट HTML 4.01 में अप्रचलित है।
+
+```java
+public String Height { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLTableCellElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

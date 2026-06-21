@@ -1,0 +1,26 @@
+---
+title: "IDocumentFragmentElement.Content"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "IDocumentFragmentElement प्रॉपर्टी। DocumentFragment का इंस्टेंस प्राप्त करता है"
+type: docs
+
+url: /hi/java/com.aspose.html/idocumentfragmentelement/content/
+---
+## IDocumentFragmentElement.Content property
+
+[`DocumentFragment`](../../../com.aspose.html.dom/documentfragment/) का इंस्टेंस प्राप्त करता है।
+
+```java
+public DocumentFragment Content { get; }
+```
+
+### Property Value
+
+कंटेंट।
+
+### संबंधित देखें
+
+* class [DocumentFragment](../../../com.aspose.html.dom/documentfragment/)
+* interface [IDocumentFragmentElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

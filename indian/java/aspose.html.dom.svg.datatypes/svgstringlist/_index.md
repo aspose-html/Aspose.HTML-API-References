@@ -1,0 +1,53 @@
+---
+title: "SVGStringList क्लास"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.dom.svg.datatypes.SVGStringList class. SVGStringList में अन्य SVGxxxList इंटरफ़ेस की समान गुण और विधियाँ हैं। कार्यान्वयनकर्ता विभिन्न SVGxxx सूची इंटरफ़ेस को लागू करने के लिए एकल बेस क्लास का उपयोग करने पर विचार कर सकते हैं।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.datatypes/svgStringlist/
+---
+## SVGStringList class
+
+SVGStringList में अन्य SVGxxxList इंटरफ़ेसों के समान गुण और विधियाँ हैं। कार्यान्वयनकर्ता विभिन्न SVGxxxList इंटरफ़ेसों को लागू करने के लिए एकल बेस क्लास का उपयोग करने पर विचार कर सकते हैं।
+
+```java
+public class SVGStringList : SVGListBase<String>
+```
+
+## कन्स्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [SVGStringList](svgStringlist/#constructor)() | `SVGStringList` क्लास का एक नया उदाहरण प्रारंभ करता है। |
+| [SVGStringList](svgStringlist/#constructor_1)(IEnumerable&lt;String&gt;) | `SVGStringList` क्लास का एक नया उदाहरण प्रारंभ करता है। |
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+[getItem]
+[setItem]  |
+| [getLength](../../com.aspose.html.dom.svg.collections/svglistbase-1/length/) |
+| [getNumberOfItems](../../com.aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [appendItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(String) |  |
+| [clear](../../com.aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
+| [dispose](../../com.aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | अनमैनेज्ड और - वैकल्पिक रूप से - मैनेज्ड रिसोर्सेज़ को रिलीज़ करता है। |
+| [getEnumerator](../../com.aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
+| [getItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | यह मेथड ECMAScript ऑब्जेक्ट को प्राप्त करने के लिए उपयोग किया जाता है। |
+| [initialize](../../com.aspose.html.dom.svg.collections/svglistbase-1/initialize/)(String) |  |
+| [insertItemBefore](../../com.aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(String, ulong) |  |
+| [removeItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
+| [replaceItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(String, ulong) |  |
+| [toString](../../com.aspose.html.dom.svg.datatypes/svgStringlist/toString/)() | इस उदाहरण का प्रतिनिधित्व करने वाली स्ट्रिंग लौटाता है। |
+
+### संबंधित देखें
+
+* class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../)

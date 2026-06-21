@@ -1,0 +1,21 @@
+---
+title: "HTMLAnchorElement.Port"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLAnchorElement प्रॉपर्टी। पोर्ट खंड का String प्रतिनिधित्व प्राप्त करता है या सेट करता है संबंधित URL का"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlanchorelement/port/
+---
+## HTMLAnchorElement.Port property
+
+पोर्ट खंड का String प्रतिनिधित्व प्राप्त करता है या सेट करता है संबंधित URL का।
+
+```java
+public String Port { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLAnchorElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

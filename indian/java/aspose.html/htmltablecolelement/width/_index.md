@@ -1,0 +1,21 @@
+---
+title: "HTMLTableColElement.Width"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLTableColElement प्रॉपर्टी। डिफ़ॉल्ट कॉलम चौड़ाई। HTML 4.01 में width एट्रिब्यूट परिभाषा देखें।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmltablecolelement/width/
+---
+## HTMLTableColElement.Width property
+
+डिफ़ॉल्ट कॉलम चौड़ाई। HTML 4.01 में width एट्रिब्यूट परिभाषा देखें।
+
+```java
+public String Width { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLTableColElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
