@@ -1,0 +1,21 @@
+---
+title: "HTMLTextAreaElement.Name"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "HTMLTextAreaElement property. Nama kontrol formulir atau objek saat dikirim dengan sebuah formulir. Lihat definisi atribut name dalam HTML 4.01."
+type: docs
+
+url: /id/java/com.aspose.html/htmltextareaelement/name/
+---
+## HTMLTextAreaElement.Name property
+
+Nama kontrol formulir atau objek saat dikirim dengan formulir. Lihat definisi atribut name di HTML 4.01.
+
+```java
+public String Name { get; set; }
+```
+
+### Lihat Juga
+
+* class [HTMLTextAreaElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

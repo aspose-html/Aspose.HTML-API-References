@@ -1,0 +1,31 @@
+---
+title: "SVGLength.ValueInSpecifiedUnits"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Properti SVGLength. Nilai sebagai angka floating point dalam satuan yang ditentukan oleh unitType. Menetapkan atribut ini akan menyebabkan nilai dan valueAsString diperbarui secara otomatis untuk mencerminkan pengaturan ini."
+type: docs
+
+url: /id/java/com.aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/
+---
+## SVGLength.ValueInSpecifiedUnits property
+
+Nilai sebagai angka floating point, dalam satuan yang ditentukan oleh unitType. Menetapkan atribut ini akan menyebabkan nilai dan valueAsString diperbarui secara otomatis untuk mencerminkan pengaturan ini.
+
+```java
+public float ValueInSpecifiedUnits { get; set; }
+```
+
+### Property Value
+
+Nilai dalam satuan yang ditentukan.
+
+### Pengecualian
+
+| pengecualian | kondisi |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | Kode [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/)Dikeluarkan ketika panjang sesuai dengan atribut hanya-baca atau ketika objek itu sendiri hanya-baca. |
+
+### Lihat Juga
+
+* class [SVGLength](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

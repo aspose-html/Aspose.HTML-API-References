@@ -1,0 +1,31 @@
+---
+title: "Color.FromHwb"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Metode Color. Mengembalikan Color baru dengan nilai hue, whiteness, dan blackness yang diminta"
+type: docs
+
+url: /id/java/com.aspose.html.drawing/color/fromhwb/
+---
+## Color.FromHwb method
+
+Mengembalikan Color baru dengan nilai hue, whiteness, blackness yang diminta.
+
+```java
+public static Color FromHwb(float hue, float whiteness, float blackness)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| hue | Single | Sebuah float yang mewakili komponen hue dari warna. |
+| kebersihan | Single | Float yang mewakili komponen kebersihan warna. |
+| kegelapan | Single | Float yang mewakili komponen kegelapan warna. |
+
+### Nilai Kembali
+
+Sebuah instance baru dari kelas [`Color`](../)
+
+### Lihat Juga
+
+* class [Color](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)
