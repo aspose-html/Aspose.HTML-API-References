@@ -1,0 +1,25 @@
+---
+title: "Element.TagName"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Proprietà Element. Il nome dell'elemento"
+type: docs
+
+url: /it/java/com.aspose.html.dom/element/tagname/
+---
+## Element.TagName property
+
+Il nome dell'elemento.
+
+```java
+public String TagName { get; }
+```
+
+### Property Value
+
+Il nome dell'elemento.
+
+### Vedi anche
+
+* class [Element](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

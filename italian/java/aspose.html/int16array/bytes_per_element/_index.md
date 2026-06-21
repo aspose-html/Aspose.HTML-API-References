@@ -1,0 +1,21 @@
+---
+title: "Int16Array.BYTES_PER_ELEMENT"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Campo Int16Array. La proprietà rappresenta la dimensione in byte di ogni elemento in un array tipizzato"
+type: docs
+
+url: /it/java/com.aspose.html/int16array/bytes_per_element/
+---
+## Int16Array.BYTES_PER_ELEMENT field
+
+La proprietà rappresenta la dimensione in byte di ciascun elemento in un array tipizzato.
+
+```java
+public static readonly byte BYTES_PER_ELEMENT;
+```
+
+### Vedi anche
+
+* class [Int16Array](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

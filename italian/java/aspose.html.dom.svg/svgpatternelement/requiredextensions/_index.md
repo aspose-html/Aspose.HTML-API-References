@@ -1,0 +1,26 @@
+---
+title: "SVGPatternElement.RequiredExtensions"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Proprietà SVGPatternElement. Corrisponde all'attributo requiredExtensions sull'elemento fornito"
+type: docs
+
+url: /it/java/com.aspose.html.dom.svg/svgpatternelement/requiredextensions/
+---
+## SVGPatternElement.RequiredExtensions property
+
+Corrisponde all'attributo ‘requiredExtensions’ nell'elemento specificato.
+
+```java
+public SVGStringList RequiredExtensions { get; }
+```
+
+### Property Value
+
+Le estensioni richieste.
+
+### Vedi anche
+
+* class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
+* class [SVGPatternElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

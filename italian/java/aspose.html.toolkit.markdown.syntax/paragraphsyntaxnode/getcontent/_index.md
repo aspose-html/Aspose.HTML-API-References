@@ -1,0 +1,26 @@
+---
+title: "ParagraphSyntaxNode.GetContent"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Metodo ParagraphSyntaxNode. Definisce l'interfaccia per ottenere il contenuto"
+type: docs
+
+url: /it/java/com.aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/getcontent/
+---
+## ParagraphSyntaxNode.GetContent method
+
+Definisce l'interfaccia per ottenere il contenuto.
+
+```java
+public NodeList GetContent()
+```
+
+### Valore di ritorno
+
+La sintassi InlineContainer.
+
+### Vedi anche
+
+* class [NodeList](../../nodelist/)
+* class [ParagraphSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

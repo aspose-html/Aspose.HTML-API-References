@@ -1,0 +1,26 @@
+---
+title: "SVGFEColorMatrixElement.Values"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Proprietà SVGFEColorMatrixElement. Corrisponde all'attributo values sull'elemento feColorMatrix specificato"
+type: docs
+
+url: /it/java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/values/
+---
+## SVGFEColorMatrixElement.Values property
+
+Corrisponde all'attributo ‘values’ sull'elemento ‘feColorMatrix’ specificato.
+
+```java
+public SVGAnimatedNumberList Values { get; }
+```
+
+### Property Value
+
+L'attributo ‘values’ dell'elemento ‘feColorMatrix’ specificato.
+
+### Vedi anche
+
+* class [SVGAnimatedNumberList](../../../com.aspose.html.dom.svg.datatypes/svganimatednumberlist/)
+* class [SVGFEColorMatrixElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)
