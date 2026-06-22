@@ -1,0 +1,27 @@
+---
+title: "ICSS2Properties.PauseBefore"
+second_title: "Справочник API Aspose.HTML для Java"
+description: "Свойство ICSS2Properties. Эти свойства задают паузу, которую следует соблюдать до или после озвучивания содержимого элемента. Значения имеют следующее значение"
+type: docs
+
+url: /ru/java/com.aspose.html.dom.css/icss2properties/pausebefore/
+---
+## ICSS2Properties.PauseBefore property
+
+Эти свойства задают паузу, которую следует соблюдать до (или после) озвучивания содержимого элемента. Значения имеют следующее значение:
+
+'[time](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-time)' - Задает паузу в абсолютных единицах времени (секунды и миллисекунды). '[percentage](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-percentage)' - Относится к обратному значению свойства ['speech-rate'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-speech-rate). Например, если speech-rate составляет 120 слов в минуту (т.е. слово занимает полсекунды, или 500 ms), то ['pause-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-before) в 100 % означает паузу 500 ms, а ['pause-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-before) в 20 % — 100 ms.
+
+```java
+public String PauseBefore { get; set; }
+```
+
+### Возвращаемое значение
+
+свойство pause-before
+
+### См. также
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
