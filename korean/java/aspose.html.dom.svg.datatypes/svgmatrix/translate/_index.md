@@ -1,0 +1,30 @@
+---
+title: "SVGMatrix.Translate"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "SVGMatrix 메서드. 현재 행렬에 평행 이동 변환을 후행 곱하고 결과 행렬을 반환합니다"
+type: docs
+
+url: /ko/java/com.aspose.html.dom.svg.datatypes/svgmatrix/translate/
+---
+## SVGMatrix.Translate method
+
+현재 행렬에 평행 이동 변환을 후행 곱하고 결과 행렬을 반환합니다.
+
+```java
+public SVGMatrix Translate(float x, float y)
+```
+
+| Parameter | Type | 설명 |
+| --- | --- | --- |
+| x | Single | x축을 따라 변환할 거리. |
+| y | Single | y축을 따라 변환할 거리. |
+
+### 반환 값
+
+결과 행렬.
+
+### 또 보기
+
+* class [SVGMatrix](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

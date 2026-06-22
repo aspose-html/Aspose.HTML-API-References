@@ -1,0 +1,25 @@
+---
+title: "Url.Port"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "Url property. 지정된 URL 포트에 대한 문자열 표현을 가져오거나 설정합니다"
+type: docs
+
+url: /ko/java/com.aspose.html/url/port/
+---
+## Url.Port property
+
+지정된 URL 포트에 대한 문자열 표현을 가져오거나 설정합니다.
+
+```java
+public String Port { get; set; }
+```
+
+### Property Value
+
+해당 포트.
+
+### 또 보기
+
+* class [Url](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

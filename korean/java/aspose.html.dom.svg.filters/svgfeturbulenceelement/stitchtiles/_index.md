@@ -1,0 +1,26 @@
+---
+title: "SVGFETurbulenceElement.StitchTiles"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "SVGFETurbulenceElement 속성. 주어진 feTurbulence 요소의 stitchTiles 속성에 해당합니다. 이 인터페이스에 정의된 SVG_STITCHTYPE_ 상수 중 하나를 사용합니다."
+type: docs
+
+url: /ko/java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/stitchtiles/
+---
+## SVGFETurbulenceElement.StitchTiles property
+
+주어진 ‘feTurbulence’ 요소의 ‘stitchTiles’ 속성에 해당합니다. 이 인터페이스에 정의된 SVG_STITCHTYPE_* 상수 중 하나를 사용합니다.
+
+```java
+public SVGAnimatedEnumeration StitchTiles { get; }
+```
+
+### Property Value
+
+주어진 ‘feTurbulence’ 요소의 ‘stitchTiles’ 속성.
+
+### 또 보기
+
+* class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
+* class [SVGFETurbulenceElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,26 @@
+---
+title: "Rect.Right"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "Rect 속성. 이 속성은 사각형의 오른쪽에 사용됩니다."
+type: docs
+
+url: /ko/java/com.aspose.html.dom.css/rect/right/
+---
+## Rect.Right property
+
+이 속성은 사각형의 오른쪽에 사용됩니다.
+
+```java
+public CSSPrimitiveValue Right { get; }
+```
+
+### Property Value
+
+사각형 오른쪽 면의 x축 값입니다.
+
+### 또 보기
+
+* class [CSSPrimitiveValue](../../cssprimitivevalue/)
+* class [Rect](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
