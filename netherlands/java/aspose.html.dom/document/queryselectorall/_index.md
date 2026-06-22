@@ -1,0 +1,30 @@
+---
+title: "Document.QuerySelectorAll"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "Document methode. Retourneert een NodeList van alle Elementen in het document die overeenkomen met de selector"
+type: docs
+
+url: /nl/java/com.aspose.html.dom/document/queryselectorall/
+---
+## Document.QuerySelectorAll method
+
+Retourneert een NodeList van alle Elements in het document die overeenkomen met de selector
+
+```java
+public NodeList QuerySelectorAll(String selector)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| selector | String | De queryselector |
+
+### Retourwaarde
+
+[`HTMLCollection`](../../../com.aspose.html.collections/htmlcollection/)
+
+### Zie ook
+
+* class [NodeList](../../../com.aspose.html.collections/nodelist/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

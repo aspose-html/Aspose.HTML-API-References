@@ -1,0 +1,22 @@
+---
+title: "IGlobalEventHandlers.OnEnded"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "IGlobalEventHandlers gebeurtenis. Haalt op of stelt gebeurtenishandler in voor de OnEnded gebeurtenis"
+type: docs
+
+url: /nl/java/com.aspose.html.dom/iglobaleventhandlers/onended/
+---
+## IGlobalEventHandlers.OnEnded event
+
+Haalt op of stelt de gebeurtenishandler in voor het OnEnded‑event.
+
+```java
+public event DOMEventHandler OnEnded;
+```
+
+### Zie ook
+
+* delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
+* interface [IGlobalEventHandlers](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,27 @@
+---
+title: "ICSS2Properties.PageBreakBefore"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "ICSS2Properties eigenschap. Waarden voor deze eigenschappen hebben de volgende betekenissen"
+type: docs
+
+url: /nl/java/com.aspose.html.dom.css/icss2properties/pagebreakbefore/
+---
+## ICSS2Properties.PageBreakBefore property
+
+Waarden voor deze eigenschappen hebben de volgende betekenissen:
+
+auto - Noch dwingt noch verbiedt een pagina-einde vóór (na, binnen) de gegenereerde box. always - Dwingt altijd een pagina-einde vóór (na) de gegenereerde box. avoid - Vermijdt een pagina-einde vóór (na, binnen) de gegenereerde box. left - Dwingt één of twee pagina-einden vóór (na) de gegenereerde box zodat de volgende pagina wordt opgemaakt als een linkerpagina. right - Dwingt één of twee pagina-einden vóór (na) de gegenereerde box zodat de volgende pagina wordt opgemaakt als een rechterpagina.
+
+```java
+public String PageBreakBefore { get; set; }
+```
+
+### Retourwaarde
+
+page-break-before eigenschap
+
+### Zie ook
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

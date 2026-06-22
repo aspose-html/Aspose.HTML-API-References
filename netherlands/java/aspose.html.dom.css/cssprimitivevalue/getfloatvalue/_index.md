@@ -1,0 +1,29 @@
+---
+title: "CSSPrimitiveValue.GetFloatValue"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "CSSPrimitiveValue methode. Deze methode wordt gebruikt om een float-waarde te verkrijgen in een opgegeven eenheid. Als deze CSS-waarde geen float-waarde bevat of niet kan worden geconverteerd naar de opgegeven eenheid, wordt een DOMException opgegooid."
+type: docs
+
+url: /nl/java/com.aspose.html.dom.css/cssprimitivevalue/getfloatvalue/
+---
+## CSSPrimitiveValue.GetFloatValue method
+
+Deze methode wordt gebruikt om een float‑waarde op te halen in een opgegeven eenheid. Als deze CSS‑waarde geen float‑waarde bevat of niet kan worden omgezet naar de opgegeven eenheid, wordt een DOMException opgegooid.
+
+```java
+public abstract float GetFloatValue(ushort unitType)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| unitType | UInt16 | Type van de eenheid. |
+
+### Retourwaarde
+
+Retourneert waarde
+
+### Zie ook
+
+* class [CSSPrimitiveValue](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

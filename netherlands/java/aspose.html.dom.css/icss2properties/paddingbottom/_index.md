@@ -1,0 +1,25 @@
+---
+title: "ICSS2Properties.PaddingBottom"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "fixed - De positie van de box wordt berekend volgens het 'absolute' model, maar daarnaast wordt de box [fixed](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#fixed-positioning) gepositioneerd ten opzichte van een referentie. In het geval van [continuous media](https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html#continuous-media-group) is de box vast ten opzichte van de [viewport](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#viewport) (en beweegt niet bij scrollen). In het geval van [paged media](https://www.w3.org/TR/1998/REC-CSS2-19980512/media.html#paged-media-group) is de box vast ten opzichte van de pagina, zelfs als die pagina wordt bekeken via een [viewport](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#viewport) (bijvoorbeeld in een afdrukvoorbeeld). Auteurs kunnen 'fixed' op een media‑afhankelijke manier specificeren."
+type: docs
+
+url: /nl/java/com.aspose.html.dom.css/icss2properties/paddingbottom/
+---
+## ICSS2Properties.PaddingBottom property
+
+position eigenschap
+
+```java
+public String PaddingBottom { get; set; }
+```
+
+### Retourwaarde
+
+padding-bottom eigenschap
+
+### Zie ook
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

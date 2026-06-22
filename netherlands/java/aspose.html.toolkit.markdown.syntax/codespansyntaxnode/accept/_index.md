@@ -1,0 +1,26 @@
+---
+title: "CodeSpanSyntaxNode.Accept"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "CodeSpanSyntaxNode method. Definieert de interface voor het accepteren van een visitor"
+type: docs
+
+url: /nl/java/com.aspose.html.toolkit.markdown.syntax/codespansyntaxnode/accept/
+---
+## CodeSpanSyntaxNode.Accept method
+
+Definieert de interface voor het accepteren van een bezoeker.
+
+```java
+public void Accept(MarkdownSyntaxVisitor visitor)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| bezoeker | MarkdownSyntaxVisitor | De bezoeker. |
+
+### Zie ook
+
+* class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
+* class [CodeSpanSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
