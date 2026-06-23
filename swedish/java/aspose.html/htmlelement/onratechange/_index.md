@@ -1,0 +1,22 @@
+---
+title: "HTMLElement.OnRateChange"
+second_title: "Aspose.HTML för Java API-referens"
+description: "HTMLElement-händelse. Hämtar eller anger händelsehanterare för OnRateChange-händelsen"
+type: docs
+
+url: /sv/java/com.aspose.html/htmlelement/onratechange/
+---
+## HTMLElement.OnRateChange event
+
+Hämtar eller anger händelsehanterare för OnRateChange‑händelse.
+
+```java
+public event DOMEventHandler OnRateChange;
+```
+
+### Se även
+
+* delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
+* class [HTMLElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
