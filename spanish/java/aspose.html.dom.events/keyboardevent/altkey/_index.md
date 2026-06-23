@@ -1,0 +1,25 @@
+---
+title: "KeyboardEvent.AltKey"
+second_title: "Referencia de la API de Aspose.HTML para Java"
+description: "Propiedad KeyboardEvent. true si el modificador de tecla Alt alternativa o Option estaba activo. El valor no inicializado de este atributo DEBE ser false"
+type: docs
+
+url: /es/java/com.aspose.html.dom.events/keyboardevent/altkey/
+---
+## KeyboardEvent.AltKey property
+
+true si el modificador de tecla Alt (alternativa) (o "Option") estaba activo. El valor no inicializado de este atributo DEBE ser false.
+
+```java
+public bool AltKey { get; }
+```
+
+### Property Value
+
+`true` si Alt; de lo contrario, `false`.
+
+### Ver también
+
+* class [KeyboardEvent](../)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
+* package [Aspose.HTML](../../../)
