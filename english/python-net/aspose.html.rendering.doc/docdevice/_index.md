@@ -43,6 +43,7 @@ The DocDevice type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [begin_document](/html/python-net/aspose.html.rendering.doc/docdevice/begin_document/#aspose.html.dom.Document) | Begins rendering of the document. |
+| [end_document](/html/python-net/aspose.html.rendering.doc/docdevice/end_document/#) | Ends rendering of the document. |
 | [begin_page](/html/python-net/aspose.html.rendering.doc/docdevice/begin_page/#aspose.pydrawing.SizeF) | Begins rendering of the new page. |
 | [end_page](/html/python-net/aspose.html.rendering.doc/docdevice/end_page/#) | Ends rendering of the current page. |
 | [flush](/html/python-net/aspose.html.rendering.doc/docdevice/flush/#) | Flushes all data to output stream. |
@@ -62,7 +63,6 @@ The DocDevice type exposes the following members:
 | [draw_image](/html/python-net/aspose.html.rendering.doc/docdevice/draw_image/#bytes-aspose.html.drawing.WebImageFormat-aspose.pydrawing.RectangleF) | Draws the specified image. |
 | [save_graphic_context](/html/python-net/aspose.html.rendering.doc/docdevice/save_graphic_context/#) |  |
 | [restore_graphic_context](/html/python-net/aspose.html.rendering.doc/docdevice/restore_graphic_context/#) |  |
-| [end_document](/html/python-net/aspose.html.rendering.doc/docdevice/end_document/#) |  |
 
 
 

@@ -3,7 +3,7 @@ title: RequestMessage.RequestUri
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage RequestUri property. Gets or sets the request URI
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.html.net/requestmessage/requesturi/
 ---
 ## RequestMessage.RequestUri property

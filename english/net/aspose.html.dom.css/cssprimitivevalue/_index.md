@@ -74,6 +74,7 @@ public abstract class CSSPrimitiveValue : CSSValue
 | const [CSS_RGBCOLOR](../../aspose.html.dom.css/cssprimitivevalue/css_rgbcolor/) | The value is a RGB color. The value can be obtained by using the GetRGBColorValue method. |
 | const [CSS_S](../../aspose.html.dom.css/cssprimitivevalue/css_s/) | The value is a time (s). The value can be obtained by using the getFloatValue method. |
 | const [CSS_STRING](../../aspose.html.dom.css/cssprimitivevalue/css_string/) | The value is a STRING. The value can be obtained by using the getStringValue method. |
+| const [CSS_STYLE_VALUE](../../aspose.html.dom.css/cssprimitivevalue/css_style_value/) | This value is a value of the new CSSStyleValue type from CSS Typed OM Level 1 (to tie it to the legacy one). |
 | const [CSS_UNKNOWN](../../aspose.html.dom.css/cssprimitivevalue/css_unknown/) | The value is not a recognized CSS2 value. The value can only be obtained by using the cssText attribute. |
 | const [CSS_URI](../../aspose.html.dom.css/cssprimitivevalue/css_uri/) | The value is a URI. The value can be obtained by using the getStringValue method. |
 | const [CSS_VH](../../aspose.html.dom.css/cssprimitivevalue/css_vh/) | The value is a percentage of the full viewport height. |

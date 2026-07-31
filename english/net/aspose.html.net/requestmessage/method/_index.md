@@ -3,7 +3,7 @@ title: RequestMessage.Method
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage Method property. Gets or sets the HttpMethod
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.html.net/requestmessage/method/
 ---
 ## RequestMessage.Method property

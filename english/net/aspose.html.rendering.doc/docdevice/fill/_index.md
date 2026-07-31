@@ -3,7 +3,7 @@ title: DocDevice.Fill
 second_title: Aspose.HTML for .NET API Reference
 description: DocDevice Fill method. Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths it fills the insides of all subpaths considered together. This method terminates current path
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.html.rendering.doc/docdevice/fill/
 ---
 ## DocDevice.Fill method

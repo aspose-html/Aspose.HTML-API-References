@@ -3,7 +3,7 @@ title: RequestMessage.Credentials
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage Credentials property. Gets or sets authentication information for the request
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.html.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property

@@ -48,7 +48,7 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 | override [CubicBezierTo](../../aspose.html.rendering.doc/docdevice/cubicbezierto/)(*PointF, PointF, PointF*) | Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3. |
 | [Dispose](../../aspose.html.rendering/device-2/dispose/)() |  |
 | override [DrawImage](../../aspose.html.rendering.doc/docdevice/drawimage/)(*byte[], [WebImageFormat](../../aspose.html.drawing/webimageformat/), RectangleF*) | Draws the specified image. |
-| virtual [EndDocument](../../aspose.html.rendering/device-2/enddocument/)() |  |
+| override [EndDocument](../../aspose.html.rendering.doc/docdevice/enddocument/)() | Ends rendering of the document. |
 | override [EndElement](../../aspose.html.rendering.doc/docdevice/endelement/)(*[Element](../../aspose.html.dom/element/)*) | Ends rendering of the html node. |
 | override [EndPage](../../aspose.html.rendering.doc/docdevice/endpage/)() | Ends rendering of the current page. |
 | override [Fill](../../aspose.html.rendering.doc/docdevice/fill/)(*[FillRule](../../aspose.html.rendering/fillrule/)*) | Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths, it fills the insides of all subpaths, considered together. This method terminates current path. |
