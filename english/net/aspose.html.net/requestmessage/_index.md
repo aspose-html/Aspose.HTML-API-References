@@ -25,6 +25,7 @@ public class RequestMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
+| [CancellationToken](../../aspose.html.net/requestmessage/cancellationtoken/) { get; set; } | Gets or sets a token that cancels the request and response body read. |
 | [Content](../../aspose.html.net/requestmessage/content/) { get; set; } | Gets or sets the request content. |
 | [CookieContainer](../../aspose.html.net/requestmessage/cookiecontainer/) { get; set; } | Gets or sets the cookie container used to store server cookies by the handler. |
 | [Credentials](../../aspose.html.net/requestmessage/credentials/) { get; set; } | Gets or sets authentication information for the request. |

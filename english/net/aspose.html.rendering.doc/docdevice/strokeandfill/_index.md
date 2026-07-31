@@ -3,7 +3,7 @@ title: DocDevice.StrokeAndFill
 second_title: Aspose.HTML for .NET API Reference
 description: DocDevice StrokeAndFill method. Strokes and fill current path. This method terminates current path
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.html.rendering.doc/docdevice/strokeandfill/
 ---
 ## DocDevice.StrokeAndFill method

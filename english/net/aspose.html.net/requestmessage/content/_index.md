@@ -3,7 +3,7 @@ title: RequestMessage.Content
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage Content property. Gets or sets the request content
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.html.net/requestmessage/content/
 ---
 ## RequestMessage.Content property

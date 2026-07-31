@@ -3,7 +3,7 @@ title: RequestMessage.Dispose
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage Dispose method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.html.net/requestmessage/dispose/
 ---
 ## RequestMessage.Dispose method

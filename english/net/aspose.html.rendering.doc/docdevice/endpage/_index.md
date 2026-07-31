@@ -3,7 +3,7 @@ title: DocDevice.EndPage
 second_title: Aspose.HTML for .NET API Reference
 description: DocDevice EndPage method. Ends rendering of the current page
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.html.rendering.doc/docdevice/endpage/
 ---
 ## DocDevice.EndPage method

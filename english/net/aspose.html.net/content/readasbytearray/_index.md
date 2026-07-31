@@ -6,13 +6,37 @@ type: docs
 weight: 30
 url: /net/aspose.html.net/content/readasbytearray/
 ---
-## Content.ReadAsByteArray method
+## ReadAsByteArray() {#readasbytearray}
 
 Serialize the HTTP content and return a byte array that represents the content.
 
 ```csharp
 public byte[] ReadAsByteArray()
 ```
+
+### Return Value
+
+Serialized byte array that represents the content
+
+### See Also
+
+* class [Content](../)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ReadAsByteArray(*CancellationToken*) {#readasbytearray_1}
+
+Serialize the HTTP content and return a byte array that represents the content.
+
+```csharp
+public byte[] ReadAsByteArray(CancellationToken cancellationToken)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cancellationToken | CancellationToken | The cancellation token. |
 
 ### Return Value
 

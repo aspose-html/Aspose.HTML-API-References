@@ -3,7 +3,7 @@ title: DocDevice.StrokeText
 second_title: Aspose.HTML for .NET API Reference
 description: DocDevice StrokeText method. Strokes the specified text string at the specified location
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.html.rendering.doc/docdevice/stroketext/
 ---
 ## DocDevice.StrokeText method

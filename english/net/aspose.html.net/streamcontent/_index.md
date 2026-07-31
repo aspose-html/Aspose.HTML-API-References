@@ -18,7 +18,8 @@ public class StreamContent : Content
 
 | Name | Description |
 | --- | --- |
-| [StreamContent](streamcontent/)(*Stream*) | Initializes a new instance of the `StreamContent` class. |
+| [StreamContent](streamcontent/#constructor)(*Stream*) | Initializes a new instance of the `StreamContent` class. |
+| [StreamContent](streamcontent/#constructor_1)(*Stream, CancellationToken*) | Initializes a new instance of the `StreamContent` class. |
 
 ## Properties
 
@@ -32,8 +33,11 @@ public class StreamContent : Content
 | --- | --- |
 | [Dispose](../../aspose.html.net/content/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)(*CancellationToken*) | Serialize the HTTP content and return a byte array that represents the content. |
 | [ReadAsStream](../../aspose.html.net/content/readasstream/)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream/)(*CancellationToken*) | Serialize the HTTP content and return a stream that represents the content. |
 | [ReadAsString](../../aspose.html.net/content/readasstring/)() | Serialize the HTTP content and return a string that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring/)(*CancellationToken*) | Serialize the HTTP content and return a string that represents the content. |
 
 ### See Also
 

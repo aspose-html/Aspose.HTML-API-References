@@ -3,7 +3,7 @@ title: RequestMessage.CookieContainer
 second_title: Aspose.HTML for .NET API Reference
 description: RequestMessage CookieContainer property. Gets or sets the cookie container used to store server cookies by the handler
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.html.net/requestmessage/cookiecontainer/
 ---
 ## RequestMessage.CookieContainer property
