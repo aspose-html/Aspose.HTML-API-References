@@ -3,7 +3,7 @@ title: HTMLElement.OnEmptied
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnEmptied event. Gets or sets event handler for OnEmptied event
 type: docs
-weight: 170
+weight: 190
 url: /net/aspose.html/htmlelement/onemptied/
 ---
 ## HTMLElement.OnEmptied event

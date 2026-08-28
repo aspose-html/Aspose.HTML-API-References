@@ -3,7 +3,7 @@ title: HTMLElement.OnClick
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnClick event. Gets or sets event handler for OnClick event
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.html/htmlelement/onclick/
 ---
 ## HTMLElement.OnClick event

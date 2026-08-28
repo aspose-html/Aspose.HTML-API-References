@@ -3,7 +3,7 @@ title: HTMLElement.OnBlur
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnBlur event. Gets or sets event handler for OnBlur event
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.html/htmlelement/onblur/
 ---
 ## HTMLElement.OnBlur event

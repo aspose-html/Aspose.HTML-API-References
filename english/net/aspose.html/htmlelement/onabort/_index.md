@@ -3,7 +3,7 @@ title: HTMLElement.OnAbort
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnAbort event. Gets or sets event handler for OnAbort event
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.html/htmlelement/onabort/
 ---
 ## HTMLElement.OnAbort event

@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseWheel
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnMouseWheel event. Gets or sets event handler for OnMouseWheel event
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.html/htmlelement/onmousewheel/
 ---
 ## HTMLElement.OnMouseWheel event

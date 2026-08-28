@@ -3,7 +3,7 @@ title: HTMLElement.OnProgress
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnProgress event. Gets or sets event handler for OnProgress event
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.html/htmlelement/onprogress/
 ---
 ## HTMLElement.OnProgress event

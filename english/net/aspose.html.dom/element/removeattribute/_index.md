@@ -3,7 +3,7 @@ title: Element.RemoveAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: Element RemoveAttribute method. Removes an attribute by name
 type: docs
-weight: 370
+weight: 390
 url: /net/aspose.html.dom/element/removeattribute/
 ---
 ## Element.RemoveAttribute method

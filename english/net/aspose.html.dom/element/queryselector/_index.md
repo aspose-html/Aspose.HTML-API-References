@@ -3,7 +3,7 @@ title: Element.QuerySelector
 second_title: Aspose.HTML for .NET API Reference
 description: Element QuerySelector method. Returns the first Element in document which match selector
 type: docs
-weight: 340
+weight: 360
 url: /net/aspose.html.dom/element/queryselector/
 ---
 ## Element.QuerySelector method

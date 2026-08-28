@@ -3,7 +3,7 @@ title: HTMLElement.OnScroll
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnScroll event. Gets or sets event handler for OnScroll event
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.html/htmlelement/onscroll/
 ---
 ## HTMLElement.OnScroll event

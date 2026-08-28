@@ -3,7 +3,7 @@ title: HTMLElement.OnError
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnError event. Gets or sets event handler for OnError event
 type: docs
-weight: 190
+weight: 210
 url: /net/aspose.html/htmlelement/onerror/
 ---
 ## HTMLElement.OnError event

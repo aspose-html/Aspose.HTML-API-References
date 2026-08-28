@@ -3,7 +3,7 @@ title: HTMLElement.OnInvalid
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnInvalid event. Gets or sets event handler for OnInvalid event
 type: docs
-weight: 220
+weight: 240
 url: /net/aspose.html/htmlelement/oninvalid/
 ---
 ## HTMLElement.OnInvalid event

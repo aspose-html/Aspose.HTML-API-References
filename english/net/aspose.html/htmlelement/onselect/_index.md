@@ -3,7 +3,7 @@ title: HTMLElement.OnSelect
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnSelect event. Gets or sets event handler for OnSelect event
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.html/htmlelement/onselect/
 ---
 ## HTMLElement.OnSelect event

@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseUp
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnMouseUp event. Gets or sets event handler for OnMouseUp event
 type: docs
-weight: 360
+weight: 380
 url: /net/aspose.html/htmlelement/onmouseup/
 ---
 ## HTMLElement.OnMouseUp event
