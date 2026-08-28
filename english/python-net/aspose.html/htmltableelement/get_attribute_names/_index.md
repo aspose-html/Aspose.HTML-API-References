@@ -3,7 +3,7 @@ title: get_attribute_names method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.html/htmltableelement/get_attribute_names/
 is_root: false
 ---

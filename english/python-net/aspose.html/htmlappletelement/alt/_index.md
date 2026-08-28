@@ -3,7 +3,7 @@ title: alt property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html/htmlappletelement/alt/
 is_root: false
 ---

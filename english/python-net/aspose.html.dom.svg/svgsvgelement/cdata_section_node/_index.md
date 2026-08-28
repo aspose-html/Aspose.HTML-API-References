@@ -3,7 +3,7 @@ title: CDATA_SECTION_NODE property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 630
 url: /python-net/aspose.html.dom.svg/svgsvgelement/cdata_section_node/
 is_root: false
 ---

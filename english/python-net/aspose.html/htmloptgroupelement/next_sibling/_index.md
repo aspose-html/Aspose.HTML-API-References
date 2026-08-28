@@ -3,7 +3,7 @@ title: next_sibling property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 740
+weight: 760
 url: /python-net/aspose.html/htmloptgroupelement/next_sibling/
 is_root: false
 ---

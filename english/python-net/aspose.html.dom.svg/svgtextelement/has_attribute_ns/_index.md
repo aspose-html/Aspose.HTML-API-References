@@ -3,7 +3,7 @@ title: has_attribute_ns method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /python-net/aspose.html.dom.svg/svgtextelement/has_attribute_ns/
 is_root: false
 ---

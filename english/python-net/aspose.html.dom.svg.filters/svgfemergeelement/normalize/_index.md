@@ -3,7 +3,7 @@ title: normalize method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /python-net/aspose.html.dom.svg.filters/svgfemergeelement/normalize/
 is_root: false
 ---

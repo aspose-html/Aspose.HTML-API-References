@@ -3,7 +3,7 @@ title: selected property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 920
 url: /python-net/aspose.html/htmloptionelement/selected/
 is_root: false
 ---

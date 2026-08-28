@@ -125,6 +125,8 @@ The SVGFETileElement type exposes the following members:
 | [remove](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/remove/#) | Removes this instance. |
 | [query_selector_all](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/query_selector_all/#str) | Returns a NodeList of all the Elements in document, which match selector |
 | [query_selector](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/query_selector/#str) | Returns the first Element in document, which match selector |
+| [matches](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/matches/#str) | Determines whether the element matches the specified CSS selector. |
+| [closest](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/closest/#str) | Returns the closest ancestor element (or the element itself) that matches the specified CSS selector. |
 | [attach_shadow](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/attach_shadow/#aspose.html.dom.ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [get_elements_by_class_name](/html/python-net/aspose.html.dom.svg.filters/svgfetileelement/get_elements_by_class_name/#str) | Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all the elements within [`Element`](/html/python-net/aspose.html.dom/element) that have all the classes specified in argument. |
 

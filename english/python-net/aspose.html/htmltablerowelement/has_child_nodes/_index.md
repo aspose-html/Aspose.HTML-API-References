@@ -3,7 +3,7 @@ title: has_child_nodes method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /python-net/aspose.html/htmltablerowelement/has_child_nodes/
 is_root: false
 ---

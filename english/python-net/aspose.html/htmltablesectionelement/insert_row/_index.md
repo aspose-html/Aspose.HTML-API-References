@@ -3,7 +3,7 @@ title: insert_row method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /python-net/aspose.html/htmltablesectionelement/insert_row/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: remove_event_listener method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 370
 url: /python-net/aspose.html/htmlcanvaselement/remove_event_listener/
 is_root: false
 ---

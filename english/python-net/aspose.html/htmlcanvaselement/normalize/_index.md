@@ -3,7 +3,7 @@ title: normalize method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 290
 url: /python-net/aspose.html/htmlcanvaselement/normalize/
 is_root: false
 ---

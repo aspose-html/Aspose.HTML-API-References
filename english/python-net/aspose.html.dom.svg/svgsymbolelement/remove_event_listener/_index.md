@@ -3,7 +3,7 @@ title: remove_event_listener method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 390
 url: /python-net/aspose.html.dom.svg/svgsymbolelement/remove_event_listener/
 is_root: false
 ---

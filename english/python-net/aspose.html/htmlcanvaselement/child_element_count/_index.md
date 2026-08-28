@@ -3,7 +3,7 @@ title: child_element_count property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 600
 url: /python-net/aspose.html/htmlcanvaselement/child_element_count/
 is_root: false
 ---

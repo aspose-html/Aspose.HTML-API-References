@@ -3,7 +3,7 @@ title: get_platform_type method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.html/htmlolistelement/get_platform_type/
 is_root: false
 ---

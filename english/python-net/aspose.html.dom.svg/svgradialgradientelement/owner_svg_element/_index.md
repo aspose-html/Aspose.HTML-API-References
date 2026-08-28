@@ -3,7 +3,7 @@ title: owner_svg_element property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 880
+weight: 900
 url: /python-net/aspose.html.dom.svg/svgradialgradientelement/owner_svg_element/
 is_root: false
 ---

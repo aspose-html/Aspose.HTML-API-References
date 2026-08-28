@@ -3,7 +3,7 @@ title: coords property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 650
 url: /python-net/aspose.html/htmlareaelement/coords/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: TEXTPATH_METHODTYPE_ALIGN property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 610
+weight: 630
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_align/
 is_root: false
 ---

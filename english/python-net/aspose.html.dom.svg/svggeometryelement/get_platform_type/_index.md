@@ -3,7 +3,7 @@ title: get_platform_type method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /python-net/aspose.html.dom.svg/svggeometryelement/get_platform_type/
 is_root: false
 ---

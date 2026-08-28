@@ -3,7 +3,7 @@ title: class_name property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /python-net/aspose.html.dom.svg/svggeometryelement/class_name/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: form property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /python-net/aspose.html/htmllabelelement/form/
 is_root: false
 ---

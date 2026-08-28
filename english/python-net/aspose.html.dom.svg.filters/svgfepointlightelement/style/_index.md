@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 850
 url: /python-net/aspose.html.dom.svg.filters/svgfepointlightelement/style/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: next_element_sibling property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 850
 url: /python-net/aspose.html.dom.svg.filters/svgfecompositeelement/next_element_sibling/
 is_root: false
 ---

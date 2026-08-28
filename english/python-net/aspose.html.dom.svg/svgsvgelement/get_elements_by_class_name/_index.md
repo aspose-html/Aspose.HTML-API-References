@@ -3,7 +3,7 @@ title: get_elements_by_class_name method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /python-net/aspose.html.dom.svg/svgsvgelement/get_elements_by_class_name/
 is_root: false
 ---

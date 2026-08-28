@@ -3,7 +3,7 @@ title: child_nodes property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 640
+weight: 660
 url: /python-net/aspose.html.dom.svg.filters/svgfefuncbelement/child_nodes/
 is_root: false
 ---

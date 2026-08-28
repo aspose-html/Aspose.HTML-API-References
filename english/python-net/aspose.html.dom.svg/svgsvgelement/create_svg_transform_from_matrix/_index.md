@@ -3,7 +3,7 @@ title: create_svg_transform_from_matrix method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.html.dom.svg/svgsvgelement/create_svg_transform_from_matrix/
 is_root: false
 ---

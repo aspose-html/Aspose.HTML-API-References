@@ -3,7 +3,7 @@ title: get_screen_ctm method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 200
+weight: 210
 url: /python-net/aspose.html.dom.svg/svgtextcontentelement/get_screen_ctm/
 is_root: false
 ---

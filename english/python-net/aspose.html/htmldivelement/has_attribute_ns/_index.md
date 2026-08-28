@@ -3,7 +3,7 @@ title: has_attribute_ns method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 180
 url: /python-net/aspose.html/htmldivelement/has_attribute_ns/
 is_root: false
 ---

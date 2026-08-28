@@ -75,6 +75,8 @@ The HTMLFrameElement type exposes the following members:
 | [title](/html/python-net/aspose.html/htmlframeelement/title) | The element's advisory title. See the title attribute definition in <br/>HTML 4.01. |
 | [lang](/html/python-net/aspose.html/htmlframeelement/lang) | Language code defined in RFC 1766. See the lang attribute definition in <br/>HTML 4.01. |
 | [dir](/html/python-net/aspose.html/htmlframeelement/dir) | Specifies the base direction of directionally neutral text and the <br/>directionality of tables. See the dir attribute definition in HTML <br/>4.01. |
+| [offset_width](/html/python-net/aspose.html/htmlframeelement/offset_width) | Gets the layout width of the element in pixels. |
+| [offset_height](/html/python-net/aspose.html/htmlframeelement/offset_height) | Gets the layout height of the element in pixels. |
 | [style](/html/python-net/aspose.html/htmlframeelement/style) | Represents a style attribute that allows author to directly apply style information to specific element. |
 | [frame_border](/html/python-net/aspose.html/htmlframeelement/frame_border) | Request frame borders. See the frameborder attribute definition in HTML <br/>4.01. |
 | [long_desc](/html/python-net/aspose.html/htmlframeelement/long_desc) | URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] designating a long description of this image or frame. See the <br/>longdesc attribute definition in HTML 4.01. |
@@ -131,6 +133,8 @@ The HTMLFrameElement type exposes the following members:
 | [remove](/html/python-net/aspose.html/htmlframeelement/remove/#) | Removes this instance. |
 | [query_selector_all](/html/python-net/aspose.html/htmlframeelement/query_selector_all/#str) | Returns a NodeList of all the Elements in document, which match selector |
 | [query_selector](/html/python-net/aspose.html/htmlframeelement/query_selector/#str) | Returns the first Element in document, which match selector |
+| [matches](/html/python-net/aspose.html/htmlframeelement/matches/#str) | Determines whether the element matches the specified CSS selector. |
+| [closest](/html/python-net/aspose.html/htmlframeelement/closest/#str) | Returns the closest ancestor element (or the element itself) that matches the specified CSS selector. |
 | [attach_shadow](/html/python-net/aspose.html/htmlframeelement/attach_shadow/#aspose.html.dom.ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [get_elements_by_class_name](/html/python-net/aspose.html/htmlframeelement/get_elements_by_class_name/#str) | Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all the elements within [`Element`](/html/python-net/aspose.html.dom/element) that have all the classes specified in argument. |
 

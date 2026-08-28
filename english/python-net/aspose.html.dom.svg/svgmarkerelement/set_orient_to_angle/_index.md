@@ -3,7 +3,7 @@ title: set_orient_to_angle method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 400
+weight: 420
 url: /python-net/aspose.html.dom.svg/svgmarkerelement/set_orient_to_angle/
 is_root: false
 ---

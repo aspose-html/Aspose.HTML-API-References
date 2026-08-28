@@ -3,7 +3,7 @@ title: SVG_STITCHTYPE_UNKNOWN property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_unknown/
 is_root: false
 ---

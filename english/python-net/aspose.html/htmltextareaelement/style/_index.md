@@ -3,7 +3,7 @@ title: style property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 960
 url: /python-net/aspose.html/htmltextareaelement/style/
 is_root: false
 ---

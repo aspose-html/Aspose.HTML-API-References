@@ -3,7 +3,7 @@ title: query_selector_all method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 350
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/query_selector_all/
 is_root: false
 ---

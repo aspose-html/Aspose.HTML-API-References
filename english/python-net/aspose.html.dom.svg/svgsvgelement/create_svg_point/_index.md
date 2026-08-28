@@ -3,7 +3,7 @@ title: create_svg_point method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.html.dom.svg/svgsvgelement/create_svg_point/
 is_root: false
 ---

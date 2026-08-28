@@ -3,7 +3,7 @@ title: get_attribute_ns method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.html/htmltablesectionelement/get_attribute_ns/
 is_root: false
 ---

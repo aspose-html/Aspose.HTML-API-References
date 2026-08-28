@@ -3,7 +3,7 @@ title: node_value property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 960
+weight: 980
 url: /python-net/aspose.html.dom.svg/svgsvgelement/node_value/
 is_root: false
 ---

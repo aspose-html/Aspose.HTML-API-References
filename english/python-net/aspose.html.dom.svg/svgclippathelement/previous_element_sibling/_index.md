@@ -3,7 +3,7 @@ title: previous_element_sibling property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 810
+weight: 830
 url: /python-net/aspose.html.dom.svg/svgclippathelement/previous_element_sibling/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: kernel_unit_length_y property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 760
+weight: 780
 url: /python-net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/kernel_unit_length_y/
 is_root: false
 ---

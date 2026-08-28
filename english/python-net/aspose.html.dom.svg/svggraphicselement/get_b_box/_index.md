@@ -3,7 +3,7 @@ title: get_b_box method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.html.dom.svg/svggraphicselement/get_b_box/
 is_root: false
 ---
