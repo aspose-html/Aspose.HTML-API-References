@@ -3,7 +3,7 @@ title: remove_attribute_ns method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 480
+weight: 500
 url: /python-net/aspose.html.dom.svg/svgsvgelement/remove_attribute_ns/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: text_content property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 860
+weight: 880
 url: /python-net/aspose.html.dom.svg/svgclippathelement/text_content/
 is_root: false
 ---

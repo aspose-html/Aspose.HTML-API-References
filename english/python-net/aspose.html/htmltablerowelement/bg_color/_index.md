@@ -3,7 +3,7 @@ title: bg_color property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 610
 url: /python-net/aspose.html/htmltablerowelement/bg_color/
 is_root: false
 ---

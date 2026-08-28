@@ -3,7 +3,7 @@ title: rules property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 1030
 url: /python-net/aspose.html/htmltableelement/rules/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: SVG_FECOMPOSITE_OPERATOR_UNKNOWN property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 580
+weight: 600
 url: /python-net/aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_unknown/
 is_root: false
 ---

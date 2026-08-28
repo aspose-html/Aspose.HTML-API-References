@@ -3,7 +3,7 @@ title: class_list property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /python-net/aspose.html/htmltablecellelement/class_list/
 is_root: false
 ---

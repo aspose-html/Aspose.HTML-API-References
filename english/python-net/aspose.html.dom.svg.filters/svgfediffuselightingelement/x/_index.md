@@ -3,7 +3,7 @@ title: x property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 950
+weight: 970
 url: /python-net/aspose.html.dom.svg.filters/svgfediffuselightingelement/x/
 is_root: false
 ---

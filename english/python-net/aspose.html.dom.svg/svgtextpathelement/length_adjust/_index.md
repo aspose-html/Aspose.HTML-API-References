@@ -3,7 +3,7 @@ title: length_adjust property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 850
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/length_adjust/
 is_root: false
 ---

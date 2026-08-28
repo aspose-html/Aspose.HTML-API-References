@@ -3,7 +3,7 @@ title: transform property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1110
+weight: 1130
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/transform/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: get_attribute_names method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /python-net/aspose.html.dom.svg/svgpathelement/get_attribute_names/
 is_root: false
 ---

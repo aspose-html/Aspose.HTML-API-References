@@ -3,7 +3,7 @@ title: SVG_FECOMPONENTTRANSFER_TYPE_LINEAR property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 560
+weight: 580
 url: /python-net/aspose.html.dom.svg.filters/svgfefuncrelement/svg_fecomponenttransfer_type_linear/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: y_channel_selector property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1010
+weight: 1030
 url: /python-net/aspose.html.dom.svg.filters/svgfedisplacementmapelement/y_channel_selector/
 is_root: false
 ---

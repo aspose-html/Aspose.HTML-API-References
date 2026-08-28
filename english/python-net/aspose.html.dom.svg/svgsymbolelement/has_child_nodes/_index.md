@@ -3,7 +3,7 @@ title: has_child_nodes method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /python-net/aspose.html.dom.svg/svgsymbolelement/has_child_nodes/
 is_root: false
 ---

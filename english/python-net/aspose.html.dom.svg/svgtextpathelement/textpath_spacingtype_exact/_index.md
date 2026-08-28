@@ -3,7 +3,7 @@ title: TEXTPATH_SPACINGTYPE_EXACT property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_exact/
 is_root: false
 ---

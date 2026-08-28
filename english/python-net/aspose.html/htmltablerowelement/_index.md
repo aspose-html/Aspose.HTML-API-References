@@ -75,6 +75,8 @@ The HTMLTableRowElement type exposes the following members:
 | [title](/html/python-net/aspose.html/htmltablerowelement/title) | The element's advisory title. See the title attribute definition in <br/>HTML 4.01. |
 | [lang](/html/python-net/aspose.html/htmltablerowelement/lang) | Language code defined in RFC 1766. See the lang attribute definition in <br/>HTML 4.01. |
 | [dir](/html/python-net/aspose.html/htmltablerowelement/dir) | Specifies the base direction of directionally neutral text and the <br/>directionality of tables. See the dir attribute definition in HTML <br/>4.01. |
+| [offset_width](/html/python-net/aspose.html/htmltablerowelement/offset_width) | Gets the layout width of the element in pixels. |
+| [offset_height](/html/python-net/aspose.html/htmltablerowelement/offset_height) | Gets the layout height of the element in pixels. |
 | [style](/html/python-net/aspose.html/htmltablerowelement/style) | Represents a style attribute that allows author to directly apply style information to specific element. |
 | [row_index](/html/python-net/aspose.html/htmltablerowelement/row_index) | This is in logical order and not in document order. The <br/>`rowIndex` does take into account sections (<br/>`THEAD`, `TFOOT`, or `TBODY`) within <br/>the table, placing `THEAD` rows first in the index, <br/>followed by `TBODY` rows, followed by `TFOOT` <br/>rows.<br/>@version DOM Level 2 |
 | [section_row_index](/html/python-net/aspose.html/htmltablerowelement/section_row_index) | The index of this row, relative to the current section (<br/>`THEAD`, `TFOOT`, or `TBODY`), <br/>starting from 0.<br/>@version DOM Level 2 |
@@ -130,6 +132,8 @@ The HTMLTableRowElement type exposes the following members:
 | [remove](/html/python-net/aspose.html/htmltablerowelement/remove/#) | Removes this instance. |
 | [query_selector_all](/html/python-net/aspose.html/htmltablerowelement/query_selector_all/#str) | Returns a NodeList of all the Elements in document, which match selector |
 | [query_selector](/html/python-net/aspose.html/htmltablerowelement/query_selector/#str) | Returns the first Element in document, which match selector |
+| [matches](/html/python-net/aspose.html/htmltablerowelement/matches/#str) | Determines whether the element matches the specified CSS selector. |
+| [closest](/html/python-net/aspose.html/htmltablerowelement/closest/#str) | Returns the closest ancestor element (or the element itself) that matches the specified CSS selector. |
 | [attach_shadow](/html/python-net/aspose.html/htmltablerowelement/attach_shadow/#aspose.html.dom.ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [get_elements_by_class_name](/html/python-net/aspose.html/htmltablerowelement/get_elements_by_class_name/#str) | Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all the elements within [`Element`](/html/python-net/aspose.html.dom/element) that have all the classes specified in argument. |
 | [insert_cell](/html/python-net/aspose.html/htmltablerowelement/insert_cell/#int) | Insert an empty `TD` cell into this row. If <br/>`index` is -1 or equal to the number of cells, the new <br/>cell is appended. |

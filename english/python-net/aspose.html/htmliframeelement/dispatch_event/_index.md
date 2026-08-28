@@ -3,7 +3,7 @@ title: dispatch_event method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /python-net/aspose.html/htmliframeelement/dispatch_event/
 is_root: false
 ---

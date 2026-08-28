@@ -3,7 +3,7 @@ title: TEXT_NODE property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html/htmlcanvaselement/text_node/
 is_root: false
 ---

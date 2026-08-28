@@ -3,7 +3,7 @@ title: SVG_FEBLEND_MODE_COLOR_DODGE property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_color_dodge/
 is_root: false
 ---

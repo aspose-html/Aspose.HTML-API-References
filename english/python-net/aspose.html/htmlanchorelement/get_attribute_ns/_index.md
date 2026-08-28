@@ -3,7 +3,7 @@ title: get_attribute_ns method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.html/htmlanchorelement/get_attribute_ns/
 is_root: false
 ---

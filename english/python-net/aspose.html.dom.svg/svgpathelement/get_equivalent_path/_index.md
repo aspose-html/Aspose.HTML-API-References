@@ -3,7 +3,7 @@ title: get_equivalent_path method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /python-net/aspose.html.dom.svg/svgpathelement/get_equivalent_path/
 is_root: false
 ---

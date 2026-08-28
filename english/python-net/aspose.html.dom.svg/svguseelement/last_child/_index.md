@@ -3,7 +3,7 @@ title: last_child property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 710
+weight: 730
 url: /python-net/aspose.html.dom.svg/svguseelement/last_child/
 is_root: false
 ---

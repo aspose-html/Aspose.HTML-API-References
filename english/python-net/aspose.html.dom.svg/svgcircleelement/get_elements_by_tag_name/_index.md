@@ -3,7 +3,7 @@ title: get_elements_by_tag_name method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.html.dom.svg/svgcircleelement/get_elements_by_tag_name/
 is_root: false
 ---

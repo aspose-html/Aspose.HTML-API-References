@@ -3,7 +3,7 @@ title: rel property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 990
+weight: 1030
 url: /python-net/aspose.html/htmlanchorelement/rel/
 is_root: false
 ---

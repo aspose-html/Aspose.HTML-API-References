@@ -3,7 +3,7 @@ title: replace_child method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 430
+weight: 450
 url: /python-net/aspose.html/htmltableelement/replace_child/
 is_root: false
 ---

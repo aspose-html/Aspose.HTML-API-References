@@ -3,7 +3,7 @@ title: create_t_foot method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /python-net/aspose.html/htmltableelement/create_t_foot/
 is_root: false
 ---

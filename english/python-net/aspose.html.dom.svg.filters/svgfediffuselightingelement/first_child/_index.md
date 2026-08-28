@@ -3,7 +3,7 @@ title: first_child property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 640
 url: /python-net/aspose.html.dom.svg.filters/svgfediffuselightingelement/first_child/
 is_root: false
 ---

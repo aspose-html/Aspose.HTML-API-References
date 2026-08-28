@@ -3,7 +3,7 @@ title: insert_before method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /python-net/aspose.html/htmltableelement/insert_before/
 is_root: false
 ---

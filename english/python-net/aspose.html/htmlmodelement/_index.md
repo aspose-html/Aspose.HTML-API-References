@@ -76,6 +76,8 @@ The HTMLModElement type exposes the following members:
 | [title](/html/python-net/aspose.html/htmlmodelement/title) | The element's advisory title. See the title attribute definition in <br/>HTML 4.01. |
 | [lang](/html/python-net/aspose.html/htmlmodelement/lang) | Language code defined in RFC 1766. See the lang attribute definition in <br/>HTML 4.01. |
 | [dir](/html/python-net/aspose.html/htmlmodelement/dir) | Specifies the base direction of directionally neutral text and the <br/>directionality of tables. See the dir attribute definition in HTML <br/>4.01. |
+| [offset_width](/html/python-net/aspose.html/htmlmodelement/offset_width) | Gets the layout width of the element in pixels. |
+| [offset_height](/html/python-net/aspose.html/htmlmodelement/offset_height) | Gets the layout height of the element in pixels. |
 | [style](/html/python-net/aspose.html/htmlmodelement/style) | Represents a style attribute that allows author to directly apply style information to specific element. |
 | [cite](/html/python-net/aspose.html/htmlmodelement/cite) | A URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] designating a document that describes the reason for the change. <br/>See the cite attribute definition in HTML 4.01. |
 | [date_time](/html/python-net/aspose.html/htmlmodelement/date_time) | The date and time of the change. See the datetime attribute definition <br/>in HTML 4.01. |
@@ -125,6 +127,8 @@ The HTMLModElement type exposes the following members:
 | [remove](/html/python-net/aspose.html/htmlmodelement/remove/#) | Removes this instance. |
 | [query_selector_all](/html/python-net/aspose.html/htmlmodelement/query_selector_all/#str) | Returns a NodeList of all the Elements in document, which match selector |
 | [query_selector](/html/python-net/aspose.html/htmlmodelement/query_selector/#str) | Returns the first Element in document, which match selector |
+| [matches](/html/python-net/aspose.html/htmlmodelement/matches/#str) | Determines whether the element matches the specified CSS selector. |
+| [closest](/html/python-net/aspose.html/htmlmodelement/closest/#str) | Returns the closest ancestor element (or the element itself) that matches the specified CSS selector. |
 | [attach_shadow](/html/python-net/aspose.html/htmlmodelement/attach_shadow/#aspose.html.dom.ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [get_elements_by_class_name](/html/python-net/aspose.html/htmlmodelement/get_elements_by_class_name/#str) | Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all the elements within [`Element`](/html/python-net/aspose.html.dom/element) that have all the classes specified in argument. |
 

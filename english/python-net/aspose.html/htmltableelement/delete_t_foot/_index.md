@@ -3,7 +3,7 @@ title: delete_t_foot method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /python-net/aspose.html/htmltableelement/delete_t_foot/
 is_root: false
 ---

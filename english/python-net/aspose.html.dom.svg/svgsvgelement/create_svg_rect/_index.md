@@ -3,7 +3,7 @@ title: create_svg_rect method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.html.dom.svg/svgsvgelement/create_svg_rect/
 is_root: false
 ---

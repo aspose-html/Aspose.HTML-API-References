@@ -3,7 +3,7 @@ title: delete_t_head method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.html/htmltableelement/delete_t_head/
 is_root: false
 ---

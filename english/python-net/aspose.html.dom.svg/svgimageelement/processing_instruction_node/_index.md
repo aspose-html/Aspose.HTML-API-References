@@ -3,7 +3,7 @@ title: PROCESSING_INSTRUCTION_NODE property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html.dom.svg/svgimageelement/processing_instruction_node/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: no_resize property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /python-net/aspose.html/htmlframeelement/no_resize/
 is_root: false
 ---

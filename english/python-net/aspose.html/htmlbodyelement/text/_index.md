@@ -3,7 +3,7 @@ title: text property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 940
 url: /python-net/aspose.html/htmlbodyelement/text/
 is_root: false
 ---

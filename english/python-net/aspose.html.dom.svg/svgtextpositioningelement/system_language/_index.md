@@ -3,7 +3,7 @@ title: system_language property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1000
+weight: 1020
 url: /python-net/aspose.html.dom.svg/svgtextpositioningelement/system_language/
 is_root: false
 ---

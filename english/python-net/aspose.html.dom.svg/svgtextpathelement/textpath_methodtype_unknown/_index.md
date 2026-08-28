@@ -3,7 +3,7 @@ title: TEXTPATH_METHODTYPE_UNKNOWN property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 650
 url: /python-net/aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_unknown/
 is_root: false
 ---

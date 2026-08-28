@@ -3,7 +3,7 @@ title: DOCUMENT_TYPE_NODE property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 530
+weight: 550
 url: /python-net/aspose.html.dom.svg/svgpolylineelement/document_type_node/
 is_root: false
 ---

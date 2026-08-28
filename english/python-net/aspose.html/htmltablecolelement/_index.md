@@ -76,6 +76,8 @@ The HTMLTableColElement type exposes the following members:
 | [title](/html/python-net/aspose.html/htmltablecolelement/title) | The element's advisory title. See the title attribute definition in <br/>HTML 4.01. |
 | [lang](/html/python-net/aspose.html/htmltablecolelement/lang) | Language code defined in RFC 1766. See the lang attribute definition in <br/>HTML 4.01. |
 | [dir](/html/python-net/aspose.html/htmltablecolelement/dir) | Specifies the base direction of directionally neutral text and the <br/>directionality of tables. See the dir attribute definition in HTML <br/>4.01. |
+| [offset_width](/html/python-net/aspose.html/htmltablecolelement/offset_width) | Gets the layout width of the element in pixels. |
+| [offset_height](/html/python-net/aspose.html/htmltablecolelement/offset_height) | Gets the layout height of the element in pixels. |
 | [style](/html/python-net/aspose.html/htmltablecolelement/style) | Represents a style attribute that allows author to directly apply style information to specific element. |
 | [align](/html/python-net/aspose.html/htmltablecolelement/align) | Horizontal alignment of cell data in column. See the align attribute <br/>definition in HTML 4.01. |
 | [ch](/html/python-net/aspose.html/htmltablecolelement/ch) | Alignment character for cells in a column. See the char attribute <br/>definition in HTML 4.01. |
@@ -129,6 +131,8 @@ The HTMLTableColElement type exposes the following members:
 | [remove](/html/python-net/aspose.html/htmltablecolelement/remove/#) | Removes this instance. |
 | [query_selector_all](/html/python-net/aspose.html/htmltablecolelement/query_selector_all/#str) | Returns a NodeList of all the Elements in document, which match selector |
 | [query_selector](/html/python-net/aspose.html/htmltablecolelement/query_selector/#str) | Returns the first Element in document, which match selector |
+| [matches](/html/python-net/aspose.html/htmltablecolelement/matches/#str) | Determines whether the element matches the specified CSS selector. |
+| [closest](/html/python-net/aspose.html/htmltablecolelement/closest/#str) | Returns the closest ancestor element (or the element itself) that matches the specified CSS selector. |
 | [attach_shadow](/html/python-net/aspose.html/htmltablecolelement/attach_shadow/#aspose.html.dom.ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [get_elements_by_class_name](/html/python-net/aspose.html/htmltablecolelement/get_elements_by_class_name/#str) | Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all the elements within [`Element`](/html/python-net/aspose.html.dom/element) that have all the classes specified in argument. |
 

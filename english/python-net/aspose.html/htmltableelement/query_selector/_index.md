@@ -3,7 +3,7 @@ title: query_selector method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 350
+weight: 370
 url: /python-net/aspose.html/htmltableelement/query_selector/
 is_root: false
 ---

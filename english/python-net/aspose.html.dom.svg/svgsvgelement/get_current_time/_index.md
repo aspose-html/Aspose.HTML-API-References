@@ -3,7 +3,7 @@ title: get_current_time method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /python-net/aspose.html.dom.svg/svgsvgelement/get_current_time/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: lookup_namespace_uri method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /python-net/aspose.html/htmlcanvaselement/lookup_namespace_uri/
 is_root: false
 ---

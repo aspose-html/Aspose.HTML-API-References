@@ -3,7 +3,7 @@ title: shadow_root property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 970
+weight: 990
 url: /python-net/aspose.html.dom.svg/svgellipseelement/shadow_root/
 is_root: false
 ---

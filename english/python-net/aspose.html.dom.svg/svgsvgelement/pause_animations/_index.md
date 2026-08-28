@@ -3,7 +3,7 @@ title: pause_animations method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 440
 url: /python-net/aspose.html.dom.svg/svgsvgelement/pause_animations/
 is_root: false
 ---

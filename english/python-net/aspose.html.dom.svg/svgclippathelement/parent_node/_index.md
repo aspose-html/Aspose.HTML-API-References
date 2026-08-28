@@ -3,7 +3,7 @@ title: parent_node property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 790
+weight: 810
 url: /python-net/aspose.html.dom.svg/svgclippathelement/parent_node/
 is_root: false
 ---

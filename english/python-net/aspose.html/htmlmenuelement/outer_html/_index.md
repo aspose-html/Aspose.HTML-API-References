@@ -3,7 +3,7 @@ title: outer_html property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 770
+weight: 810
 url: /python-net/aspose.html/htmlmenuelement/outer_html/
 is_root: false
 ---

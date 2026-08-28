@@ -3,7 +3,7 @@ title: SVG_CHANNEL_G property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 550
+weight: 570
 url: /python-net/aspose.html.dom.svg.filters/svgfedisplacementmapelement/svg_channel_g/
 is_root: false
 ---

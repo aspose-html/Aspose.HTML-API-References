@@ -3,7 +3,7 @@ title: lookup_prefix method
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /python-net/aspose.html/htmltableelement/lookup_prefix/
 is_root: false
 ---

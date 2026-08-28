@@ -3,7 +3,7 @@ title: v_align property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 940
+weight: 980
 url: /python-net/aspose.html/htmltablesectionelement/v_align/
 is_root: false
 ---

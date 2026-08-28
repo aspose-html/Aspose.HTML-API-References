@@ -3,7 +3,7 @@ title: child_nodes property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 590
+weight: 610
 url: /python-net/aspose.html/htmlcanvaselement/child_nodes/
 is_root: false
 ---
