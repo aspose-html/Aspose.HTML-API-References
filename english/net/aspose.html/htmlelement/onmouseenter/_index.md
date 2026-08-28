@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseEnter
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnMouseEnter event. Gets or sets event handler for OnMouseEnter event
 type: docs
-weight: 310
+weight: 330
 url: /net/aspose.html/htmlelement/onmouseenter/
 ---
 ## HTMLElement.OnMouseEnter event

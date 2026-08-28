@@ -3,7 +3,7 @@ title: HTMLElement.OnLoadedMetadata
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnLoadedMetadata event. Gets or sets event handler for OnLoadedMetadata event
 type: docs
-weight: 280
+weight: 300
 url: /net/aspose.html/htmlelement/onloadedmetadata/
 ---
 ## HTMLElement.OnLoadedMetadata event

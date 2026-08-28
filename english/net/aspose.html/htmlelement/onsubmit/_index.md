@@ -3,7 +3,7 @@ title: HTMLElement.OnSubmit
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnSubmit event. Gets or sets event handler for OnSubmit event
 type: docs
-weight: 510
+weight: 530
 url: /net/aspose.html/htmlelement/onsubmit/
 ---
 ## HTMLElement.OnSubmit event

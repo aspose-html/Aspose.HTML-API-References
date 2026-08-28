@@ -3,7 +3,7 @@ title: HTMLElement.OnSeeked
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnSeeked event. Gets or sets event handler for OnSeeked event
 type: docs
-weight: 460
+weight: 480
 url: /net/aspose.html/htmlelement/onseeked/
 ---
 ## HTMLElement.OnSeeked event

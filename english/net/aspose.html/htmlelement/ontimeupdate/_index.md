@@ -3,7 +3,7 @@ title: HTMLElement.OnTimeUpdate
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnTimeUpdate event. Gets or sets event handler for OnTimeUpdate event
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.html/htmlelement/ontimeupdate/
 ---
 ## HTMLElement.OnTimeUpdate event

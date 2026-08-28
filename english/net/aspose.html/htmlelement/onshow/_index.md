@@ -3,7 +3,7 @@ title: HTMLElement.OnShow
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnShow event. Gets or sets event handler for OnShow event
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.html/htmlelement/onshow/
 ---
 ## HTMLElement.OnShow event

@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseDown
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnMouseDown event. Gets or sets event handler for OnMouseDown event
 type: docs
-weight: 300
+weight: 320
 url: /net/aspose.html/htmlelement/onmousedown/
 ---
 ## HTMLElement.OnMouseDown event

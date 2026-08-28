@@ -3,7 +3,7 @@ title: HTMLElement.OnKeyUp
 second_title: Aspose.HTML for .NET API Reference
 description: HTMLElement OnKeyUp event. Gets or sets event handler for OnKeyUp event
 type: docs
-weight: 250
+weight: 270
 url: /net/aspose.html/htmlelement/onkeyup/
 ---
 ## HTMLElement.OnKeyUp event
