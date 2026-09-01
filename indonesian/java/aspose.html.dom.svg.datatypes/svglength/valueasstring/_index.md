@@ -1,0 +1,32 @@
+---
+title: "SVGLength.ValueAsString"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Properti SVGLength. Nilai sebagai string dalam satuan yang ditentukan oleh unitType. Menetapkan atribut ini akan menyebabkan nilai, valueInSpecifiedUnits, dan unitType diperbarui secara otomatis untuk mencerminkan pengaturan ini."
+type: docs
+
+url: /id/java/com.aspose.html.dom.svg.datatypes/svglength/valueasString/
+---
+## SVGLength.ValueAsString property
+
+Nilai sebagai string, dalam satuan yang ditentukan oleh unitType. Menetapkan atribut ini akan menyebabkan nilai, valueInSpecifiedUnits, dan unitType diperbarui secara otomatis untuk mencerminkan pengaturan ini.
+
+```java
+public String ValueAsString { get; set; }
+```
+
+### Property Value
+
+Nilai sebagai String.
+
+### Pengecualian
+
+| pengecualian | kondisi |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | Kode [`SYNTAX_ERR`](../../../com.aspose.html.dom/domexception/syntax_err/) Dikeluarkan jika string yang diberikan tidak dapat diurai sebagai panjang yang valid. |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | Kode [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/)Dikeluarkan ketika panjang sesuai dengan atribut hanya-baca atau ketika objek itu sendiri hanya-baca. |
+
+### Lihat Juga
+
+* class [SVGLength](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)
