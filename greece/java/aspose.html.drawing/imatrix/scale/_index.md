@@ -1,0 +1,49 @@
+---
+title: "IMatrix.Scale"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Μέθοδος IMatrix. Κλιμακώνει τον πίνακα με τους καθορισμένους παράγοντες κλίμακας με τη καθορισμένη σειρά"
+type: docs
+
+url: /el/java/com.aspose.html.drawing/imatrix/scale/
+---
+## Scale(float, float, WebMatrixOrder) {#scale_1}
+
+Κλιμακώνει τον πίνακα με τους συγκεκριμένους συντελεστές κλίμακας με τη συγκεκριμένη σειρά.
+
+```java
+public void Scale(float scaleX, float scaleY, WebMatrixOrder order)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| scaleX | Single | Ο παράγοντας κλίμακας κατά τον άξονα x. |
+| scaleY | Single | Ο παράγοντας κλίμακας κατά τον άξονα y. |
+| order | WebMatrixOrder | Η σειρά με την οποία εφαρμόζεται η κλιμάκωση. |
+
+### Δείτε επίσης
+
+* enum [WebMatrixOrder](../../webmatrixorder/)
+* interface [IMatrix](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## Scale(float, float) {#scale}
+
+Κλιμακώνει τον πίνακα με τους συγκεκριμένους συντελεστές κλίμακας ομοιόμορφα.
+
+```java
+public void Scale(float scaleX, float scaleY)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| scaleX | Single | Ο ομοιόμορφος παράγοντας κλίμακας. |
+| scaleY | Single | Ο ομοιόμορφος παράγοντας κλίμακας. |
+
+### Δείτε επίσης
+
+* interface [IMatrix](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

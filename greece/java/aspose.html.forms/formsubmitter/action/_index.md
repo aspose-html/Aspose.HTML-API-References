@@ -1,0 +1,21 @@
+---
+title: "FormSubmitter.Action"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Ιδιότητα FormSubmitter. Διαχειριστής φόρμας στο διακομιστή. Δείτε τον ορισμό του χαρακτηριστικού action στο HTML 4.01"
+type: docs
+
+url: /el/java/com.aspose.html.forms/formsubmitter/action/
+---
+## FormSubmitter.Action property
+
+Διαχειριστής φόρμας στο διακομιστή. Δείτε τον ορισμό του χαρακτηριστικού action στο HTML 4.01.
+
+```java
+public String Action { get; set; }
+```
+
+### Δείτε επίσης
+
+* class [FormSubmitter](../)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../../)

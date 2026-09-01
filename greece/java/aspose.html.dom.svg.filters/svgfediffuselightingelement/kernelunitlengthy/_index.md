@@ -1,0 +1,26 @@
+---
+title: "SVGFEDiffuseLightingElement.KernelUnitLengthY"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "SVGFEDiffuseLightingElement ιδιότητα. Αντιστοιχεί στο χαρακτηριστικό kernelUnitLength στο δεδομένο στοιχείο feDiffuseLighting"
+type: docs
+
+url: /el/java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/kernelunitlengthy/
+---
+## SVGFEDiffuseLightingElement.KernelUnitLengthY property
+
+Αντιστοιχεί στο χαρακτηριστικό ‘kernelUnitLength’ στο δεδομένο στοιχείο ‘feDiffuseLighting’.
+
+```java
+public SVGAnimatedNumber KernelUnitLengthY { get; }
+```
+
+### Property Value
+
+Το χαρακτηριστικό ‘kernelUnitLength’ του δεδομένου στοιχείου ‘feDiffuseLighting’.
+
+### Δείτε επίσης
+
+* class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
+* class [SVGFEDiffuseLightingElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)
