@@ -1,0 +1,32 @@
+---
+title: "SVGTransform.SetTranslate"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SVGTransform मेथड। ट्रांसफ़ॉर्म प्रकार को SVG_TRANSFORM_TRANSLATE पर सेट करता है जिसमें पैरामीटर tx और ty ट्रांसलेशन मात्रा को परिभाषित करते हैं।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.datatypes/svgtransform/settranslate/
+---
+## SVGTransform.SetTranslate method
+
+ट्रांसफ़ॉर्म प्रकार को SVG_TRANSFORM_TRANSLATE पर सेट करता है, जिसमें पैरामीटर tx और ty अनुवाद मानों को परिभाषित करते हैं।
+
+```java
+public void SetTranslate(float tx, float ty)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| tx | सिंगल | X में ट्रांसलेशन मात्रा। |
+| ty | सिंगल | Y में अनुवाद मात्रा। |
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | कोड [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/). केवल‑पढ़ने‑योग्य विशेषता का मान बदलने के प्रयास पर उत्पन्न हुआ। |
+
+### संबंधित देखें
+
+* class [SVGTransform](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

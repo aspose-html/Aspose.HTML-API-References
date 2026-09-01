@@ -1,0 +1,30 @@
+---
+title: "MarkdownSyntaxNode.InsertBefore"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "MarkdownSyntaxNode मेथड। नोड से पहले डालें।"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/
+---
+## MarkdownSyntaxNode.InsertBefore method
+
+नोड से पहले डालें।
+
+```java
+public MarkdownSyntaxNode InsertBefore(MarkdownSyntaxNode node, MarkdownSyntaxNode child)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| नोड | MarkdownSyntaxNode | यह MarkdownSyntaxNode। |
+| चाइल्ड | MarkdownSyntaxNode | यह MarkdownSyntaxNode। |
+
+### रिटर्न वैल्यू
+
+यह MarkdownSyntaxNode।
+
+### संबंधित देखें
+
+* class [MarkdownSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,21 @@
+---
+title: "TemplateLoadOptions.NamesAreCaseSensitive"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "TemplateLoadOptions प्रॉपर्टी। वह प्रॉपर्टी जो यह निर्धारित करती है कि टेम्पलेट और डेटा एलिमेंट नामों को अक्षर केस की परवाह किए बिना मिलाया जाएगा या नहीं। यदि true है तो मिलान केस‑सेंसिटिव होगा, यदि false है तो अक्षर केस को अनदेखा किया जाएगा। डिफ़ॉल्ट मान true है।"
+type: docs
+
+url: /hi/java/com.aspose.html.loading/templateloadoptions/namesarecasesensitive/
+---
+## TemplateLoadOptions.NamesAreCaseSensitive property
+
+प्रॉपर्टी जो यह निर्धारित करती है कि टेम्पलेट और डेटा एलिमेंट नामों को अक्षर केस की परवाह किए बिना मिलाया जाएगा या नहीं। यदि true है, तो मिलान केस‑सेंसिटिव है; यदि false है, तो अक्षर केस को अनदेखा किया जाएगा। डिफ़ॉल्ट मान true है।
+
+```java
+public bool NamesAreCaseSensitive { get; set; }
+```
+
+### संबंधित देखें
+
+* class [TemplateLoadOptions](../)
+* package [com.aspose.html.loading](../../../com.aspose.html.loading/)
+* package [Aspose.HTML](../../../)

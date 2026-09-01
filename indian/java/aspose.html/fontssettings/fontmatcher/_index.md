@@ -1,0 +1,22 @@
+---
+title: "FontsSettings.FontMatcher"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "FontsSettings प्रॉपर्टी। क्लास को प्राप्त या सेट करता है जो आपको फ़ॉन्ट मिलान एल्गोरिदम के कुछ भागों को नियंत्रित करने की अनुमति देता है।"
+type: docs
+
+url: /hi/java/com.aspose.html/fontssettings/fontmatcher/
+---
+## FontsSettings.FontMatcher property
+
+क्लास को प्राप्त या सेट करता है जो आपको फ़ॉन्ट मिलान एल्गोरिदम के कुछ भागों को नियंत्रित करने की अनुमति देता है।
+
+```java
+public FontMatcher FontMatcher { get; set; }
+```
+
+### संबंधित देखें
+
+* class [FontMatcher](../../../com.aspose.html.rendering.fonts/fontmatcher/)
+* class [FontsSettings](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,21 @@
+---
+title: "Device-2.Options"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "Device property. रेंडरिंग विकल्प प्राप्त करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.rendering/device-2/options/
+---
+## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+
+रेंडरिंग विकल्प प्राप्त करता है।
+
+```java
+public TRenderingOptions Options { get; }
+```
+
+### संबंधित देखें
+
+* class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
+* package [Aspose.HTML](../../../)

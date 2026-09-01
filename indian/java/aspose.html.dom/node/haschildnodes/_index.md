@@ -1,0 +1,25 @@
+---
+title: "Node.HasChildNodes"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "Node विधि। Node इंटरफ़ेस की hasChildNodes विधि एक बूलियन मान लौटाती है जो दर्शाता है कि दिया गया Node के चाइल्ड नोड्स हैं या नहीं।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom/node/haschildnodes/
+---
+## Node.HasChildNodes method
+
+Node इंटरफ़ेस की hasChildNodes() विधि एक बूलियन मान लौटाती है जो दर्शाता है कि दिया गया [`Node`](../) के चाइल्ड नोड्स हैं या नहीं।
+
+```java
+public bool HasChildNodes()
+```
+
+### रिटर्न वैल्यू
+
+एक बूलियन मान जो true होता है यदि नोड के चाइल्ड नोड्स हैं, और अन्यथा false।
+
+### संबंधित देखें
+
+* class [Node](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

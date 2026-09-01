@@ -1,0 +1,31 @@
+---
+title: "SVGStyleElement.Type"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "SVGStyleElement प्रॉपर्टी। दिए गए तत्व पर type एट्रिब्यूट के अनुरूप है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg/svgstyleelement/type/
+---
+## SVGStyleElement.Type property
+
+दिए गए तत्व पर ‘type’ एट्रिब्यूट के अनुरूप है।
+
+```java
+public String Type { get; set; }
+```
+
+### Property Value
+
+दिए गए तत्व का ‘type’ एट्रिब्यूट।
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | code [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/). पढ़ने‑के‑लिए‑केवल एट्रिब्यूट के मान को बदलने के प्रयास पर उत्पन्न होता है। |
+
+### संबंधित देखें
+
+* class [SVGStyleElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,25 @@
+---
+title: "Document.CharacterSet"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "Document प्रॉपर्टी। दस्तावेज़ की एन्कोडिंग प्राप्त करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom/document/characterset/
+---
+## Document.CharacterSet property
+
+दस्तावेज़ की एन्कोडिंग प्राप्त करता है।
+
+```java
+public String CharacterSet { get; }
+```
+
+### Property Value
+
+दस्तावेज़ की एन्कोडिंग।
+
+### संबंधित देखें
+
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

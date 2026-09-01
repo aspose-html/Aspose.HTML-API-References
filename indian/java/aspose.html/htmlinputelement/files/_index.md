@@ -1,0 +1,22 @@
+---
+title: "HTMLInputElement.Files"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLInputElement प्रॉपर्टी। files IDL एट्रिब्यूट स्क्रिप्ट्स को तत्व की चयनित फ़ाइलों तक पहुँचने की अनुमति देता है। प्राप्त करने पर यदि IDL एट्रिब्यूट लागू होता है तो इसे एक FileList ऑब्जेक्ट लौटाना चाहिए जो वर्तमान चयनित फ़ाइलों का प्रतिनिधित्व करता है। वही ऑब्जेक्ट तब तक लौटाया जाना चाहिए जब तक चयनित फ़ाइलों की सूची नहीं बदलती। यदि IDL एट्रिब्यूट लागू नहीं होता है तो इसे null लौटाना चाहिए। FILEAPI"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlinputelement/files/
+---
+## HTMLInputElement.Files property
+
+files IDL एट्रिब्यूट स्क्रिप्ट्स को तत्व की चयनित फ़ाइलों तक पहुँचने की अनुमति देता है। प्राप्त करने पर, यदि IDL एट्रिब्यूट लागू होता है, तो इसे एक FileList ऑब्जेक्ट लौटाना चाहिए जो वर्तमान चयनित फ़ाइलों का प्रतिनिधित्व करता है। वही ऑब्जेक्ट तब तक लौटाया जाना चाहिए जब तक चयनित फ़ाइलों की सूची नहीं बदलती। यदि IDL एट्रिब्यूट लागू नहीं होता है, तो इसे null लौटाना चाहिए। [FILEAPI]
+
+```java
+public IFileList Files { get; }
+```
+
+### संबंधित देखें
+
+* interface [IFileList](../../../com.aspose.html.io/ifilelist/)
+* class [HTMLInputElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

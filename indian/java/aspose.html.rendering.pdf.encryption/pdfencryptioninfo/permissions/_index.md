@@ -1,0 +1,26 @@
+---
+title: "PdfEncryptionInfo.Permissions"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "PdfEncryptionInfo प्रॉपर्टी। permissions को प्राप्त करता है या सेट करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/permissions/
+---
+## PdfEncryptionInfo.Permissions property
+
+permissions को प्राप्त करता है या सेट करता है।
+
+```java
+public PdfPermissions Permissions { get; set; }
+```
+
+### Property Value
+
+अनुमतियां।
+
+### संबंधित देखें
+
+* enum [PdfPermissions](../../pdfpermissions/)
+* class [PdfEncryptionInfo](../)
+* package [com.aspose.html.rendering.pdf.encryption](../../../com.aspose.html.rendering.pdf.encryption/)
+* package [Aspose.HTML](../../../)

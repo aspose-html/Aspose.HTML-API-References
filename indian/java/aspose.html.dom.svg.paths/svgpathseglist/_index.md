@@ -1,0 +1,53 @@
+---
+title: "SVGPathSegList क्लास"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.dom.svg.paths.SVGPathSegList class. यह इंटरफ़ेस SVGPathSeg ऑब्जेक्ट्स की एक सूची को परिभाषित करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.paths/svgpathseglist/
+---
+## SVGPathSegList class
+
+यह इंटरफ़ेस SVGPathSeg ऑब्जेक्ट्स की सूची को परिभाषित करता है।
+
+```java
+public class SVGPathSegList : SVGListBase<SVGPathSeg>
+```
+
+## कन्स्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [SVGPathSegList](svgpathseglist/#constructor)() | `SVGPathSegList` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [SVGPathSegList](svgpathseglist/#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | `SVGPathSegList` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+[getItem]
+[setItem]  |
+| [getLength](../../com.aspose.html.dom.svg.collections/svglistbase-1/length/) |
+| [getNumberOfItems](../../com.aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [appendItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(SVGPathSeg) |  |
+| [clear](../../com.aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
+| [dispose](../../com.aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | अनमैनेज्ड और - वैकल्पिक रूप से - मैनेज्ड रिसोर्सेज़ को रिलीज़ करता है। |
+| [getEnumerator](../../com.aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
+| [getItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | यह मेथड ECMAScript ऑब्जेक्ट को प्राप्त करने के लिए उपयोग किया जाता है। |
+| [initialize](../../com.aspose.html.dom.svg.collections/svglistbase-1/initialize/)(SVGPathSeg) |  |
+| [insertItemBefore](../../com.aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(SVGPathSeg, ulong) |  |
+| [removeItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
+| [replaceItem](../../com.aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(SVGPathSeg, ulong) |  |
+
+### संबंधित देखें
+
+* class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
+* class [SVGPathSeg](../svgpathseg/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
+* package [Aspose.HTML](../../)

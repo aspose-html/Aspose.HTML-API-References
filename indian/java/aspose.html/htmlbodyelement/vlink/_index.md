@@ -1,0 +1,21 @@
+---
+title: "HTMLBodyElement.VLink"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "HTMLBodyElement प्रॉपर्टी। उपयोगकर्ता द्वारा देखे गए लिंक का रंग। HTML 4.01 में vlink एट्रिब्यूट की परिभाषा देखें। यह एट्रिब्यूट HTML 4.01 में अप्रचलित है।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlbodyelement/vlink/
+---
+## HTMLBodyElement.VLink property
+
+उपयोगकर्ता द्वारा देखे गए लिंक का रंग। HTML 4.01 में vlink एट्रिब्यूट की परिभाषा देखें। यह एट्रिब्यूट HTML 4.01 में अप्रचलित है।
+
+```java
+public String VLink { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLBodyElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

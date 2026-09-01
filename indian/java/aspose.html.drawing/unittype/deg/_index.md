@@ -1,0 +1,21 @@
+---
+title: "UnitType.Deg"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "UnitType field. माप डिग्री में है"
+type: docs
+
+url: /hi/java/com.aspose.html.drawing/unittype/deg/
+---
+## UnitType.Deg field
+
+माप डिग्री में है।
+
+```java
+public static readonly UnitType Deg;
+```
+
+### संबंधित देखें
+
+* class [UnitType](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

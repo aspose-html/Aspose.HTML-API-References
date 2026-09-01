@@ -1,0 +1,30 @@
+---
+title: "RGBColor.Red"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "RGBColor प्रॉपर्टी। इस Color संरचना का लाल घटक मान प्राप्त करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.css/rgbcolor/red/
+---
+## RGBColor.Red property
+
+इस Color संरचना का लाल घटक मान प्राप्त करता है।
+
+```java
+public CSSPrimitiveValue Red { get; }
+```
+
+### Property Value
+
+इस Color का लाल घटक मान।
+
+## Remarks
+
+प्रत्येक पिक्सेल का रंग 32-बिट संख्या के रूप में दर्शाया जाता है: अल्फा, रेड, ग्रीन और ब्लू (ARGB) के लिए प्रत्येक 8 बिट्स। अल्फा कंपोनेंट रंग की पारदर्शिता को निर्दिष्ट करता है: 0 पूरी तरह से पारदर्शी है, और 255 पूरी तरह से अपारदर्शी। इसी प्रकार, A मान 255 एक अपारदर्शी रंग दर्शाता है। A मान 1 से 254 तक एक अर्ध-पारदर्शी रंग दर्शाता है। जैसे-जैसे A 255 के करीब आता है, रंग अधिक अपारदर्शी हो जाता है।
+
+### संबंधित देखें
+
+* class [CSSPrimitiveValue](../../cssprimitivevalue/)
+* class [RGBColor](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

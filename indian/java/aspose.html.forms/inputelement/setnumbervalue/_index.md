@@ -1,0 +1,25 @@
+---
+title: "InputElement.SetNumberValue"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "InputElement मेथड। यह मेथड इनपुट एलिमेंट के लिए संख्या को वैल्यू के रूप में सेट करने के लिए उपयोग किया जाता है। यह मेथड तभी वैध है जब इनपुट एलिमेंट का प्रकार केवल number हो"
+type: docs
+
+url: /hi/java/com.aspose.html.forms/inputelement/setnumbervalue/
+---
+## InputElement.SetNumberValue method
+
+यह मेथड इनपुट तत्व के लिए संख्या को मान के रूप में सेट करने के लिए उपयोग किया जाता है। यह मेथड तभी मान्य है जब इनपुट तत्व का प्रकार "number" हो।
+
+```java
+public void SetNumberValue(float value)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| मान | सिंगल | संख्या ऑब्जेक्ट। |
+
+### संबंधित देखें
+
+* class [InputElement](../)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../../)

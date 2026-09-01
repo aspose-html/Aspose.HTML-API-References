@@ -1,0 +1,26 @@
+---
+title: "GraphicContext.Transform"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "GraphicContext विधि। निर्दिष्ट मैट्रिक्स को गुणा करके वर्तमान ट्रांसफ़ॉर्मेशन मैट्रिक्स को संशोधित करें"
+type: docs
+
+url: /hi/java/com.aspose.html.rendering/graphiccontext/transform/
+---
+## GraphicContext.Transform method
+
+निर्दिष्ट मैट्रिक्स को गुणा करके वर्तमान ट्रांसफ़ॉर्मेशन मैट्रिक्स को संशोधित करता है।
+
+```java
+public void Transform(IMatrix matrix)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| मैट्रिक्स | IMatrix | ट्रांसफ़ॉर्मेशन मैट्रिक्स। |
+
+### संबंधित देखें
+
+* interface [IMatrix](../../../com.aspose.html.drawing/imatrix/)
+* class [GraphicContext](../)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
+* package [Aspose.HTML](../../../)

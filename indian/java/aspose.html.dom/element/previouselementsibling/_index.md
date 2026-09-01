@@ -1,0 +1,21 @@
+---
+title: "Element.PreviousElementSibling"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "Element property. इस तत्व का पिछला सिब्लिंग एलिमेंट नोड लौटाता है। यदि इस तत्व से पहले दस्तावेज़ ट्री में कोई सिब्लिंग एलिमेंट नोड नहीं है तो null।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom/element/previouselementsibling/
+---
+## Element.PreviousElementSibling property
+
+इस तत्व का पिछला सिब्लिंग एलिमेंट नोड लौटाता है। यदि इस तत्व से पहले दस्तावेज़ ट्री में कोई सिब्लिंग एलिमेंट नोड नहीं है तो null।
+
+```java
+public Element PreviousElementSibling { get; }
+```
+
+### संबंधित देखें
+
+* class [Element](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

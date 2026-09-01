@@ -1,0 +1,41 @@
+---
+title: "MutationRecord वर्ग"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "com.aspose.html.dom.mutations.MutationRecord वर्ग। एक MutationRecord व्यक्तिगत DOM परिवर्तन का प्रतिनिधित्व करता है। यह वह वस्तु है जो MutationObservers के MutationCallback को पास की जाती है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.mutations/mutationrecord/
+---
+## MutationRecord class
+
+एक MutationRecord व्यक्तिगत DOM परिवर्तन का प्रतिनिधित्व करता है। यह वह वस्तु है जो [`MutationObserver`](../mutationobserver/) के [`MutationCallback`](../mutationcallback/) को पास की जाती है।
+
+```java
+public class MutationRecord : DOMObject
+```
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+| [getAddedNodes](../../com.aspose.html.dom.mutations/mutationrecord/addednodes/) जोड़े गए नोड्स को लौटाएँ। |
+| [getAttributeName](../../com.aspose.html.dom.mutations/mutationrecord/attributename/) बदले गए गुण का स्थानीय नाम लौटाता है, अन्यथा null। |
+| [getAttributeNamespace](../../com.aspose.html.dom.mutations/mutationrecord/attributepackage/) बदले गए गुण का पैकेज लौटाता है, अन्यथा null। |
+| [getNextSibling](../../com.aspose.html.dom.mutations/mutationrecord/nextsibling/) जोड़े या हटाए गए नोड्स का अगला भाई-बहन लौटाता है, या null। |
+| [getOldValue](../../com.aspose.html.dom.mutations/mutationrecord/oldvalue/) वापसी मान प्रकार पर निर्भर करता है। "attributes" के लिए, यह परिवर्तन से पहले बदले गए गुण का मान होता है। "characterData" के लिए, यह परिवर्तन से पहले बदले गए नोड का डेटा होता है। "childList" के लिए, यह null होता है। |
+| [getPreviousSibling](../../com.aspose.html.dom.mutations/mutationrecord/previoussibling/) जोड़े या हटाए गए नोड्स का पिछला भाई-बहन लौटाता है, या null। |
+| [getRemovedNodes](../../com.aspose.html.dom.mutations/mutationrecord/removednodes/) हटाए गए नोड्स को लौटाएँ। |
+| [getTarget](../../com.aspose.html.dom.mutations/mutationrecord/target/) परिवर्तन द्वारा प्रभावित नोड को लौटाता है, प्रकार के आधार पर। "attributes" के लिए, यह वह तत्व है जिसका गुण बदला गया। "characterData" के लिए, यह CharacterData नोड है। "childList" के लिए, यह वह नोड है जिसके बच्चे बदले गए। |
+| [getType](../../com.aspose.html.dom.mutations/mutationrecord/type/) "attributes" लौटाता है यदि यह एक गुण परिवर्तन था, "characterData" यदि यह एक CharacterData नोड में परिवर्तन था और "childList" यदि यह नोड्स के वृक्ष में परिवर्तन था। |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | यह मेथड ECMAScript ऑब्जेक्ट को प्राप्त करने के लिए उपयोग किया जाता है। |
+
+### संबंधित देखें
+
+* class [DOMObject](../../com.aspose.html.dom/domobject/)
+* package [com.aspose.html.dom.mutations](../../com.aspose.html.dom.mutations/)
+* package [Aspose.HTML](../../)

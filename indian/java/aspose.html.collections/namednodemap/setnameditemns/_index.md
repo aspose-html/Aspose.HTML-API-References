@@ -1,0 +1,36 @@
+---
+title: "NamedNodeMap.SetNamedItemNS"
+second_title: "Aspose.HTML Java के लिए API संदर्भ"
+description: "NamedNodeMap मेथड। इसके packageURI और localName का उपयोग करके एक नोड जोड़ता है। यदि इस मानचित्र में उसी package URI और स्थानीय नाम वाला नोड पहले से मौजूद है तो उसे नए नोड से बदल दिया जाता है। स्वयं नोड को बदलने से कोई प्रभाव नहीं पड़ता।"
+type: docs
+
+url: /hi/java/com.aspose.html.collections/namednodemap/setnameditemns/
+---
+## NamedNodeMap.SetNamedItemNS method
+
+उसके packageURI और localName का उपयोग करके नोड जोड़ता है। यदि उसी पैकेज URI और स्थानीय नाम वाला नोड पहले से इस मानचित्र में मौजूद है, तो उसे नए नोड से बदल दिया जाता है। स्वयं नोड को बदलने से कोई प्रभाव नहीं पड़ता।
+
+```java
+public Attr SetNamedItemNS(Attr attr)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| attr | Attr | यह एट्रिब्यूट। |
+
+### रिटर्न वैल्यू
+
+नोड लौटाता है।
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) |  |
+
+### संबंधित देखें
+
+* class [Attr](../../../com.aspose.html.dom/attr/)
+* class [NamedNodeMap](../)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
+* package [Aspose.HTML](../../../)
