@@ -1,0 +1,26 @@
+---
+title: "MarkdownSyntaxVisitor.VisitAtxHeading"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Metodo MarkdownSyntaxVisitor. Definisce l'interfaccia per visitare AtxHeadingSyntax"
+type: docs
+
+url: /it/java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitatxheading/
+---
+## MarkdownSyntaxVisitor.VisitAtxHeading method
+
+Definisce l'interfaccia per visitare AtxHeadingSyntax.
+
+```java
+public void VisitAtxHeading(AtxHeadingSyntaxNode heading)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| intestazione | AtxHeadingSyntaxNode | Il AtxHeadingSyntax. |
+
+### Vedi anche
+
+* class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
+* class [MarkdownSyntaxVisitor](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

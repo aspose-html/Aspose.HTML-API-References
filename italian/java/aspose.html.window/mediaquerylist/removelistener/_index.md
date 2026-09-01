@@ -1,0 +1,26 @@
+---
+title: "MediaQueryList.RemoveListener"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "Metodo MediaQueryList. Rimuove l'ascoltatore dell'evento di cambiamento di stato delle corrispondenze di MediaQueryList"
+type: docs
+
+url: /it/java/com.aspose.html.window/mediaquerylist/removelistener/
+---
+## MediaQueryList.RemoveListener method
+
+Rimuovi listener per l'evento di cambio stato matches di MediaQueryList.
+
+```java
+public void RemoveListener(IEventListener listener)
+```
+
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| listener | IEventListener | Il parametro [`IEventListener`](../../../com.aspose.html.dom.events/ieventlistener/) indica il [`IEventListener`](../../../com.aspose.html.dom.events/ieventlistener/) da rimuovere. |
+
+### Vedi anche
+
+* interface [IEventListener](../../../com.aspose.html.dom.events/ieventlistener/)
+* class [MediaQueryList](../)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
+* package [Aspose.HTML](../../../)

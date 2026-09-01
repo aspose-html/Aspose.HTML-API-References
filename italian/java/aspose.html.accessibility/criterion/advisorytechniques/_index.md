@@ -1,0 +1,22 @@
+---
+title: "Criterion.AdvisoryTechniques"
+second_title: "Aspose.HTML per Java Riferimento API"
+description: "proprietà Criterion. I metodi sono di natura consigliativa"
+type: docs
+
+url: /it/java/com.aspose.html.accessibility/criterion/advisorytechniques/
+---
+## Criterion.AdvisoryTechniques property
+
+I metodi sono di natura consigliativa.
+
+```java
+public IList<IRule> AdvisoryTechniques { get; }
+```
+
+### Vedi anche
+
+* interface [IRule](../../irule/)
+* class [Criterion](../)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
