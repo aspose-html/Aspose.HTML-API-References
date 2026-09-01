@@ -1,0 +1,42 @@
+---
+title: "TypedArrayT Klasse"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "com.aspose.html.TypedArray1T klasse. TypedArray-objecten bieden een array-achtige weergave van een onderliggende binaire gegevensbuffer"
+type: docs
+
+url: /nl/java/com.aspose.html/typedarray-1/
+---
+## TypedArray&lt;T&gt; class
+
+TypedArray‑objecten bieden een array‑achtige weergave van een onderliggende binaire gegevensbuffer.
+
+```java
+public abstract class TypedArray<T> : TypedArray
+    where T : struct
+```
+
+| Parameter | Beschrijving |
+| --- | --- |
+| T | Het gegevenstype. |
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| [getBuffer](../../com.aspose.html/typedarray/buffer/) Haalt de ArrayBuffer op die door dit exemplaar wordt gerefereerd. |
+| [getByteLength](../../com.aspose.html/typedarray/bytelength/) Haalt de byteLength accessor-eigenschap op die de lengte van een ArrayBuffer in bytes weergeeft. |
+| [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Haalt de byteOffset op vanaf het begin van de gerefereerde ArrayBuffer. |
+| abstract [Item](../../com.aspose.html/typedarray-1/item/) { get; set; } | Haalt op of stelt de !:T in op de opgegeven index. |
+| [getLength](../../com.aspose.html/typedarray/length/) Haalt de lengte van een getypeerde array op. |
+
+## Methoden
+
+| Naam | Beschrijving |
+| --- | --- |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | Deze methode wordt gebruikt om het ECMAScript-object op te halen. |
+
+### Zie ook
+
+* class [TypedArray](../typedarray/)
+* package [com.aspose.html](../../com.aspose.html/)
+* package [Aspose.HTML](../../)
