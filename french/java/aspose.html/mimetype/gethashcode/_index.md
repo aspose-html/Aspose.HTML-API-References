@@ -1,0 +1,25 @@
+---
+title: "MimeType.GetHashCode"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "Méthode MimeType. Retourne un code de hachage pour cette instance"
+type: docs
+
+url: /fr/java/com.aspose.html/mimetype/gethashcode/
+---
+## MimeType.GetHashCode method
+
+Renvoie un code de hachage pour cette instance.
+
+```java
+public int GetHashCode()
+```
+
+### Valeur de retour
+
+Un code de hachage pour cette instance, adapté à une utilisation dans les algorithmes de hachage et les structures de données comme une table de hachage.
+
+### Voir aussi
+
+* class [MimeType](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

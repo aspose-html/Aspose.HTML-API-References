@@ -1,0 +1,26 @@
+---
+title: "IParentNode.LastElementChild"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "IParentNode propriété. Retourne le dernier enfant qui est un élément, sinon null"
+type: docs
+
+url: /fr/java/com.aspose.html.dom/iparentnode/lastelementchild/
+---
+## IParentNode.LastElementChild property
+
+Retourne le dernier enfant qui est un élément, sinon null.
+
+```java
+public Element LastElementChild { get; }
+```
+
+### Property Value
+
+Le dernier enfant d'élément.
+
+### Voir aussi
+
+* class [Element](../../element/)
+* interface [IParentNode](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

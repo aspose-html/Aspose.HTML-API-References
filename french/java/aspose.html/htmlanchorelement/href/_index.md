@@ -1,0 +1,21 @@
+---
+title: "HTMLAnchorElement.Href"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "HTMLAnchorElement propriété. L'URI absolu IETF RFC 2396 de la ressource liée. Voir la définition de l'attribut href dans HTML 4.01"
+type: docs
+
+url: /fr/java/com.aspose.html/htmlanchorelement/href/
+---
+## HTMLAnchorElement.Href property
+
+L'URI absolu [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] de la ressource liée. Voir la définition de l'attribut href dans HTML 4.01.
+
+```java
+public String Href { get; set; }
+```
+
+### Voir aussi
+
+* class [HTMLAnchorElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
