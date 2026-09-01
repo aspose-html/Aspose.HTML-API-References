@@ -1,0 +1,25 @@
+---
+title: "InputElement.SetRadioValue"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "InputElement メソッド。radio タイプの入力要素のチェック状態を設定します"
+type: docs
+
+url: /ja/java/com.aspose.html.forms/inputelement/setradiovalue/
+---
+## InputElement.SetRadioValue method
+
+ラジオタイプの入力要素のチェック状態を設定します。
+
+```java
+public void SetRadioValue(bool value)
+```
+
+| パラメータ | 型 | 説明 |
+| --- | --- | --- |
+| 値 | Boolean | チェック状態です。 |
+
+### 関連項目
+
+* class [InputElement](../)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../../)

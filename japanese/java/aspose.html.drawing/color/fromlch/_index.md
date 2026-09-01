@@ -1,0 +1,31 @@
+---
+title: "Color.FromLch"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "Color メソッド。要求された輝度、彩度、色相の値を持つ新しい Color を返します。"
+type: docs
+
+url: /ja/java/com.aspose.html.drawing/color/fromlch/
+---
+## Color.FromLch method
+
+要求された輝度、クロマ、色相値を持つ新しい Color を返します。
+
+```java
+public static Color FromLch(float luminance, float chroma, float hue)
+```
+
+| パラメータ | 型 | 説明 |
+| --- | --- | --- |
+| 輝度 | Single | 色の輝度成分を表す float。 |
+| クロマ | Single | 色のクロマ成分を表す float。 |
+| 色相 | Single | 色の色相成分を表す float。 |
+
+### 戻り値
+
+[`Color`](../) クラスの新しいインスタンス
+
+### 関連項目
+
+* class [Color](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

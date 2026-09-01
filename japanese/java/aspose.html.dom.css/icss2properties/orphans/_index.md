@@ -1,0 +1,25 @@
+---
+title: "ICSS2Properties.Orphans"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "ICSS2Properties プロパティ。orphans プロパティは、段落の下部にページの下に残す必要がある最小行数を指定します。widows プロパティは、段落の上部にページの上に残す必要がある最小行数を指定します。これらがページ区切りを制御するために使用される例は以下に示します。"
+type: docs
+
+url: /ja/java/com.aspose.html.dom.css/icss2properties/orphans/
+---
+## ICSS2Properties.Orphans property
+
+['orphans'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-orphans) プロパティは、段落の下部にページの下に残す必要がある最小行数を指定します。['widows'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-widows) プロパティは、段落の上部にページの上に残す必要がある最小行数を指定します。これらがページ区切りを制御するために使用される例は以下に示します。
+
+```java
+public String Orphans { get; set; }
+```
+
+### 戻り値
+
+orphans プロパティ
+
+### 関連項目
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
