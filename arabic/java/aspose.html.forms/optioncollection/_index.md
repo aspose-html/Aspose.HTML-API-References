@@ -1,0 +1,36 @@
+---
+title: "فئة OptionCollection"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "com.aspose.html.forms.OptionCollection فئة. يمثل OptionElements غلافًا مرتبطًا بـ IHTMLOptionsCollection"
+type: docs
+
+url: /ar/java/com.aspose.html.forms/optioncollection/
+---
+## OptionCollection class
+
+العنصر OptionElements يمثل غلافًا مرتبطًا بـ IHTMLOptionsCollection.
+
+```java
+public class OptionCollection : IEnumerable<OptionElement>
+```
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [getCount](../../com.aspose.html.forms/optioncollection/count/) عدد الخيارات في القائمة. |
+| [getItem](../../com.aspose.html.forms/optioncollection/item/) يحصل على الـ [`OptionElement`](../optionelement/) في الفهرس المحدد. |
+
+## الطرق
+
+| الاسم | الوصف |
+| --- | --- |
+| [add](../../com.aspose.html.forms/optioncollection/add/)() | إضافة خيار جديد. |
+| [getEnumerator](../../com.aspose.html.forms/optioncollection/getenumerator/)() | يرجع عدّادًا (enumerator) يتنقل عبر المجموعة. |
+| [remove](../../com.aspose.html.forms/optioncollection/remove/)(OptionElement) | إزالة الخيار من القائمة. |
+
+### انظر أيضًا
+
+* class [OptionElement](../optionelement/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../)

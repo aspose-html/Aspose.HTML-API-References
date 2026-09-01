@@ -1,0 +1,26 @@
+---
+title: "SVGGraphicsElement.GetScreenCTM"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "طريقة SVGGraphicsElement. تُرجع مصفوفة التحويل من وحدات المستخدم الحالية أي بعد تطبيق سمة transform إن وجدت على ملاحظة الوكيل الأب للبيكسل. بالنسبة لأجهزة العرض تمثل عادةً بكسل شاشة فعلي. بالنسبة للأجهزة أو البيئات التي لا تُعرف فيها أحجام البكسل الفعلية يمكن استخدام خوارزمية مشابهة لتعريف البكسل في CSS2. لاحظ أن القيمة Null تُرجع إذا لم يكن هذا العنصر مرتبطًا بشجرة المستند. كان من الأنسب تسمية هذه الطريقة getClientCTM لكن تم الإبقاء على الاسم getScreenCTM لأسباب تاريخية."
+type: docs
+
+url: /ar/java/com.aspose.html.dom.svg/svggraphicselement/getscreenctm/
+---
+## SVGGraphicsElement.GetScreenCTM method
+
+يرجع مصفوفة التحويل من وحدات المستخدم الحالية (أي بعد تطبيق سمة ‘transform’ إن وجدت) إلى ملاحظة الوكيل المستخدم الأب للـ \"pixel\". بالنسبة لأجهزة العرض، يمثل هذا عادةً بكسل الشاشة الفعلي. بالنسبة للأجهزة أو البيئات الأخرى التي لا تُعرف فيها أحجام البكسل الفعلية، يمكن استخدام خوارزمية مشابهة لتعريف CSS2 للـ \"pixel\". لاحظ أن القيمة Null تُعاد إذا لم يكن هذا العنصر مرتبطًا بشجرة المستند. كان من الأنسب تسمية هذه الطريقة getClientCTM، لكن تم الإبقاء على الاسم getScreenCTM لأسباب تاريخية.
+
+```java
+public SVGMatrix GetScreenCTM()
+```
+
+### قيمة الإرجاع
+
+كائن SVGMatrix يحدد مصفوفة التحويل المعطاة.
+
+### انظر أيضًا
+
+* class [SVGMatrix](../../../com.aspose.html.dom.svg.datatypes/svgmatrix/)
+* class [SVGGraphicsElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

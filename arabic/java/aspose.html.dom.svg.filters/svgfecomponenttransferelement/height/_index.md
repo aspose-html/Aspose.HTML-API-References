@@ -1,0 +1,26 @@
+---
+title: "SVGFEComponentTransferElement.Height"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية SVGFEComponentTransferElement. تتطابق مع السمة height في عنصر الفلتر المعطى"
+type: docs
+
+url: /ar/java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/height/
+---
+## SVGFEComponentTransferElement.Height property
+
+تتطابق مع السمة ‘height’ في عنصر ‘filter’ المحدد.
+
+```java
+public SVGAnimatedLength Height { get; }
+```
+
+### Property Value
+
+السمة ‘height’ لعنصر ‘filter’ المحدد.
+
+### انظر أيضًا
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGFEComponentTransferElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

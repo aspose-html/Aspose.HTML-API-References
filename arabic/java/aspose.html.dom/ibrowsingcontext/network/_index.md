@@ -1,0 +1,26 @@
+---
+title: "IBBrowsingContext.Network"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية IBBrowsingContext. تحصل على خدمات الشبكة"
+type: docs
+
+url: /ar/java/com.aspose.html.dom/ibrowsingcontext/network/
+---
+## IBrowsingContext.Network property
+
+يحصل على خدمات الشبكة.
+
+```java
+public INetwork Network { get; }
+```
+
+### Property Value
+
+خدمات الشبكة.
+
+### انظر أيضًا
+
+* interface [INetwork](../../../com.aspose.html.net/inetwork/)
+* interface [IBrowsingContext](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

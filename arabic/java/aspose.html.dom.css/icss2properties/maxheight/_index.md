@@ -1,0 +1,27 @@
+---
+title: "ICSS2Properties.MaxHeight"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية ICSS2Properties. تسمح هاتان الخاصيتان للمؤلفين بتقييد ارتفاع الصناديق إلى نطاق معين. القيم لها المعاني التالية"
+type: docs
+
+url: /ar/java/com.aspose.html.dom.css/icss2properties/maxheight/
+---
+## ICSS2Properties.MaxHeight property
+
+تسمح هاتان الخاصيتان للمؤلفين بتقييد ارتفاع الصناديق إلى نطاق معين. القيم لها المعاني التالية:
+
+'[length](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-length)' - يحدد ارتفاعًا محسوبًا ثابتًا كحد أدنى أو أقصى.'[percentage](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-percentage)' - يحدد نسبة مئوية لتحديد القيمة المحسوبة. تُحسب النسبة بالنسبة إلى ارتفاع [containing block](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#containing-block) للصندوق المُنشأ. إذا لم يتم تحديد ارتفاع كتلة الحاوية صراحةً (أي أنه يعتمد على ارتفاع المحتوى)، تُفسَّر القيمة النسبية كـ 'auto'.none - (فقط على ['max-height'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visudet.html#propdef-max-height)) لا حد لارتفاع الصندوق.
+
+```java
+public String MaxHeight { get; set; }
+```
+
+### قيمة الإرجاع
+
+خاصية max-height
+
+### انظر أيضًا
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

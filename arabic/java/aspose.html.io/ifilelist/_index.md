@@ -1,0 +1,28 @@
+---
+title: "واجهة IFileList"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "واجهة com.aspose.html.io.IFileList. تمثل الواجهة لقائمة الملفات."
+type: docs
+
+url: /ar/java/com.aspose.html.io/ifilelist/
+---
+## IFileList interface
+
+يمثل الواجهة لقائمة الملفات.
+
+```java
+public interface IFileList : IEnumerable<IFile>
+```
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [getItem](../../com.aspose.html.io/ifilelist/item/) يُعيد الملف ذو الفهرس index في القائمة. |
+| [getLength](../../com.aspose.html.io/ifilelist/length/) يُعيد طول قائمة الملفات. |
+
+### انظر أيضًا
+
+* interface [IFile](../ifile/)
+* package [com.aspose.html.io](../../com.aspose.html.io/)
+* package [Aspose.HTML](../../)

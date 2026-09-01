@@ -1,0 +1,21 @@
+---
+title: "SVGOptimizationOptions.RemoveEmptyText"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية SVGOptimizationOptions. الحصول أو تعيين الخيار لإزالة عناصر النص الفارغة. القيمة الافتراضية هي true."
+type: docs
+
+url: /ar/java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
+---
+## SVGOptimizationOptions.RemoveEmptyText property
+
+الحصول أو تعيين الخيار لإزالة عناصر النص الفارغة. القيمة الافتراضية هي 'true'.
+
+```java
+public bool RemoveEmptyText { get; set; }
+```
+
+### انظر أيضًا
+
+* class [SVGOptimizationOptions](../)
+* package [com.aspose.html.toolkit.optimizers](../../../com.aspose.html.toolkit.optimizers/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,21 @@
+---
+title: "HTMLTableElement.BgColor"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية HTMLTableElement. لون خلفية الخلية. راجع تعريف السمة bgcolor في HTML 4.01. هذه السمة مهجورة في HTML 4.01"
+type: docs
+
+url: /ar/java/com.aspose.html/htmltableelement/bgcolor/
+---
+## HTMLTableElement.BgColor property
+
+لون خلفية الخلية. راجع تعريف السمة bgcolor في HTML 4.01. هذه السمة مهجورة في HTML 4.01.
+
+```java
+public String BgColor { get; set; }
+```
+
+### انظر أيضًا
+
+* class [HTMLTableElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

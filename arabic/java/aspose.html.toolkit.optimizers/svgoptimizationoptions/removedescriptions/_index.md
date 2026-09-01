@@ -1,0 +1,21 @@
+---
+title: "SVGOptimizationOptions.RemoveDescriptions"
+second_title: "مرجع API لـ Aspose.HTML للـ Java"
+description: "خاصية SVGOptimizationOptions. الحصول أو تعيين الخيار لإزالة محتوى المحررين فقط أو العناصر الفارغة. القيمة الافتراضية هي true."
+type: docs
+
+url: /ar/java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/removedescriptions/
+---
+## SVGOptimizationOptions.RemoveDescriptions property
+
+الحصول أو تعيين الخيار لإزالة محتوى المحررين فقط أو العناصر الفارغة. القيمة الافتراضية هي 'true'.
+
+```java
+public bool RemoveDescriptions { get; set; }
+```
+
+### انظر أيضًا
+
+* class [SVGOptimizationOptions](../)
+* package [com.aspose.html.toolkit.optimizers](../../../com.aspose.html.toolkit.optimizers/)
+* package [Aspose.HTML](../../../)
