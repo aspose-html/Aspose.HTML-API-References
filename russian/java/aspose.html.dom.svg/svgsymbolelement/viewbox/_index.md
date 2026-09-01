@@ -1,0 +1,26 @@
+---
+title: "SVGSymbolElement.ViewBox"
+second_title: "Справочник API Aspose.HTML для Java"
+description: "SVGSymbolElement свойство. Соответствует атрибуту viewBox в данном элементе"
+type: docs
+
+url: /ru/java/com.aspose.html.dom.svg/svgsymbolelement/viewbox/
+---
+## SVGSymbolElement.ViewBox property
+
+Соответствует атрибуту ‘viewBox’ данного элемента.
+
+```java
+public SVGAnimatedRect ViewBox { get; }
+```
+
+### Property Value
+
+‘viewBox’ данного элемента.
+
+### См. также
+
+* class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
+* class [SVGSymbolElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)
