@@ -1,0 +1,76 @@
+---
+title: "Entity-klass"
+second_title: "Aspose.HTML för Java API-referens"
+description: "com.aspose.html.dom.Entity-klass. Representerar en känd entitet som antingen är parsad eller oparsad i ett XML-dokument."
+type: docs
+
+url: /sv/java/com.aspose.html.dom/entity/
+---
+## Entity class
+
+Representerar en känd entitet, antingen parsad eller oparsad, i ett XML-dokument.
+
+```java
+public class Entity : Node
+```
+
+## Egenskaper
+
+| Namn | Beskrivning |
+| --- | --- |
+| [getBaseURI](../../com.aspose.html.dom/node/baseuri/) Den skrivskyddade baseURI‑egenskapen i Node‑gränssnittet returnerar den absoluta bas‑URL:en för dokumentet som innehåller noden. |
+| [getChildNodes](../../com.aspose.html.dom/node/childnodes/) Den skrivskyddade childNodes‑egenskapen i Node‑gränssnittet returnerar en levande [`NodeList`](../../com.aspose.html.collections/nodelist/) av barnnoder för det angivna elementet där den första barnnoden får index 0. Barnnoder inkluderar element, text och kommentarer. |
+| [getFirstChild](../../com.aspose.html.dom/node/firstchild/) Den skrivskyddade firstChild‑egenskapen i [`Node`](../node/)‑gränssnittet returnerar nodens första barn i trädet, eller null om noden saknar barn. |
+| [getInputEncoding](../../com.aspose.html.dom/entity/inputencoding/) Ett attribut som specificerar den kodning som används för denna entitet vid parsning, när den är en extern parsad entitet. Detta är null om det är en entitet från den interna delmängden eller om den inte är känd. |
+| [getLastChild](../../com.aspose.html.dom/node/lastchild/) Den skrivskyddade lastChild‑egenskapen i [`Node`](../node/)‑gränssnittet returnerar nodens sista barn. Om dess förälder är ett element är barnet vanligtvis ett element‑nod, ett text‑nod eller ett kommentars‑nod. Den returnerar null om det inte finns några barn‑element. |
+| [getLocalName](../../com.aspose.html.dom/node/localname/) Returnerar den lokala delen av det kvalificerade namnet för denna nod. För noder av någon annan typ än [`ELEMENT_NODE`](../node/element_node/) och [`ATTRIBUTE_NODE`](../node/attribute_node/) samt noder som skapats med en DOM Level 1‑metod, såsom [`Document.createElement()`](../document/createelement/), är detta alltid null. |
+| [getNamespaceURI](../../com.aspose.html.dom/node/packageuri/) Den skrivskyddade egenskapen Element.packageURI returnerar paket‑URI:n för elementet, eller null om elementet inte är i ett paket. |
+| [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) Den skrivskyddade nextSibling‑egenskapen i [`Node`](../node/)‑gränssnittet returnerar noden som omedelbart följer den angivna i deras förälders [`childNodes`](../node/childnodes/), eller returnerar null om den angivna noden är det sista barnet i förälderelementet. |
+| [getNodeName](../../com.aspose.html.dom/entity/nodename/) Namnet på denna nod, beroende på dess typ. |
+| [getNodeType](../../com.aspose.html.dom/entity/nodetype/) En kod som representerar typen av det underliggande objektet. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | nodeValue‑egenskapen för [`Node `](../node/)‑gränssnittet returnerar eller sätter värdet på den aktuella noden. |
+| [getNotationName](../../com.aspose.html.dom/entity/notationname/) För oparsade entiteter, namnet på notation för entiteten. För parsade entiteter är detta null. |
+| [getOwnerDocument](../../com.aspose.html.dom/node/ownerdocument/) Den skrivskyddade ownerDocument‑egenskapen i Node‑gränssnittet returnerar nodens översta dokumentobjekt. |
+| [getParentElement](../../com.aspose.html.dom/node/parentelement/) Den skrivskyddade parentElement‑egenskapen i [`Node`](../node/)‑gränssnittet returnerar DOM‑nodens föräldra‑[`Element`](../element/), eller null om noden saknar förälder eller om dess förälder inte är ett DOM‑Element. |
+| [getParentNode](../../com.aspose.html.dom/node/parentnode/) Den skrivskyddade parentNode‑egenskapen i Node‑gränssnittet returnerar den angivna nodens förälder i DOM‑trädet. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | Den skrivskyddade egenskapen prefix returnerar paket‑prefixet för det angivna elementet, eller null om inget prefix har angetts. |
+| [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) Den skrivskyddade previousSibling‑egenskapen i [`Node`](../node/)‑gränssnittet returnerar noden som omedelbart föregår den angivna i dess förälders [`childNodes`](../node/firstchild/)‑lista, eller null om den angivna noden är den första i listan. |
+| [getPublicId](../../com.aspose.html.dom/entity/publicid/) Den offentliga identifieraren som är associerad med entiteten om den är angiven, annars null. |
+| [getSystemId](../../com.aspose.html.dom/entity/systemid/) Systemidentifieraren som är associerad med entiteten om den är angiven, annars null. Detta kan vara en absolut URI eller inte. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | textContent‑egenskapen för [`Node`](../node/)‑gränssnittet representerar textinnehållet i noden och dess underordnade. |
+| [getXmlEncoding](../../com.aspose.html.dom/entity/xmlencoding/) Ett attribut som specificerar, som en del av textdeklarationen, kodningen för denna entitet när den är en extern parsad entitet. Detta är annars null. |
+| [getXmlVersion](../../com.aspose.html.dom/entity/xmlversion/) Ett attribut som specificerar, som en del av textdeklarationen, versionsnumret för denna entitet när den är en extern parsad entitet. Detta är annars null. |
+
+## Metoder
+
+| Namn | Beskrivning |
+| --- | --- |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | addEventListener()‑metoden i [`EventTarget `](../eventtarget/)‑gränssnittet ställer in en funktion som kommer att anropas när den angivna händelsen levereras till målet. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | addEventListener()-metoden i [EventTarget ](T:com.aspose.html.dom.EventTarget)gränssnittet ställer in en funktion som kommer att anropas när den specificerade händelsen levereras till målet. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | addEventListener()-metoden i [EventTarget ](T:com.aspose.html.dom.EventTarget)gränssnittet ställer in en funktion som kommer att anropas när den specificerade händelsen levereras till målet. |
+| [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | appendChild()-metoden i Node-gränssnittet lägger till en nod i slutet av listan med barn till en specificerad föräldranod. Om den angivna barnet är en referens till en befintlig nod i dokumentet, flyttar appendChild() den från sin nuvarande position till den nya positionen (det krävs inte att noden tas bort från sin föräldranod innan den läggs till i någon annan nod). |
+| [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | cloneNode()-metoden i Node-gränssnittet returnerar en duplikat av den nod som metoden anropades på. Dess parameter styr om underträdet som finns i en nod också klonas eller inte. |
+| [cloneNode](../../com.aspose.html.dom/node/clonenode/)(bool) | cloneNode()-metoden i Node-gränssnittet returnerar en duplikat av den nod som metoden anropades på. Dess parameter styr om underträdet som finns i en nod också klonas eller inte. |
+| [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Skickar ett Event till den specificerade [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synkront) och anropar de påverkade EventListeners i rätt ordning. De vanliga händelsebehandlingsreglerna (inklusive fångst- och valfri bubbelfas) gäller också för händelser som skickas manuellt med [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
+| [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Utför applikationsdefinierade uppgifter som är kopplade till att frigöra, släppa eller återställa ohanterade resurser. |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | Denna metod används för att hämta ECMAScript-objektet. |
+| [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | hasChildNodes()‑metoden i Node‑gränssnittet returnerar ett booleskt värde som indikerar om den givna [`Node`](../node/) har barnnoder eller inte. |
+| [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | insertBefore()-metoden i Node-gränssnittet infogar en nod före en referensnod som ett barn till en specificerad föräldranod. |
+| [isDefaultNamespace](../../com.aspose.html.dom/node/isdefaultpackage/)(String) | isDefaultNamespace()-metoden i Node-gränssnittet accepterar ett paket-URI som argument. Den returnerar ett booleskt värde som är true om paketet är standardpaketet på den givna noden och false om det inte är det. |
+| [isEqualNode](../../com.aspose.html.dom/node/isequalnode/)(Node) | isEqualNode()‑metoden i [`Node`](../node/)‑gränssnittet testar om två noder är lika. Två noder är lika när de har samma typ, definierande egenskaper (för element skulle detta vara deras ID, antal barn osv.), deras attribut matchar, osv. Den specifika uppsättningen av datapunkter som måste matcha varierar beroende på nodernas typer. |
+| [isSameNode](../../com.aspose.html.dom/node/issamenode/)(Node) | isSameNode()-metoden i Node-gränssnittet är ett äldre alias för ===-operatorn för strikt likhet. Det vill säga, den testar om två noder är samma (med andra ord, om de refererar till samma objekt). |
+| [lookupNamespaceURI](../../com.aspose.html.dom/node/lookuppackageuri/)(String) | lookupNamespaceURI()-metoden i Node-gränssnittet tar ett prefix som parameter och returnerar paket-URI:n som är associerad med det på den givna noden om den finns (och null annars). |
+| [lookupPrefix](../../com.aspose.html.dom/node/lookupprefix/)(String) | lookupPrefix()-metoden i Node-gränssnittet returnerar en sträng som innehåller prefixet för ett givet paket-URI, om det finns, och null annars. När flera prefix är möjliga returneras det första prefixet. |
+| [normalize](../../com.aspose.html.dom/node/normalize/)() | Sätter alla [`Text`](../text/)‑noder i hela djupet av delträdet under denna Node, inklusive attributnoder, i ett "normalt" format där endast strukturen (t.ex. [`elements`](../element/), [`comments`](../comment/), [`processing instructions`](../processinginstruction/), [`CDATA sections`](../cdatasection/), och [`entity references`](../entityreference/)) separerar [`Text`](../text/)‑noder, d.v.s. det finns varken intilliggande Text‑noder eller tomma Text‑noder. Detta kan användas för att säkerställa att DOM‑vyn av ett dokument är densamma som om det sparades och laddades om, och är användbart när operationer (såsom XPointer‑uppslagningar [XPointer]) som beror på en viss dokumentträdstruktur ska användas. Om parametern "normalize-characters" för [`DOMConfiguration`](../../com.aspose.html/configuration/)‑objektet som är kopplat till [`Node.ownerDocument`](../node/ownerdocument/) är true, kommer denna metod även att fullständigt normalisera tecknen i Text‑noderna. |
+| [removeChild](../../com.aspose.html.dom/node/removechild/)(Node) | Metoden removeChild() i Node‑gränssnittet tar bort en barnnod från DOM och returnerar den borttagna noden. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener) | Denna metod möjliggör borttagning av event‑lyssnare från händelsemålet. Om en tas bort från ett mål medan det bearbetar en händelse, kommer den inte att utlösas av de aktuella åtgärderna. Event Listeners kan aldrig anropas efter att de har tagits bort. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, DOMEventHandler, bool) | Denna metod möjliggör borttagning av event‑lyssnare från händelsemålet. Om en tas bort från ett mål medan det bearbetar en händelse, kommer den inte att utlösas av de aktuella åtgärderna. Event Listeners kan aldrig anropas efter att de har tagits bort. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener, bool) | Denna metod möjliggör borttagning av event‑lyssnare från händelsemålet. Om en tas bort från ett mål medan det bearbetar en händelse, kommer den inte att utlösas av de aktuella åtgärderna. Event Listeners kan aldrig anropas efter att de har tagits bort. |
+| [replaceChild](../../com.aspose.html.dom/node/replacechild/)(Node, Node) | Ersätter barnnoden oldChild med newChild i listan av barn, och returnerar oldChild‑noden. Om newChild är ett [`DocumentFragment`](../documentfragment/)‑objekt ersätts oldChild av alla [`DocumentFragment`](../documentfragment/)‑barn, som infogas i samma ordning. Om newChild redan finns i trädet tas den först bort. |
+| [toString](../../com.aspose.html.dom/node/toString/)() | Returnerar en sträng som representerar detta objekt. |
+
+### Se även
+
+* class [Node](../node/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../)

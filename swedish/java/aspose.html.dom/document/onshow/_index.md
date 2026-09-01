@@ -1,0 +1,22 @@
+---
+title: "Document.OnShow"
+second_title: "Aspose.HTML för Java API-referens"
+description: "Document‑händelse. Hämtar eller anger händelsehanterare för OnShow‑händelsen"
+type: docs
+
+url: /sv/java/com.aspose.html.dom/document/onshow/
+---
+## Document.OnShow event
+
+Hämtar eller anger händelsehanterare för OnShow‑händelsen.
+
+```java
+public event DOMEventHandler OnShow;
+```
+
+### Se även
+
+* delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

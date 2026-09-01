@@ -1,0 +1,21 @@
+---
+title: "HTMLAnchorElement.AccessKey"
+second_title: "Aspose.HTML för Java API-referens"
+description: "HTMLAnchorElement property. En enda tecken‑snabbtangent för att ge åtkomst till formulärkontrollen. Se definitionen av attributet accesskey i HTML 4.01"
+type: docs
+
+url: /sv/java/com.aspose.html/htmlanchorelement/accesskey/
+---
+## HTMLAnchorElement.AccessKey property
+
+En enkel teckenåtkomstnyckel för att ge åtkomst till formulärkontrollen. Se definitionen av accesskey-attributet i HTML 4.01.
+
+```java
+public String AccessKey { get; set; }
+```
+
+### Se även
+
+* class [HTMLAnchorElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
