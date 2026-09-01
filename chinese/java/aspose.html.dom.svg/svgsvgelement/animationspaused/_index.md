@@ -1,0 +1,25 @@
+---
+title: "SVGSVGElement.AnimationsPaused"
+second_title: "Aspose.HTML for Java API 参考"
+description: "SVGSVGElement 方法。如果此 SVG 文档片段处于暂停状态，则返回 true。"
+type: docs
+
+url: /zh/java/com.aspose.html.dom.svg/svgsvgelement/animationspaused/
+---
+## SVGSVGElement.AnimationsPaused method
+
+如果此 SVG 文档片段处于暂停状态，则返回 true。
+
+```java
+public bool AnimationsPaused()
+```
+
+### 返回值
+
+布尔值，指示此 SVG 文档片段是否处于暂停状态。
+
+### 另请参见
+
+* class [SVGSVGElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)
