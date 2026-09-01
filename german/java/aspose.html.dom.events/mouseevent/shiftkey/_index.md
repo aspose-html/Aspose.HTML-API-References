@@ -1,0 +1,25 @@
+---
+title: "MouseEvent.ShiftKey"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "MouseEvent-Eigenschaft. Verweisen Sie auf das shiftKey-Attribut"
+type: docs
+
+url: /de/java/com.aspose.html.dom.events/mouseevent/shiftkey/
+---
+## MouseEvent.ShiftKey property
+
+Verweisen Sie auf das shiftKey-Attribut.
+
+```java
+public bool ShiftKey { get; }
+```
+
+### Property Value
+
+`true` wenn [shift key]; andernfalls `false`.
+
+### Siehe auch
+
+* class [MouseEvent](../)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
+* package [Aspose.HTML](../../../)

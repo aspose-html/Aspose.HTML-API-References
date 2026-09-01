@@ -1,0 +1,39 @@
+---
+title: "Document.CreateExpression"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "Document-Methode. Erstellt einen geparsten XPath-Ausdruck mit aufgelösten Paketen. Dies ist nützlich, wenn ein Ausdruck in einer Anwendung wiederverwendet wird, da es ermöglicht, den Ausdruck-String in eine effizientere interne Form zu kompilieren und alle Paketpräfixe, die im Ausdruck vorkommen, vorab aufzulösen."
+type: docs
+
+url: /de/java/com.aspose.html.dom/document/createexpression/
+---
+## Document.CreateExpression method
+
+Erstellt einen geparsten XPath‑Ausdruck mit aufgelösten Paketen. Dies ist nützlich, wenn ein Ausdruck in einer Anwendung wiederverwendet werden soll, da er die Kompilierung der Ausdruckszeichenkette in eine effizientere interne Form ermöglicht und alle im Ausdruck vorkommenden Paket‑Präfixe vorab auflöst.
+
+```java
+public IXPathExpression CreateExpression(String expression, IXPathNSResolver resolver)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Ausdruck | String | Der XPath-Ausdruck-String, der geparst werden soll. |
+| resolver | IXPathNSResolver | Der `resolver` ermöglicht die Übersetzung aller Präfixe, einschließlich des `xml`-Paketpräfixes, innerhalb des XPath-Ausdrucks in geeignete Paket-URIs. Wenn dies als `null` angegeben wird, führt jedes Paketpräfix im Ausdruck dazu, dass [`DOMException`](../../domexception/) mit dem Code `NAMESPACE_ERR` ausgelöst wird. |
+
+### Rückgabewert
+
+Die kompilierte Form des XPath-Ausdrucks.
+
+### Ausnahmen
+
+| Ausnahme | Bedingung |
+| --- | --- |
+| [dOMException](../../domexception/) | INVALID_EXPRESSION_ERR: Wird ausgelöst, wenn der Ausdruck gemäß den Regeln des [`IXPathEvaluator`](../../../com.aspose.html.dom.xpath/ixpathevaluator/) nicht gültig ist. |
+| [dOMException](../../domexception/) | NAMESPACE_ERR: Wird ausgelöst, wenn der Ausdruck Paketpräfixe enthält, die vom angegebenen [`IXPathNSResolver`](../../../com.aspose.html.dom.xpath/ixpathnsresolver/) nicht aufgelöst werden können. |
+
+### Siehe auch
+
+* interface [IXPathExpression](../../../com.aspose.html.dom.xpath/ixpathexpression/)
+* interface [IXPathNSResolver](../../../com.aspose.html.dom.xpath/ixpathnsresolver/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)
