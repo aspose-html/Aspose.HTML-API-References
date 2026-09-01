@@ -1,0 +1,25 @@
+---
+title: "SVGLength.ToString"
+second_title: "Referencia de la API de Aspose.HTML para Java"
+description: "Método SVGLength. Devuelve un String que representa esta instancia"
+type: docs
+
+url: /es/java/com.aspose.html.dom.svg.datatypes/svglength/toString/
+---
+## SVGLength.ToString method
+
+Devuelve una cadena que representa esta instancia.
+
+```java
+public String ToString()
+```
+
+### Valor devuelto
+
+Un String que representa esta instancia.
+
+### Ver también
+
+* class [SVGLength](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)
