@@ -1,0 +1,29 @@
+---
+title: "Element.QuerySelector"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "Element 메서드. 선택자와 일치하는 문서 내 첫 번째 Element를 반환합니다."
+type: docs
+
+url: /ko/java/com.aspose.html.dom/element/queryselector/
+---
+## Element.QuerySelector method
+
+문서에서 선택자와 일치하는 첫 번째 Element를 반환합니다.
+
+```java
+public Element QuerySelector(String selector)
+```
+
+| Parameter | Type | 설명 |
+| --- | --- | --- |
+| 선택자 | String | 선택자. |
+
+### 반환 값
+
+일치하는 요소
+
+### 또 보기
+
+* class [Element](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

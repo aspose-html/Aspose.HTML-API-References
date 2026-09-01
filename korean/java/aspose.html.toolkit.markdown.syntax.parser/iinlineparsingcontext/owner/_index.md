@@ -1,0 +1,22 @@
+---
+title: "IInlineParsingContext.Owner"
+second_title: "Java용 Aspose.HTML API 참조"
+description: "IInlineParsingContext 속성. Owner를 가져옵니다"
+type: docs
+
+url: /ko/java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/
+---
+## IInlineParsingContext.Owner property
+
+Owner를 가져옵니다.
+
+```java
+public MarkdownSyntaxNode Owner { get; }
+```
+
+### 또 보기
+
+* class [MarkdownSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)
+* interface [IInlineParsingContext](../)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [Aspose.HTML](../../../)
