@@ -3,7 +3,7 @@ title: ResourceHandler.HandleResourceReference
 second_title: Aspose.HTML for .NET API Reference
 description: ResourceHandler HandleResourceReference method. This method is responsible for handling the resource reference. In this method you can set what the reference to the resource being handled will look like
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/
 ---
 ## ResourceHandler.HandleResourceReference method

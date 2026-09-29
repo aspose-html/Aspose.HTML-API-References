@@ -26,6 +26,7 @@ public class FileSystemResourceHandler : ResourceHandler
 | Name | Description |
 | --- | --- |
 | override [HandleResource](../../aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresource/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.html.saving/resource/) to the stream or embed it into the parent resource. |
+| override [HandleResourceAsync](../../aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresourceasync/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/), CancellationToken*) | This method is responsible for handling the resource asynchronously when the document is saved with a `SaveAsync` method. The resource is serialized to memory and written to the file system asynchronously as soon as it has been serialized; the main document is written once the whole document has been serialized. |
 | virtual [HandleResourceReference](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
 
 ### See Also

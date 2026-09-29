@@ -19,6 +19,7 @@ public abstract class ResourceHandler
 | Name | Description |
 | --- | --- |
 | abstract [HandleResource](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresource/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.html.saving/resource/) to the stream or embed it into the parent resource. |
+| virtual [HandleResourceAsync](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresourceasync/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/), CancellationToken*) | This method is responsible for handling the resource asynchronously when the document is saved with a `SaveAsync` method. In it you can save the [`Resource`](../../aspose.html.saving/resource/) to the stream or embed it into the parent resource, and then complete the work asynchronously, for example write the saved content to a remote storage. |
 | virtual [HandleResourceReference](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
 
 ### See Also
